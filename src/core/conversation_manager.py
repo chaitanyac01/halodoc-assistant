@@ -146,7 +146,15 @@ class ConversationManager:
             logger.info(f"Successfully loaded FAQ documents from {pdf_directory}")
         except Exception as e:
             logger.error(f"Error loading FAQ documents: {str(e)}")
-    
+   
+
+    def load_catalog_documents(self, csv_path: str):
+        """Load Catalog documents from a CSV file"""
+        try:
+            self.vector_store.load_csv_directory(csv_path)
+        except Exception as e:
+            logger.error(f"Error loading Catalog documents from CSV: {str(e)}")
+ 
     def get_session_summary(self, session_id: str) -> Dict[str, Any]:
         """Get a summary of the conversation session"""
         session = self.get_session(session_id)

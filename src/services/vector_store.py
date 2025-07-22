@@ -211,3 +211,70 @@ class VectorStore:
             logger.info("Collection cleared successfully")
         except Exception as e:
             logger.error(f"Error clearing collection: {str(e)}")
+
+    def process_csv(self, csv_path: str) -> List[Dict[str, str]]:
+        import pandas as pd
+
+        all_chunks = []
+
+        try:
+            df = pd.read_csv(csv_path)
+
+            for idx, row in df.iterrows():
+                row_text = " | ".join(f"{col}: {val}" for col, val in row.items() if pd.notna(val))
+                cleaned_text = self._clean_text(row_text)
+
+                # Use new chunking method
+                row_chunks = self._chunk_csv_row(cleaned_text, row_index=idx, source=csv_path)
+                all_chunks.extend(row_chunks)
+
+            logger.info(f"Extracted {len(all_chunks)} chunks from {csv_path}")
+            return all_chunks
+
+        except Exception as e:
+            logger.error(f"Error processing CSV {csv_path}: {str(e)}")
+            return []
+
+    def _chunk_csv_row(self, row_text: str, row_index: int, source: str, chunk_size: int = 500) -> List[Dict[str, str]]:
+        """Split CSV row text into overlapping chunks"""
+        chunks = []
+        sentences = row_text.split('. ')
+        current_chunk = ""
+
+        for sentence in sentences:
+            if len(current_chunk) + len(sentence) < chunk_size:
+                current_chunk += sentence + ". "
+            else:
+                if current_chunk:
+                    chunks.append({
+                        "content": current_chunk.strip(),
+                        "page": row_index + 1,
+                        "source": os.path.basename(source),
+                        "chunk_id": hashlib.md5((current_chunk + str(row_index)).encode()).hexdigest()
+                    })
+                current_chunk = sentence + ". "
+
+        # Add final chunk
+        if current_chunk:
+            chunks.append({
+                "content": current_chunk.strip(),
+                "page": row_index + 1,
+                "source": os.path.basename(source),
+                "chunk_id": hashlib.md5((current_chunk + str(row_index)).encode()).hexdigest()
+            })
+
+        return chunks
+    
+    def load_csv_directory(self, directory: str):
+        """Load all CSVs from a directory into the vector store"""
+        csv_files = list(Path(directory).glob("*.csv"))
+        logger.info(f"Found {len(csv_files)} CSV files to process")
+
+        all_chunks = []
+        for csv_file in csv_files:
+            chunks = self.process_csv(str(csv_file))
+            all_chunks.extend(chunks)
+
+        if all_chunks:
+            self._add_documents(all_chunks)
+            logger.info(f"Successfully loaded {len(all_chunks)} chunks from {len(csv_files)} CSVs")

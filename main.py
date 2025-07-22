@@ -246,6 +246,20 @@ I can help you with:
             console.print("[yellow]ℹ No FAQ documents found. Please add PDF files to data/faq_documents/[/yellow]")
             faq_dir.mkdir(parents=True, exist_ok=True)
     
+    def load_catalog_documents(self):
+        """Load catalog documents if directory exists"""
+        faq_dir = Path("data/catalog_documents")
+        if faq_dir.exists():
+            console.print("[yellow]Loading Catalog documents...[/yellow]")
+            try:
+                self.conversation_manager.load_catalog_documents(str(faq_dir))
+                console.print("[green]✓ Catalog documents loaded successfully![/green]")
+            except Exception as e:
+                console.print(f"[red]Failed to load Catalog documents: {str(e)}[/red]")
+        else:
+            console.print("[yellow]ℹ No catalog documents found. Please add csv files to data/catalog_documents/[/yellow]")
+            faq_dir.mkdir(parents=True, exist_ok=True)
+    
     async def run(self):
         """Run the assistant"""
         console.clear()
@@ -253,6 +267,9 @@ I can help you with:
         
         # Load FAQ documents
         self.load_faq_documents()
+
+        # Load Catalog documents
+        self.load_catalog_documents()
         
         console.print("\n[bold]Ready to assist you! Type your questions below:[/bold]\n")
         
