@@ -134,35 +134,39 @@ class VectorStore:
             self._add_documents(all_chunks)
             logger.info(f"Successfully loaded {len(all_chunks)} chunks from {len(pdf_files)} PDFs")
     
-    def _add_documents(self, chunks: List[Dict[str, str]]):
-        """Add document chunks to the vector store"""
-        # Prepare data for ChromaDB
-        documents = [chunk["content"] for chunk in chunks]
-        metadatas = [{
-            "page": chunk["page"],
-            "source": chunk["source"],
-            "chunk_id": chunk["chunk_id"]
-        } for chunk in chunks]
-        ids = [chunk["chunk_id"] for chunk in chunks]
-        
-        # Generate embeddings in a thread to avoid event loop conflicts
-        def generate_embeddings():
-            return self.embedding_model.encode(documents).tolist()
-        
-        # Run in a separate thread
-        with ThreadPoolExecutor() as executor:
-            future = executor.submit(generate_embeddings)
-            embeddings = future.result()
-        
-        # Add to collection
-        self.collection.add(
-            documents=documents,
-            embeddings=embeddings,
-            metadatas=metadatas,
-            ids=ids
-        )
-        
-        logger.info(f"Added {len(documents)} documents to vector store")
+    def _add_documents(self, chunks: List[Dict[str, str]], batch_size: int = 5000):
+        from math import ceil
+
+        total = len(chunks)
+        num_batches = ceil(total / batch_size)
+
+        for i in range(num_batches):
+            batch = chunks[i * batch_size: (i + 1) * batch_size]
+
+            documents = [chunk["content"] for chunk in batch]
+            metadatas = [{
+                "page": chunk.get("page", None),
+                "source": chunk.get("source", None),
+                "chunk_id": chunk["chunk_id"]
+            } for chunk in batch]
+            ids = [chunk["chunk_id"] for chunk in batch]
+
+            def generate_embeddings():
+                return self.embedding_model.encode(documents).tolist()
+
+            with ThreadPoolExecutor() as executor:
+                future = executor.submit(generate_embeddings)
+                embeddings = future.result()
+
+            self.collection.upsert(
+                documents=documents,
+                embeddings=embeddings,
+                metadatas=metadatas,
+                ids=ids
+            )
+
+            logger.info(f"Upserted batch {i + 1}/{num_batches} with {len(batch)} documents")
+
     
     async def search(self, query: str, k: int = 5) -> List[Dict[str, any]]:
         """Search for relevant documents"""
