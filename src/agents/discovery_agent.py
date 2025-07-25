@@ -8,16 +8,16 @@ class DiscoveryAgent(BaseAgent):
     def __init__(self, model_name: str, api_key: str, vector_store: VectorStore):
         super().__init__(AgentType.DISCOVERY, model_name, api_key)
         self.vector_store = vector_store
-        self.services_catalog = self._load_services_catalog()
-    
+
     def _get_system_prompt(self) -> str:
         return """You are the Discovery Agent for Halodoc's Homecare Services.
 
 Your role is to:
-1. Answer questions about Halodoc's homecare services
+1. Answer questions about Halodoc's Homecare services
 2. Provide accurate information from our FAQ and service catalog
 3. Help users understand our offerings
 4. Guide users on service selection
+5. Provide pricing information when available
 
 Available Homecare Services:
 - Nurse Home Visit: Professional nursing care at home
@@ -31,11 +31,12 @@ Available Homecare Services:
 
 Response Guidelines:
 - Be informative and friendly
-- Use retrieved context to provide accurate information
-- If unsure, acknowledge and offer to connect with specialists
-- Always mention service benefits and unique features
-- Include pricing information when available"""
-    
+- Always use retrieved context to provide accurate and specific answers
+- Include **pricing details** when available in the retrieved documents
+- If you can't find the price, clearly mention that it's not available right now and suggest checking with a support executive
+- Mention benefits and key features of the service in a user-friendly tone
+- If unsure, acknowledge and offer to connect with a specialist"""
+
     def _load_services_catalog(self) -> Dict:
         # In production, load from database or file
         return {
@@ -68,7 +69,7 @@ Response Guidelines:
                 "popular_tests": ["CBC", "Diabetes panel", "Thyroid", "Lipid profile"]
             }
         }
-    
+
     async def _process_specific(self, query: str, context: ConversationContext) -> AgentResponse:
         try:
             # Retrieve relevant information from vector store
@@ -76,35 +77,58 @@ Response Guidelines:
             
             # Build context from retrieved documents
             retrieved_context = "\n".join([doc["content"] for doc in relevant_docs])
+
+            # Catalog search with location-enhanced query
+            catalog_results = await self.vector_store.search_catalog_collection(
+                query, k=5
+            )
+
+            if catalog_results:
+               catalog_context = "\n".join([doc["content"] for doc in catalog_results]) if catalog_results else ""
+
             
-            # Generate response with RAG
+               return AgentResponse(
+                    agent_type=self.agent_type,
+                    content=catalog_context,
+                    metadata={
+                        "retrieved_docs": len(relevant_docs) + len(catalog_results),
+                        "sources": [doc.get("source", "Catalog") for doc in relevant_docs + catalog_results]
+                    },
+                    confidence=0.9,
+                    requires_handoff=False
+                )
+
             rag_prompt = f"""{self.system_prompt}
 
 Retrieved Information:
 {retrieved_context}
 
 Service Catalog Summary:
-{json.dumps(self.services_catalog, indent=2)}
+{catalog_context}
 
 User Query: {query}
 
-Provide a helpful and informative response based on the retrieved information and service catalog."""
+Instructions:
+- Infer user's location from the query or context; if unclear, assume **Jakarta** and mention it's assumed.
+- Use Catalog info for anything related to pricing, features, or availability.
+- Use FAQ content only for general guidance or if Catalog lacks details.
+- Keep answers specific, friendly, and clear.
+- Always mention the user's location when relevant (e.g., service availability)."""
 
             response = await self._generate_response(rag_prompt)
-            
-            # Check if user might need specific service recommendation
-            needs_recommendation = any(keyword in query.lower() for keyword in 
-                                     ["recommend", "suggest", "which service", "what should"])
-            
+
+            # Check for escalation triggers
+            needs_recommendation = any(keyword in query.lower() for keyword in [
+                "recommend", "suggest", "which service", "what should"])
+
             metadata = {
-                "retrieved_docs": len(relevant_docs),
-                "sources": [doc.get("source", "FAQ") for doc in relevant_docs]
+                "retrieved_docs": len(relevant_docs) + len(catalog_results),
+                "sources": [doc.get("source", "FAQ") for doc in relevant_docs + catalog_results]
             }
-            
-            # Determine if handoff needed
+
             requires_handoff = False
             handoff_to = None
-            
+
             if needs_recommendation and "symptom" in query.lower():
                 requires_handoff = True
                 handoff_to = AgentType.MEDICAL_ADVISOR
@@ -113,7 +137,7 @@ Provide a helpful and informative response based on the retrieved information an
                 requires_handoff = True
                 handoff_to = AgentType.BOOKING
                 response += "\n\nWould you like to proceed with booking this service?"
-            
+
             return AgentResponse(
                 agent_type=self.agent_type,
                 content=response,
@@ -122,7 +146,7 @@ Provide a helpful and informative response based on the retrieved information an
                 handoff_to=handoff_to,
                 confidence=0.9 if relevant_docs else 0.7
             )
-            
+
         except Exception as e:
             logger.error(f"Discovery agent error: {str(e)}")
             return AgentResponse(

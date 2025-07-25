@@ -1,0 +1,357 @@
+"display_name","id","demand_zone_id","attribute_key","attribute_value","display","created_at","created_by","updated_at","updated_by"
+Halodoc - B2B - Banjarmasin,200,25,time_span_allowed_for_cancellation,"24",,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2024-12-20 18:40:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Banjarmasin,201,25,time_span_allowed_for_reschedule,"24",,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2024-12-20 18:40:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Banjarmasin,202,25,transportation_fee_condition,false,,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2024-12-20 18:40:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Banjarmasin,203,25,time_span_allowed_for_cancellation_unit,HOURS,,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2024-12-20 18:40:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Banjarmasin,204,25,transportation_fee,"0",,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2024-12-20 18:40:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Banjarmasin,205,25,time_span_allowed_for_reschedule_unit,HOURS,,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2024-12-20 18:40:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Banjarmasin,206,25,min_cart_price,"0",,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2024-12-20 18:40:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Banjarmasin,207,25,timezone,Asia/Makassar,1,"2024-12-20 18:40:54",wiwin.dwiutami.hakim,"2025-04-28 17:29:54",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,172,22,time_span_allowed_for_cancellation,"24",,"2024-07-07 10:01:49",wiwin.dwiutami.hakim,"2024-07-07 12:05:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,173,22,time_span_allowed_for_reschedule,"24",,"2024-07-07 10:01:49",wiwin.dwiutami.hakim,"2024-07-07 12:05:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,174,22,transportation_fee_condition,false,,"2024-07-07 10:01:49",wiwin.dwiutami.hakim,"2024-07-07 10:01:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,175,22,time_span_allowed_for_cancellation_unit,HOURS,,"2024-07-07 10:01:49",wiwin.dwiutami.hakim,"2024-07-07 10:01:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,176,22,transportation_fee,"0",,"2024-07-07 10:01:50",wiwin.dwiutami.hakim,"2024-07-07 10:01:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,177,22,time_span_allowed_for_reschedule_unit,HOURS,,"2024-07-07 10:01:50",wiwin.dwiutami.hakim,"2024-07-07 10:01:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,178,22,min_cart_price,"0",,"2024-07-07 10:01:50",wiwin.dwiutami.hakim,"2024-07-07 10:01:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Jabodetabek,179,22,timezone,Asia/Jakarta,1,"2024-07-07 10:01:50",wiwin.dwiutami.hakim,"2024-07-07 10:01:50",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,184,23,time_span_allowed_for_cancellation,"24",,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,185,23,time_span_allowed_for_reschedule,"24",,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,186,23,transportation_fee_condition,false,,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,187,23,time_span_allowed_for_cancellation_unit,HOURS,,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,188,23,transportation_fee,"0",,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,189,23,time_span_allowed_for_reschedule_unit,HOURS,,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,190,23,min_cart_price,"0",,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Medan,191,23,timezone,Asia/Jakarta,1,"2024-11-29 09:06:22",wiwin.dwiutami.hakim,"2024-11-29 09:06:22",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,152,20,time_span_allowed_for_cancellation,"24",,"2024-07-05 09:41:46",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,153,20,time_span_allowed_for_reschedule,"24",,"2024-07-05 09:41:46",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,154,20,transportation_fee_condition,false,,"2024-07-05 09:41:46",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,155,20,time_span_allowed_for_cancellation_unit,HOURS,,"2024-07-05 09:41:46",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,156,20,transportation_fee,"0",,"2024-07-05 09:41:46",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,157,20,time_span_allowed_for_reschedule_unit,HOURS,,"2024-07-05 09:41:46",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,158,20,min_cart_price,"0",,"2024-07-05 09:41:47",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Semarang,159,20,timezone,Asia/Jakarta,1,"2024-07-05 09:41:47",wiwin.dwiutami.hakim,"2024-07-05 09:41:47",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,164,21,time_span_allowed_for_cancellation,"24",,"2024-07-07 09:58:43",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,165,21,time_span_allowed_for_reschedule,"24",,"2024-07-07 09:58:43",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,166,21,transportation_fee_condition,false,,"2024-07-07 09:58:43",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,167,21,time_span_allowed_for_cancellation_unit,HOURS,,"2024-07-07 09:58:43",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,168,21,transportation_fee,"0",,"2024-07-07 09:58:43",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,169,21,time_span_allowed_for_reschedule_unit,HOURS,,"2024-07-07 09:58:43",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,170,21,min_cart_price,"0",,"2024-07-07 09:58:43",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc - B2B - Surabaya,171,21,timezone,Asia/Jakarta,1,"2024-07-07 09:58:44",wiwin.dwiutami.hakim,"2024-07-07 09:58:44",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,224,29,time_span_allowed_for_cancellation,"24",,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-09 15:26:52",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,225,29,time_span_allowed_for_reschedule,"24",,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-09 15:26:52",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,226,29,transportation_fee_condition,false,,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-09 15:26:52",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,227,29,time_span_allowed_for_cancellation_unit,HOURS,,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-09 15:26:52",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,228,29,transportation_fee,"0",,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-09 15:26:52",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,229,29,time_span_allowed_for_reschedule_unit,HOURS,,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-09 15:26:52",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,230,29,min_cart_price,"0",,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-09 15:26:52",wiwin.dwiutami.hakim
+Halodoc Home Care Bali Badung,231,29,timezone,Asia/Jakarta,1,"2025-01-09 15:26:52",wiwin.dwiutami.hakim,"2025-01-10 18:19:28",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,98,17,time_span_allowed_for_cancellation,"24",,"2024-04-24 12:21:11",wiwin.dwiutami.hakim,"2024-04-24 12:21:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,99,17,time_span_allowed_for_reschedule,"24",,"2024-04-24 12:21:11",wiwin.dwiutami.hakim,"2024-04-24 12:21:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,100,17,transportation_fee_condition,false,,"2024-04-24 12:21:11",wiwin.dwiutami.hakim,"2024-04-24 12:21:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,101,17,time_span_allowed_for_cancellation_unit,HOURS,,"2024-04-24 12:21:11",wiwin.dwiutami.hakim,"2024-04-24 12:21:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,102,17,transportation_fee,"0",,"2024-04-24 12:21:11",wiwin.dwiutami.hakim,"2024-04-24 12:21:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,103,17,time_span_allowed_for_reschedule_unit,HOURS,,"2024-04-24 12:21:11",wiwin.dwiutami.hakim,"2024-04-24 12:21:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,104,17,min_cart_price,"0",,"2024-04-24 12:21:11",wiwin.dwiutami.hakim,"2024-04-24 12:21:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,146,17,timezone,Asia/Jakarta,1,"2024-06-29 08:03:24",jocelyn.tandrian,"2024-10-18 07:37:51",wiwin.dwiutami.hakim
+Halodoc Home Care Bali INTIBIOS,147,17,timezone,Asia/Makassar,1,"2024-06-29 08:03:25",jocelyn.tandrian,"2024-06-29 08:03:25",jocelyn.tandrian
+Halodoc Home Care Bali TMC,216,27,time_span_allowed_for_cancellation,"24",,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-01-09 09:48:00",wiwin.dwiutami.hakim
+Halodoc Home Care Bali TMC,217,27,time_span_allowed_for_reschedule,"24",,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-07-24 16:08:37",wiwin.dwiutami.hakim
+Halodoc Home Care Bali TMC,218,27,transportation_fee_condition,false,,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-01-09 09:48:00",wiwin.dwiutami.hakim
+Halodoc Home Care Bali TMC,219,27,time_span_allowed_for_cancellation_unit,HOURS,,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-01-09 09:48:00",wiwin.dwiutami.hakim
+Halodoc Home Care Bali TMC,220,27,transportation_fee,"0",,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-01-09 09:48:00",wiwin.dwiutami.hakim
+Halodoc Home Care Bali TMC,221,27,time_span_allowed_for_reschedule_unit,HOURS,,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-01-09 09:48:00",wiwin.dwiutami.hakim
+Halodoc Home Care Bali TMC,222,27,min_cart_price,"0",,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-01-09 09:48:00",wiwin.dwiutami.hakim
+Halodoc Home Care Bali TMC,223,27,timezone,Asia/Jakarta,1,"2025-01-09 09:47:59",wiwin.dwiutami.hakim,"2025-07-24 16:02:59",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,317,41,time_span_allowed_for_cancellation,"24",,"2025-04-28 14:25:12",wiwin.dwiutami.hakim,"2025-04-28 14:25:13",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,318,41,time_span_allowed_for_reschedule,"24",,"2025-04-28 14:25:12",wiwin.dwiutami.hakim,"2025-04-28 14:25:13",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,319,41,transportation_fee_condition,false,,"2025-04-28 14:25:12",wiwin.dwiutami.hakim,"2025-04-28 14:25:13",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,320,41,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-28 14:25:12",wiwin.dwiutami.hakim,"2025-04-28 14:25:13",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,321,41,transportation_fee,"0",,"2025-04-28 14:25:12",wiwin.dwiutami.hakim,"2025-04-28 14:25:13",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,322,41,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-28 14:25:12",wiwin.dwiutami.hakim,"2025-04-28 14:25:13",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,323,41,min_cart_price,"0",,"2025-04-28 14:25:12",wiwin.dwiutami.hakim,"2025-04-28 14:25:13",wiwin.dwiutami.hakim
+Halodoc Home Care Balikpapan TMC,324,41,timezone,Asia/Makassar,1,"2025-04-28 14:25:13",wiwin.dwiutami.hakim,"2025-05-15 21:09:24",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung,9,3,time_span_allowed_for_cancellation,"24",,"2023-08-09 13:10:11",wiwin.dwiutami.hakim,"2023-08-31 13:34:16",audhy.prabowo
+Halodoc Home Care Bandung,10,3,time_span_allowed_for_reschedule,"24",,"2023-08-09 13:10:11",wiwin.dwiutami.hakim,"2023-08-31 13:34:16",audhy.prabowo
+Halodoc Home Care Bandung,11,3,time_span_allowed_for_cancellation_unit,HOURS,,"2023-08-09 13:10:11",wiwin.dwiutami.hakim,"2023-08-09 13:10:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung,12,3,time_span_allowed_for_reschedule_unit,HOURS,,"2023-08-09 13:10:11",wiwin.dwiutami.hakim,"2023-08-09 13:10:11",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung,105,3,transportation_fee_condition,false,,"2024-04-27 22:43:01",muhammad.farhan,"2024-04-27 22:43:01",muhammad.farhan
+Halodoc Home Care Bandung,106,3,transportation_fee,"0",,"2024-04-27 22:43:01",muhammad.farhan,"2024-04-27 22:43:01",muhammad.farhan
+Halodoc Home Care Bandung,107,3,min_cart_price,"0",,"2024-04-27 22:43:01",muhammad.farhan,"2024-04-27 22:43:01",muhammad.farhan
+Halodoc Home Care Bandung,138,3,timezone,Asia/Jakarta,1,"2024-06-20 18:27:32",dwi.rahmawati,"2024-06-20 18:27:32",dwi.rahmawati
+Halodoc Home Care Bandung,139,3,timezone,Asia/Jakarta,1,"2024-06-20 18:27:33",dwi.rahmawati,"2024-06-20 18:27:33",dwi.rahmawati
+Halodoc Home Care Bandung DPM,349,45,time_span_allowed_for_cancellation,"24",,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-24 13:38:52",warahmat.befi
+Halodoc Home Care Bandung DPM,350,45,time_span_allowed_for_reschedule,"24",,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-24 13:38:52",warahmat.befi
+Halodoc Home Care Bandung DPM,351,45,transportation_fee_condition,false,,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-02 11:24:42",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung DPM,352,45,time_span_allowed_for_cancellation_unit,HOURS,,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-02 11:24:42",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung DPM,353,45,transportation_fee,"0",,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-02 11:24:42",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung DPM,354,45,time_span_allowed_for_reschedule_unit,HOURS,,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-02 11:24:42",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung DPM,355,45,min_cart_price,"0",,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-02 11:24:42",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung DPM,356,45,timezone,Asia/Jakarta,1,"2025-07-02 11:24:42",wiwin.dwiutami.hakim,"2025-07-02 11:24:42",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,240,31,time_span_allowed_for_cancellation,"24",,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,241,31,time_span_allowed_for_reschedule,"24",,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,242,31,transportation_fee_condition,false,,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,243,31,time_span_allowed_for_cancellation_unit,HOURS,,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,244,31,transportation_fee,"0",,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,245,31,time_span_allowed_for_reschedule_unit,HOURS,,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,246,31,min_cart_price,"0",,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung new,247,31,timezone,Asia/Jakarta,1,"2025-01-16 16:31:58",wiwin.dwiutami.hakim,"2025-01-16 16:31:58",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,192,24,time_span_allowed_for_cancellation,"24",,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,193,24,time_span_allowed_for_reschedule,"24",,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,194,24,transportation_fee_condition,false,,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,195,24,time_span_allowed_for_cancellation_unit,HOURS,,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,196,24,transportation_fee,"0",,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,197,24,time_span_allowed_for_reschedule_unit,HOURS,,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,198,24,min_cart_price,"0",,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung PD,199,24,timezone,Asia/Jakarta,1,"2024-12-18 12:54:32",wiwin.dwiutami.hakim,"2024-12-18 12:54:32",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,341,44,time_span_allowed_for_cancellation,"24",,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,342,44,time_span_allowed_for_reschedule,"24",,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,343,44,transportation_fee_condition,false,,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,344,44,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,345,44,transportation_fee,"0",,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,346,44,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,347,44,min_cart_price,"0",,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Bandung TMC,348,44,timezone,Asia/Jakarta,1,"2025-04-28 14:27:33",wiwin.dwiutami.hakim,"2025-04-28 14:27:33",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,309,40,time_span_allowed_for_cancellation,"24",,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-04-25 11:31:40",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,310,40,time_span_allowed_for_reschedule,"24",,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-04-25 11:31:40",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,311,40,transportation_fee_condition,false,,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-04-25 11:31:40",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,312,40,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-04-25 11:31:40",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,313,40,transportation_fee,"0",,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-04-25 11:31:40",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,314,40,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-04-25 11:31:40",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,315,40,min_cart_price,"0",,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-04-25 11:31:40",wiwin.dwiutami.hakim
+Halodoc Home Care Banjarmasin TMC,316,40,timezone,Asia/Makassar,1,"2025-04-25 11:31:40",wiwin.dwiutami.hakim,"2025-05-15 21:09:45",wiwin.dwiutami.hakim
+Halodoc Home Care Bekasi,41,11,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:41:13",audhy.prabowo,"2024-03-15 05:41:13",audhy.prabowo
+Halodoc Home Care Bekasi,42,11,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:41:13",audhy.prabowo,"2024-03-15 05:41:13",audhy.prabowo
+Halodoc Home Care Bekasi,43,11,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:41:13",audhy.prabowo,"2024-03-15 05:41:13",audhy.prabowo
+Halodoc Home Care Bekasi,44,11,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:41:13",audhy.prabowo,"2024-03-15 05:41:13",audhy.prabowo
+Halodoc Home Care Bekasi,80,11,transportation_fee_condition,true,,"2024-04-05 21:10:47",m.safwan.aji,"2024-04-08 11:24:58",roy.haryanto
+Halodoc Home Care Bekasi,81,11,transportation_fee,"25000",,"2024-04-05 21:10:47",m.safwan.aji,"2024-04-08 11:24:58",roy.haryanto
+Halodoc Home Care Bekasi,82,11,min_cart_price,"250000",,"2024-04-05 21:10:47",m.safwan.aji,"2024-04-23 13:48:58",roy.haryanto
+Halodoc Home Care Bekasi,128,11,timezone,Asia/Jakarta,1,"2024-06-19 21:04:31",faoul.djoyo,"2024-06-19 21:04:31",faoul.djoyo
+Halodoc Home Care Bekasi,129,11,timezone,Asia/Jakarta,1,"2024-06-19 21:04:32",faoul.djoyo,"2024-06-19 21:04:32",faoul.djoyo
+Halodoc Home Care Bekasi Utara,57,15,time_span_allowed_for_cancellation,"24",,"2024-04-01 14:38:43",wiwin.dwiutami.hakim,"2024-04-01 14:38:43",wiwin.dwiutami.hakim
+Halodoc Home Care Bekasi Utara,58,15,time_span_allowed_for_reschedule,"24",,"2024-04-01 14:38:43",wiwin.dwiutami.hakim,"2024-04-01 14:38:43",wiwin.dwiutami.hakim
+Halodoc Home Care Bekasi Utara,59,15,time_span_allowed_for_cancellation_unit,HOURS,,"2024-04-01 14:38:43",wiwin.dwiutami.hakim,"2024-04-01 14:38:43",wiwin.dwiutami.hakim
+Halodoc Home Care Bekasi Utara,60,15,time_span_allowed_for_reschedule_unit,HOURS,,"2024-04-01 14:38:43",wiwin.dwiutami.hakim,"2024-04-01 14:38:43",wiwin.dwiutami.hakim
+Halodoc Home Care Bekasi Utara,95,15,transportation_fee_condition,true,,"2024-04-08 11:26:12",roy.haryanto,"2024-04-08 11:26:12",roy.haryanto
+Halodoc Home Care Bekasi Utara,96,15,transportation_fee,"25000",,"2024-04-08 11:26:12",roy.haryanto,"2024-04-08 11:26:12",roy.haryanto
+Halodoc Home Care Bekasi Utara,97,15,min_cart_price,"250000",,"2024-04-08 11:26:12",roy.haryanto,"2024-04-23 13:49:22",roy.haryanto
+Halodoc Home Care Bekasi Utara,160,15,timezone,Asia/Jakarta,1,"2024-07-05 15:14:12",wiwin.dwiutami.hakim,"2024-07-05 15:14:12",wiwin.dwiutami.hakim
+Halodoc Home Care Bekasi Utara,161,15,timezone,Asia/Jakarta,1,"2024-07-05 15:14:12",wiwin.dwiutami.hakim,"2024-07-05 15:14:12",wiwin.dwiutami.hakim
+Halodoc Home Care Bogor,45,12,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:42:06",audhy.prabowo,"2024-03-15 05:42:06",audhy.prabowo
+Halodoc Home Care Bogor,46,12,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:42:06",audhy.prabowo,"2024-03-15 05:42:06",audhy.prabowo
+Halodoc Home Care Bogor,47,12,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:42:06",audhy.prabowo,"2024-03-15 05:42:06",audhy.prabowo
+Halodoc Home Care Bogor,48,12,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:42:06",audhy.prabowo,"2024-03-15 05:42:06",audhy.prabowo
+Halodoc Home Care Bogor,92,12,transportation_fee_condition,true,,"2024-04-08 11:25:15",roy.haryanto,"2024-04-08 11:25:15",roy.haryanto
+Halodoc Home Care Bogor,93,12,transportation_fee,"25000",,"2024-04-08 11:25:15",roy.haryanto,"2024-04-08 11:25:15",roy.haryanto
+Halodoc Home Care Bogor,94,12,min_cart_price,"250000",,"2024-04-08 11:25:15",roy.haryanto,"2024-04-23 13:49:04",roy.haryanto
+Halodoc Home Care Bogor,150,12,timezone,Asia/Jakarta,1,"2024-07-03 20:18:35",jocelyn.tandrian,"2024-07-03 20:18:35",jocelyn.tandrian
+Halodoc Home Care Bogor,151,12,timezone,Asia/Jakarta,1,"2024-07-03 20:18:36",jocelyn.tandrian,"2024-07-03 20:18:36",jocelyn.tandrian
+Halodoc Home Care Cikande TMC,269,35,time_span_allowed_for_cancellation,"24",,"2025-04-25 11:27:23",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Cikande TMC,270,35,time_span_allowed_for_reschedule,"24",,"2025-04-25 11:27:23",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Cikande TMC,271,35,transportation_fee_condition,false,,"2025-04-25 11:27:23",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Cikande TMC,272,35,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-25 11:27:23",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Cikande TMC,273,35,transportation_fee,"0",,"2025-04-25 11:27:23",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Cikande TMC,274,35,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-25 11:27:23",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Cikande TMC,275,35,min_cart_price,"0",,"2025-04-25 11:27:23",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Cikande TMC,276,35,timezone,Asia/Jakarta,1,"2025-04-25 11:27:24",wiwin.dwiutami.hakim,"2025-04-25 11:27:24",wiwin.dwiutami.hakim
+Halodoc Home Care Depok,49,13,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:45:47",audhy.prabowo,"2024-03-15 05:45:47",audhy.prabowo
+Halodoc Home Care Depok,50,13,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:45:47",audhy.prabowo,"2024-03-15 05:45:47",audhy.prabowo
+Halodoc Home Care Depok,51,13,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:45:47",audhy.prabowo,"2024-03-15 05:45:47",audhy.prabowo
+Halodoc Home Care Depok,52,13,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:45:47",audhy.prabowo,"2024-03-15 05:45:47",audhy.prabowo
+Halodoc Home Care Depok,74,13,transportation_fee_condition,true,,"2024-04-05 21:04:25",m.safwan.aji,"2024-04-08 11:25:30",roy.haryanto
+Halodoc Home Care Depok,75,13,transportation_fee,"25000",,"2024-04-05 21:04:25",m.safwan.aji,"2024-04-08 11:25:30",roy.haryanto
+Halodoc Home Care Depok,76,13,min_cart_price,"250000",,"2024-04-05 21:04:25",m.safwan.aji,"2024-04-23 13:49:14",roy.haryanto
+Halodoc Home Care Depok,136,13,timezone,Asia/Jakarta,1,"2024-06-19 21:07:34",faoul.djoyo,"2024-06-19 21:07:34",faoul.djoyo
+Halodoc Home Care Depok,137,13,timezone,Asia/Jakarta,1,"2024-06-19 21:07:35",faoul.djoyo,"2024-06-19 21:07:35",faoul.djoyo
+Halodoc Home Care Jakarta,1,1,time_span_allowed_for_cancellation,"24",1,"2022-10-11 15:52:38",Dev Token,"2023-06-01 09:27:10",audhy.prabowo
+Halodoc Home Care Jakarta,2,1,time_span_allowed_for_reschedule,"24",1,"2022-10-11 15:52:38",Dev Token,"2023-06-07 20:08:24",audhy.prabowo
+Halodoc Home Care Jakarta,3,1,time_span_allowed_for_cancellation_unit,HOURS,1,"2022-10-11 15:52:38",Dev Token,"2022-10-11 15:52:38",Dev Token
+Halodoc Home Care Jakarta,4,1,time_span_allowed_for_reschedule_unit,HOURS,1,"2022-10-11 15:52:38",Dev Token,"2022-10-11 15:52:38",Dev Token
+Halodoc Home Care Jakarta Barat,25,7,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:34:15",audhy.prabowo,"2024-03-15 05:34:15",audhy.prabowo
+Halodoc Home Care Jakarta Barat,26,7,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:34:15",audhy.prabowo,"2024-03-15 05:34:15",audhy.prabowo
+Halodoc Home Care Jakarta Barat,27,7,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:34:15",audhy.prabowo,"2024-03-15 05:34:15",audhy.prabowo
+Halodoc Home Care Jakarta Barat,28,7,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:34:15",audhy.prabowo,"2024-03-15 05:34:15",audhy.prabowo
+Halodoc Home Care Jakarta Barat,83,7,transportation_fee_condition,true,,"2024-04-05 21:41:52",m.safwan.aji,"2024-04-08 11:23:47",roy.haryanto
+Halodoc Home Care Jakarta Barat,84,7,transportation_fee,"25000",,"2024-04-05 21:41:52",m.safwan.aji,"2024-04-08 11:23:47",roy.haryanto
+Halodoc Home Care Jakarta Barat,85,7,min_cart_price,"250000",,"2024-04-05 21:41:52",m.safwan.aji,"2024-04-23 13:48:18",roy.haryanto
+Halodoc Home Care Jakarta Barat,144,7,timezone,Asia/Jakarta,1,"2024-06-23 22:25:13",faoul.djoyo,"2024-06-23 22:25:13",faoul.djoyo
+Halodoc Home Care Jakarta Barat,145,7,timezone,Asia/Jakarta,1,"2024-06-23 22:25:13",faoul.djoyo,"2024-06-23 22:25:13",faoul.djoyo
+Halodoc Home Care Jakarta Pusat,21,6,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:32:47",audhy.prabowo,"2024-03-15 05:32:47",audhy.prabowo
+Halodoc Home Care Jakarta Pusat,22,6,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:32:47",audhy.prabowo,"2024-03-15 05:32:47",audhy.prabowo
+Halodoc Home Care Jakarta Pusat,23,6,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:32:47",audhy.prabowo,"2024-03-15 05:32:47",audhy.prabowo
+Halodoc Home Care Jakarta Pusat,24,6,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:32:47",audhy.prabowo,"2024-03-15 05:32:47",audhy.prabowo
+Halodoc Home Care Jakarta Pusat,68,6,transportation_fee_condition,true,,"2024-04-05 20:55:52",m.safwan.aji,"2024-04-08 11:23:30",roy.haryanto
+Halodoc Home Care Jakarta Pusat,69,6,transportation_fee,"25000",,"2024-04-05 20:55:52",m.safwan.aji,"2024-04-08 11:23:30",roy.haryanto
+Halodoc Home Care Jakarta Pusat,70,6,min_cart_price,"250000",,"2024-04-05 20:55:52",m.safwan.aji,"2024-04-23 13:48:08",roy.haryanto
+Halodoc Home Care Jakarta Pusat,142,6,timezone,Asia/Jakarta,1,"2024-06-23 22:24:28",faoul.djoyo,"2024-06-23 22:24:28",faoul.djoyo
+Halodoc Home Care Jakarta Pusat,143,6,timezone,Asia/Jakarta,1,"2024-06-23 22:24:28",faoul.djoyo,"2024-06-23 22:24:28",faoul.djoyo
+Halodoc Home Care Jakarta Selatan,17,5,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:31:09",audhy.prabowo,"2024-03-15 05:33:26",audhy.prabowo
+Halodoc Home Care Jakarta Selatan,18,5,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:31:09",audhy.prabowo,"2024-03-15 05:33:26",audhy.prabowo
+Halodoc Home Care Jakarta Selatan,19,5,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:31:09",audhy.prabowo,"2024-03-15 05:31:09",audhy.prabowo
+Halodoc Home Care Jakarta Selatan,20,5,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:31:09",audhy.prabowo,"2024-03-15 05:31:09",audhy.prabowo
+Halodoc Home Care Jakarta Selatan,65,5,transportation_fee_condition,true,,"2024-04-05 20:48:42",m.safwan.aji,"2024-04-08 11:23:13",roy.haryanto
+Halodoc Home Care Jakarta Selatan,66,5,transportation_fee,"25000",,"2024-04-05 20:48:42",m.safwan.aji,"2024-04-08 11:23:13",roy.haryanto
+Halodoc Home Care Jakarta Selatan,67,5,min_cart_price,"250000",,"2024-04-05 20:48:42",m.safwan.aji,"2024-04-23 13:48:01",roy.haryanto
+Halodoc Home Care Jakarta Selatan,132,5,timezone,Asia/Jakarta,1,"2024-06-19 21:06:20",faoul.djoyo,"2024-06-19 21:06:20",faoul.djoyo
+Halodoc Home Care Jakarta Selatan,133,5,timezone,Asia/Jakarta,1,"2024-06-19 21:06:20",faoul.djoyo,"2024-06-19 21:06:20",faoul.djoyo
+Halodoc Home Care Jakarta Timur,29,8,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:35:16",audhy.prabowo,"2024-03-15 05:35:16",audhy.prabowo
+Halodoc Home Care Jakarta Timur,30,8,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:35:16",audhy.prabowo,"2024-03-15 05:35:16",audhy.prabowo
+Halodoc Home Care Jakarta Timur,31,8,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:35:16",audhy.prabowo,"2024-03-15 05:35:16",audhy.prabowo
+Halodoc Home Care Jakarta Timur,32,8,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:35:16",audhy.prabowo,"2024-03-15 05:35:16",audhy.prabowo
+Halodoc Home Care Jakarta Timur,77,8,transportation_fee_condition,true,,"2024-04-05 21:10:30",m.safwan.aji,"2024-04-08 11:24:08",roy.haryanto
+Halodoc Home Care Jakarta Timur,78,8,transportation_fee,"25000",,"2024-04-05 21:10:30",m.safwan.aji,"2024-04-08 11:24:08",roy.haryanto
+Halodoc Home Care Jakarta Timur,79,8,min_cart_price,"250000",,"2024-04-05 21:10:30",m.safwan.aji,"2024-04-23 13:48:27",roy.haryanto
+Halodoc Home Care Jakarta Timur,130,8,timezone,Asia/Jakarta,1,"2024-06-19 21:05:53",faoul.djoyo,"2024-06-19 21:05:53",faoul.djoyo
+Halodoc Home Care Jakarta Timur,131,8,timezone,Asia/Jakarta,1,"2024-06-19 21:05:53",faoul.djoyo,"2024-06-19 21:05:53",faoul.djoyo
+Halodoc Home Care Jakarta Utara,33,9,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:36:23",audhy.prabowo,"2024-03-15 05:36:23",audhy.prabowo
+Halodoc Home Care Jakarta Utara,34,9,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:36:23",audhy.prabowo,"2024-03-15 05:36:23",audhy.prabowo
+Halodoc Home Care Jakarta Utara,35,9,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:36:23",audhy.prabowo,"2024-03-15 05:36:23",audhy.prabowo
+Halodoc Home Care Jakarta Utara,36,9,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:36:23",audhy.prabowo,"2024-03-15 05:36:23",audhy.prabowo
+Halodoc Home Care Jakarta Utara,71,9,transportation_fee_condition,true,,"2024-04-05 20:56:09",m.safwan.aji,"2024-04-08 11:24:24",roy.haryanto
+Halodoc Home Care Jakarta Utara,72,9,transportation_fee,"25000",,"2024-04-05 20:56:09",m.safwan.aji,"2024-04-08 11:24:24",roy.haryanto
+Halodoc Home Care Jakarta Utara,73,9,min_cart_price,"250000",,"2024-04-05 20:56:09",m.safwan.aji,"2024-04-23 13:48:41",roy.haryanto
+Halodoc Home Care Jakarta Utara,140,9,timezone,Asia/Jakarta,1,"2024-06-23 22:23:58",faoul.djoyo,"2024-06-23 22:23:58",faoul.djoyo
+Halodoc Home Care Jakarta Utara,141,9,timezone,Asia/Jakarta,1,"2024-06-23 22:23:59",faoul.djoyo,"2024-06-23 22:23:59",faoul.djoyo
+Halodoc Home Care Karawang TMC,293,38,time_span_allowed_for_cancellation,"24",,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-04-25 11:30:09",wiwin.dwiutami.hakim
+Halodoc Home Care Karawang TMC,294,38,time_span_allowed_for_reschedule,"12",,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-06-30 18:06:39",warahmat.befi
+Halodoc Home Care Karawang TMC,295,38,transportation_fee_condition,false,,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-04-25 11:30:09",wiwin.dwiutami.hakim
+Halodoc Home Care Karawang TMC,296,38,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-04-25 11:30:09",wiwin.dwiutami.hakim
+Halodoc Home Care Karawang TMC,297,38,transportation_fee,"0",,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-04-25 11:30:09",wiwin.dwiutami.hakim
+Halodoc Home Care Karawang TMC,298,38,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-04-25 11:30:09",wiwin.dwiutami.hakim
+Halodoc Home Care Karawang TMC,299,38,min_cart_price,"0",,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-04-25 11:30:09",wiwin.dwiutami.hakim
+Halodoc Home Care Karawang TMC,300,38,timezone,Asia/Jakarta,1,"2025-04-25 11:30:09",wiwin.dwiutami.hakim,"2025-04-25 11:30:09",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,277,36,time_span_allowed_for_cancellation,"24",,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-04-25 11:28:30",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,278,36,time_span_allowed_for_reschedule,"24",,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-04-25 11:28:30",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,279,36,transportation_fee_condition,false,,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-04-25 11:28:30",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,280,36,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-04-25 11:28:30",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,281,36,transportation_fee,"0",,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-04-25 11:28:30",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,282,36,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-04-25 11:28:30",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,283,36,min_cart_price,"0",,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-04-25 11:28:30",wiwin.dwiutami.hakim
+Halodoc Home Care Makassar TMC,284,36,timezone,Asia/Makassar,1,"2025-04-25 11:28:30",wiwin.dwiutami.hakim,"2025-06-04 11:10:37",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,208,26,time_span_allowed_for_cancellation,"24",,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,209,26,time_span_allowed_for_reschedule,"24",,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,210,26,transportation_fee_condition,false,,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,211,26,time_span_allowed_for_cancellation_unit,HOURS,,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,212,26,transportation_fee,"0",,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,213,26,time_span_allowed_for_reschedule_unit,HOURS,,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,214,26,min_cart_price,"0",,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Malang,215,26,timezone,Asia/Jakarta,1,"2025-01-09 09:44:10",wiwin.dwiutami.hakim,"2025-01-09 09:44:10",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,285,37,time_span_allowed_for_cancellation,"24",,"2025-04-25 11:29:24",wiwin.dwiutami.hakim,"2025-04-25 11:29:25",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,286,37,time_span_allowed_for_reschedule,"24",,"2025-04-25 11:29:24",wiwin.dwiutami.hakim,"2025-04-25 11:29:25",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,287,37,transportation_fee_condition,false,,"2025-04-25 11:29:24",wiwin.dwiutami.hakim,"2025-04-25 11:29:25",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,288,37,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-25 11:29:24",wiwin.dwiutami.hakim,"2025-04-25 11:29:25",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,289,37,transportation_fee,"0",,"2025-04-25 11:29:24",wiwin.dwiutami.hakim,"2025-04-25 11:29:25",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,290,37,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-25 11:29:24",wiwin.dwiutami.hakim,"2025-04-25 11:29:25",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,291,37,min_cart_price,"0",,"2025-04-25 11:29:24",wiwin.dwiutami.hakim,"2025-04-25 11:29:25",wiwin.dwiutami.hakim
+Halodoc Home Care Manado TMC,292,37,timezone,Asia/Makassar,1,"2025-04-25 11:29:25",wiwin.dwiutami.hakim,"2025-05-15 21:09:34",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,333,43,time_span_allowed_for_cancellation,"24",,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,334,43,time_span_allowed_for_reschedule,"24",,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,335,43,transportation_fee_condition,false,,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,336,43,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,337,43,transportation_fee,"0",,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,338,43,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,339,43,min_cart_price,"0",,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Medan TMC,340,43,timezone,Asia/Jakarta,1,"2025-04-28 14:26:39",wiwin.dwiutami.hakim,"2025-04-28 14:26:39",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,325,42,time_span_allowed_for_cancellation,"24",,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,326,42,time_span_allowed_for_reschedule,"24",,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,327,42,transportation_fee_condition,false,,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,328,42,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,329,42,transportation_fee,"0",,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,330,42,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,331,42,min_cart_price,"0",,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Palembang TMC,332,42,timezone,Asia/Jakarta,1,"2025-04-28 14:25:59",wiwin.dwiutami.hakim,"2025-04-28 14:25:59",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,301,39,time_span_allowed_for_cancellation,"24",,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-04-25 11:30:54",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,302,39,time_span_allowed_for_reschedule,"24",,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-04-25 11:30:54",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,303,39,transportation_fee_condition,false,,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-04-25 11:30:54",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,304,39,time_span_allowed_for_cancellation_unit,HOURS,,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-04-25 11:30:54",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,305,39,transportation_fee,"0",,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-04-25 11:30:54",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,306,39,time_span_allowed_for_reschedule_unit,HOURS,,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-04-25 11:30:54",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,307,39,min_cart_price,"0",,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-04-25 11:30:54",wiwin.dwiutami.hakim
+Halodoc Home Care Samarinda TMC,308,39,timezone,Asia/Makassar,1,"2025-04-25 11:30:54",wiwin.dwiutami.hakim,"2025-05-08 18:56:36",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang INTIBIOS,53,14,time_span_allowed_for_cancellation,"24",,"2024-03-28 13:42:31",audhy.prabowo,"2024-03-28 13:42:31",audhy.prabowo
+Halodoc Home Care Semarang INTIBIOS,54,14,time_span_allowed_for_reschedule,"24",,"2024-03-28 13:42:31",audhy.prabowo,"2024-03-28 13:42:31",audhy.prabowo
+Halodoc Home Care Semarang INTIBIOS,55,14,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-28 13:42:31",audhy.prabowo,"2024-03-28 13:42:31",audhy.prabowo
+Halodoc Home Care Semarang INTIBIOS,56,14,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-28 13:42:31",audhy.prabowo,"2024-03-28 13:42:31",audhy.prabowo
+Halodoc Home Care Semarang INTIBIOS,115,14,transportation_fee_condition,false,,"2024-05-30 05:56:10",putri.lusiana,"2024-05-30 05:56:10",putri.lusiana
+Halodoc Home Care Semarang INTIBIOS,116,14,transportation_fee,"0",,"2024-05-30 05:56:10",putri.lusiana,"2024-05-30 05:56:10",putri.lusiana
+Halodoc Home Care Semarang INTIBIOS,117,14,min_cart_price,"0",,"2024-05-30 05:56:10",putri.lusiana,"2024-05-30 05:56:10",putri.lusiana
+Halodoc Home Care Semarang INTIBIOS,180,14,timezone,Asia/Jakarta,1,"2024-08-30 18:28:02",wiwin.dwiutami.hakim,"2024-08-30 18:28:02",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang INTIBIOS,181,14,timezone,Asia/Jakarta,1,"2024-08-30 18:28:02",wiwin.dwiutami.hakim,"2024-08-30 18:28:02",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,256,34,time_span_allowed_for_cancellation,"24",,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,257,34,time_span_allowed_for_reschedule,"24",,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,258,34,transportation_fee_condition,false,,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,259,34,time_span_allowed_for_cancellation_unit,HOURS,,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,260,34,transportation_fee,"0",,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,261,34,time_span_allowed_for_reschedule_unit,HOURS,,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,262,34,min_cart_price,"0",,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Semarang TMC,263,34,timezone,Asia/Jakarta,1,"2025-01-16 16:36:04",wiwin.dwiutami.hakim,"2025-01-16 16:36:04",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya,5,2,time_span_allowed_for_cancellation,"24",1,"2022-11-16 14:14:51",Dev Token,"2023-01-26 16:08:31",audhy.prabowo
+Halodoc Home Care Surabaya,6,2,time_span_allowed_for_reschedule,"24",1,"2022-11-16 14:14:51",Dev Token,"2024-03-14 23:02:30",audhy.prabowo
+Halodoc Home Care Surabaya,7,2,time_span_allowed_for_cancellation_unit,HOURS,1,"2022-11-16 14:14:51",Dev Token,"2022-11-16 14:14:51",Dev Token
+Halodoc Home Care Surabaya,8,2,time_span_allowed_for_reschedule_unit,HOURS,1,"2022-11-16 14:14:51",Dev Token,"2022-11-16 14:14:51",Dev Token
+Halodoc Home Care Surabaya,264,2,transportation_fee_condition,false,,"2025-02-14 11:12:47",wiwin.dwiutami.hakim,"2025-02-14 11:12:47",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya,265,2,transportation_fee,"0",,"2025-02-14 11:12:47",wiwin.dwiutami.hakim,"2025-02-14 11:12:47",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya,266,2,min_cart_price,"0",,"2025-02-14 11:12:47",wiwin.dwiutami.hakim,"2025-02-14 11:12:47",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya,267,2,timezone,Asia/Jakarta,1,"2025-02-14 11:12:47",wiwin.dwiutami.hakim,"2025-02-14 11:12:47",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya,268,2,timezone,Asia/Jakarta,1,"2025-02-14 11:12:47",wiwin.dwiutami.hakim,"2025-02-14 11:12:47",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya 2,121,19,time_span_allowed_for_cancellation,"24",,"2024-06-05 11:47:55",wiwin.dwiutami.hakim,"2024-06-05 11:47:55",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya 2,122,19,time_span_allowed_for_reschedule,"24",,"2024-06-05 11:47:55",wiwin.dwiutami.hakim,"2024-06-05 11:47:55",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya 2,123,19,transportation_fee_condition,false,,"2024-06-05 11:47:55",wiwin.dwiutami.hakim,"2024-06-05 11:47:55",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya 2,124,19,time_span_allowed_for_cancellation_unit,HOURS,,"2024-06-05 11:47:55",wiwin.dwiutami.hakim,"2024-06-05 11:47:55",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya 2,125,19,transportation_fee,"0",,"2024-06-05 11:47:55",wiwin.dwiutami.hakim,"2024-06-05 11:47:55",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya 2,126,19,time_span_allowed_for_reschedule_unit,HOURS,,"2024-06-05 11:47:55",wiwin.dwiutami.hakim,"2024-06-05 11:47:55",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya 2,127,19,min_cart_price,"0",,"2024-06-05 11:47:55",wiwin.dwiutami.hakim,"2024-06-05 11:47:55",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,248,32,time_span_allowed_for_cancellation,"24",,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,249,32,time_span_allowed_for_reschedule,"24",,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,250,32,transportation_fee_condition,false,,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,251,32,time_span_allowed_for_cancellation_unit,HOURS,,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,252,32,transportation_fee,"0",,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,253,32,time_span_allowed_for_reschedule_unit,HOURS,,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,254,32,min_cart_price,"0",,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Surabaya TMC,255,32,timezone,Asia/Jakarta,1,"2025-01-16 16:34:17",wiwin.dwiutami.hakim,"2025-01-16 16:34:17",wiwin.dwiutami.hakim
+Halodoc Home Care Tangerang,37,10,time_span_allowed_for_cancellation,"24",,"2024-03-15 05:40:26",audhy.prabowo,"2024-03-15 05:40:26",audhy.prabowo
+Halodoc Home Care Tangerang,38,10,time_span_allowed_for_reschedule,"24",,"2024-03-15 05:40:26",audhy.prabowo,"2024-03-15 05:40:26",audhy.prabowo
+Halodoc Home Care Tangerang,39,10,time_span_allowed_for_cancellation_unit,HOURS,,"2024-03-15 05:40:26",audhy.prabowo,"2024-03-15 05:40:26",audhy.prabowo
+Halodoc Home Care Tangerang,40,10,time_span_allowed_for_reschedule_unit,HOURS,,"2024-03-15 05:40:26",audhy.prabowo,"2024-03-15 05:40:26",audhy.prabowo
+Halodoc Home Care Tangerang,86,10,transportation_fee_condition,true,,"2024-04-06 11:49:09",m.safwan.aji,"2024-04-08 11:24:42",roy.haryanto
+Halodoc Home Care Tangerang,87,10,transportation_fee,"25000",,"2024-04-06 11:49:09",m.safwan.aji,"2024-04-08 11:24:42",roy.haryanto
+Halodoc Home Care Tangerang,88,10,min_cart_price,"250000",,"2024-04-06 11:49:09",m.safwan.aji,"2024-04-23 13:48:50",roy.haryanto
+Halodoc Home Care Tangerang,134,10,timezone,Asia/Jakarta,1,"2024-06-19 21:06:51",faoul.djoyo,"2024-06-19 21:06:51",faoul.djoyo
+Halodoc Home Care Tangerang,135,10,timezone,Asia/Jakarta,1,"2024-06-19 21:06:51",faoul.djoyo,"2024-06-19 21:06:51",faoul.djoyo
+Halodoc Home Care Tangerang Rural,61,16,time_span_allowed_for_cancellation,"24",,"2024-04-01 14:39:48",wiwin.dwiutami.hakim,"2024-04-01 14:39:48",wiwin.dwiutami.hakim
+Halodoc Home Care Tangerang Rural,62,16,time_span_allowed_for_reschedule,"24",,"2024-04-01 14:39:48",wiwin.dwiutami.hakim,"2024-04-01 14:39:48",wiwin.dwiutami.hakim
+Halodoc Home Care Tangerang Rural,63,16,time_span_allowed_for_cancellation_unit,HOURS,,"2024-04-01 14:39:48",wiwin.dwiutami.hakim,"2024-04-01 14:39:48",wiwin.dwiutami.hakim
+Halodoc Home Care Tangerang Rural,64,16,time_span_allowed_for_reschedule_unit,HOURS,,"2024-04-01 14:39:48",wiwin.dwiutami.hakim,"2024-04-01 14:39:48",wiwin.dwiutami.hakim
+Halodoc Home Care Tangerang Rural,89,16,transportation_fee_condition,true,,"2024-04-07 07:45:57",nabila.sauzan,"2024-04-08 11:26:26",roy.haryanto
+Halodoc Home Care Tangerang Rural,90,16,transportation_fee,"25000",,"2024-04-07 07:45:57",nabila.sauzan,"2024-04-08 11:26:26",roy.haryanto
+Halodoc Home Care Tangerang Rural,91,16,min_cart_price,"250000",,"2024-04-07 07:45:57",nabila.sauzan,"2024-04-23 13:49:29",roy.haryanto
+Halodoc Home Care Tangerang Rural,162,16,timezone,Asia/Jakarta,1,"2024-07-05 16:09:58",wiwin.dwiutami.hakim,"2024-07-05 16:09:58",wiwin.dwiutami.hakim
+Halodoc Home Care Tangerang Rural,163,16,timezone,Asia/Jakarta,1,"2024-07-05 16:09:59",wiwin.dwiutami.hakim,"2024-07-05 16:09:59",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,108,18,time_span_allowed_for_cancellation,"24",,"2024-05-02 11:20:07",wiwin.dwiutami.hakim,"2024-05-02 11:20:07",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,109,18,time_span_allowed_for_reschedule,"24",,"2024-05-02 11:20:07",wiwin.dwiutami.hakim,"2024-05-02 11:20:07",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,110,18,transportation_fee_condition,false,,"2024-05-02 11:20:07",wiwin.dwiutami.hakim,"2024-05-02 11:20:07",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,111,18,time_span_allowed_for_cancellation_unit,HOURS,,"2024-05-02 11:20:07",wiwin.dwiutami.hakim,"2024-05-02 11:20:07",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,112,18,transportation_fee,"0",,"2024-05-02 11:20:07",wiwin.dwiutami.hakim,"2024-05-02 11:20:07",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,113,18,time_span_allowed_for_reschedule_unit,HOURS,,"2024-05-02 11:20:07",wiwin.dwiutami.hakim,"2024-05-02 11:20:07",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,114,18,min_cart_price,"0",,"2024-05-02 11:20:07",wiwin.dwiutami.hakim,"2024-05-02 11:20:07",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta,182,18,timezone,Asia/Jakarta,1,"2024-10-07 09:09:29",jocelyn.tandrian,"2024-10-07 09:09:29",jocelyn.tandrian
+Halodoc Home Care Yogyakarta,183,18,timezone,Asia/Jakarta,1,"2024-10-07 09:09:29",jocelyn.tandrian,"2024-10-07 09:09:29",jocelyn.tandrian
+Halodoc Home Care Yogyakarta TMC,232,30,time_span_allowed_for_cancellation,"24",,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta TMC,233,30,time_span_allowed_for_reschedule,"24",,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta TMC,234,30,transportation_fee_condition,false,,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta TMC,235,30,time_span_allowed_for_cancellation_unit,HOURS,,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta TMC,236,30,transportation_fee,"0",,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta TMC,237,30,time_span_allowed_for_reschedule_unit,HOURS,,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta TMC,238,30,min_cart_price,"0",,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+Halodoc Home Care Yogyakarta TMC,239,30,timezone,Asia/Jakarta,1,"2025-01-14 11:32:30",wiwin.dwiutami.hakim,"2025-01-14 11:32:30",wiwin.dwiutami.hakim
+PND,13,4,time_span_allowed_for_cancellation,"24",,"2023-08-09 18:10:31",wiwin.dwiutami.hakim,"2023-08-09 18:10:31",wiwin.dwiutami.hakim
+PND,14,4,time_span_allowed_for_reschedule,"24",,"2023-08-09 18:10:31",wiwin.dwiutami.hakim,"2023-08-09 18:10:31",wiwin.dwiutami.hakim
+PND,15,4,time_span_allowed_for_cancellation_unit,HOURS,,"2023-08-09 18:10:31",wiwin.dwiutami.hakim,"2023-08-09 18:10:31",wiwin.dwiutami.hakim
+PND,16,4,time_span_allowed_for_reschedule_unit,HOURS,,"2023-08-09 18:10:31",wiwin.dwiutami.hakim,"2023-08-09 18:10:31",wiwin.dwiutami.hakim
+PND,118,4,transportation_fee_condition,false,,"2024-05-30 17:12:51",audhy.prabowo,"2024-05-30 17:12:51",audhy.prabowo
+PND,119,4,transportation_fee,"0",,"2024-05-30 17:12:51",audhy.prabowo,"2024-05-30 17:12:51",audhy.prabowo
+PND,120,4,min_cart_price,"0",,"2024-05-30 17:12:51",audhy.prabowo,"2024-05-30 17:12:51",audhy.prabowo
+PND,148,4,timezone,Asia/Jakarta,1,"2024-06-29 17:06:03",wiwin.dwiutami.hakim,"2024-06-29 17:06:03",wiwin.dwiutami.hakim
+PND,149,4,timezone,Asia/Jakarta,1,"2024-06-29 17:06:04",wiwin.dwiutami.hakim,"2024-06-29 17:06:04",wiwin.dwiutami.hakim

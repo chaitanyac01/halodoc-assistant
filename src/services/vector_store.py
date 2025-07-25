@@ -28,12 +28,15 @@ class VectorStore:
         )
         
         # Create or get collection for FAQ documents
-        self.collection = self.client.get_or_create_collection(
+        self.faq_collection = self.client.get_or_create_collection(
             name="halodoc_faq",
             metadata={"description": "Halodoc homecare services FAQ and documentation"}
         )
-        
-        logger.info(f"Vector store initialized with {self.collection.count()} documents")
+        self.catalog_collection = self.client.get_or_create_collection(
+            name="halodoc_catalog",
+            metadata={"description": "Halodoc structured homecare catalog (test names, prices, etc.)"}
+        ) 
+        logger.info(f"Vector store initialized with {self.faq_collection.count()} documents")
     
     @property
     def embedding_model(self):
@@ -158,7 +161,7 @@ class VectorStore:
                 future = executor.submit(generate_embeddings)
                 embeddings = future.result()
 
-            self.collection.upsert(
+            self.faq_collection.upsert(
                 documents=documents,
                 embeddings=embeddings,
                 metadatas=metadatas,
@@ -167,7 +170,40 @@ class VectorStore:
 
             logger.info(f"Upserted batch {i + 1}/{num_batches} with {len(batch)} documents")
 
-    
+    def _add_catalog_documents(self, chunks: List[Dict[str, str]], batch_size: int = 5000):
+        from math import ceil
+
+        total = len(chunks)
+        num_batches = ceil(total / batch_size)
+
+        for i in range(num_batches):
+            batch = chunks[i * batch_size: (i + 1) * batch_size]
+
+            documents = [chunk["content"] for chunk in batch]
+            metadatas = [{
+                "page": chunk.get("page", None),
+                "source": chunk.get("source", None),
+                "chunk_id": chunk["chunk_id"]
+            } for chunk in batch]
+            ids = [chunk["chunk_id"] for chunk in batch]
+
+            def generate_embeddings():
+                return self.embedding_model.encode(documents).tolist()
+
+            with ThreadPoolExecutor() as executor:
+                future = executor.submit(generate_embeddings)
+                embeddings = future.result()
+
+            self.catalog_collection.upsert(
+                documents=documents,
+                embeddings=embeddings,
+                metadatas=metadatas,
+                ids=ids
+            )
+
+            logger.info(f"Upserted batch {i + 1}/{num_batches} with {len(batch)} documents")
+
+
     async def search(self, query: str, k: int = 5) -> List[Dict[str, any]]:
         """Search for relevant documents"""
         try:
@@ -179,7 +215,7 @@ class VectorStore:
             query_embedding = await asyncio.to_thread(generate_query_embedding)
             
             # Search in collection
-            results = self.collection.query(
+            results = self.faq_collection.query(
                 query_embeddings=query_embedding,
                 n_results=k,
                 include=["documents", "metadatas", "distances"]
@@ -204,11 +240,63 @@ class VectorStore:
             logger.error(f"Search error: {str(e)}")
             return []
     
+    async def search_catalog_collection(self, query: str, k: int = 5) -> List[Dict[str, any]]:
+        """Search for relevant documents"""
+        try:
+            # Generate query embedding in a thread to avoid event loop conflicts
+            def generate_query_embedding():
+                return self.embedding_model.encode([query]).tolist()
+            
+            # Run embedding generation in a thread
+            query_embedding = await asyncio.to_thread(generate_query_embedding)
+            
+            # Search in collection
+            results = self.catalog_collection.query(
+                query_embeddings=query_embedding,
+                n_results=k,
+                include=["documents", "metadatas", "distances"]
+            )
+            
+            # Format results
+            formatted_results = []
+            if results['documents'] and len(results['documents']) > 0:
+                for i in range(len(results['documents'][0])):
+                    formatted_results.append({
+                        "content": results['documents'][0][i],
+                        "metadata": results['metadatas'][0][i] if results['metadatas'] else {},
+                        "score": 1 - results['distances'][0][i] if results['distances'] else 0,
+                        "source": results['metadatas'][0][i].get('source', 'Unknown') if results['metadatas'] else 'Unknown',
+                        "page": results['metadatas'][0][i].get('page', 0) if results['metadatas'] else 0
+                    })
+            
+            logger.info(f"Found {len(formatted_results)} relevant documents for query: {query[:50]}...")
+            return formatted_results
+            
+        except Exception as e:
+            logger.error(f"Search error: {str(e)}")
+            return []
+    
+    
+    
     def clear_collection(self):
         """Clear all documents from the collection"""
         try:
             self.client.delete_collection("halodoc_faq")
-            self.collection = self.client.create_collection(
+            self.faq_collection = self.client.create_collection(
+                name="halodoc_faq",
+                metadata={"description": "Halodoc structured homecare catalog (test names, prices, etc.)"}
+            )
+            logger.info("Collection cleared successfully")
+        except Exception as e:
+            logger.error(f"Error clearing collection: {str(e)}")
+
+    
+        
+    def clear_catalog_collection(self):
+        """Clear all documents from the collection"""
+        try:
+            self.client.delete_collection("halodoc_catalog")
+            self.catalog_collection = self.client.create_collection(
                 name="halodoc_faq",
                 metadata={"description": "Halodoc homecare services FAQ and documentation"}
             )
@@ -216,6 +304,7 @@ class VectorStore:
         except Exception as e:
             logger.error(f"Error clearing collection: {str(e)}")
 
+    
     def process_csv(self, csv_path: str) -> List[Dict[str, str]]:
         import pandas as pd
 
@@ -280,5 +369,5 @@ class VectorStore:
             all_chunks.extend(chunks)
 
         if all_chunks:
-            self._add_documents(all_chunks)
+            self._add_catalog_documents(all_chunks)
             logger.info(f"Successfully loaded {len(all_chunks)} chunks from {len(csv_files)} CSVs")

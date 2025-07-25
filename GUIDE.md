@@ -27,7 +27,7 @@ cp your_faq_files.pdf data/faq_documents/
 
 ### Step 5: Start Demo
 ```bash
-python main.py
+streamlit run app.py
 ```
 
 ## 🎯 Demo Script for Judges

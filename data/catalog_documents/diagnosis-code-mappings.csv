@@ -1,0 +1,1079 @@
+"name","id","icd_code","package_id","status","display_order","created_at","updated_at","created_by","updated_by"
+Hematologi Rutin,1,A09,208,active,1,"2024-09-11 14:16:18","2024-09-16 13:59:17",Dev Token,Dev Token
+Complete Blood Count,1,A09,208,active,1,"2024-09-11 14:16:18","2024-09-16 13:59:17",Dev Token,Dev Token
+Pemeriksaan Feses Rutin,2,A09,200,active,2,"2024-09-11 14:16:19","2024-09-16 13:59:18",Dev Token,Dev Token
+Stool Microscopic Examination,2,A09,200,active,2,"2024-09-11 14:16:19","2024-09-16 13:59:18",Dev Token,Dev Token
+Laju Endap Darah (LED),3,A09,127,active,3,"2024-09-11 14:16:20","2024-09-16 13:59:19",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),3,A09,127,active,3,"2024-09-11 14:16:20","2024-09-16 13:59:19",Dev Token,Dev Token
+Anti-Salmonella IgM,4,A09,173,active,4,"2024-09-11 14:16:21","2024-09-16 13:59:20",Dev Token,Dev Token
+Anti-Salmonella IgM,4,A09,173,active,4,"2024-09-11 14:16:21","2024-09-16 13:59:20",Dev Token,Dev Token
+Widal,5,A09,117,active,5,"2024-09-11 14:16:22","2024-09-16 13:59:22",Dev Token,Dev Token
+Widal,5,A09,117,active,5,"2024-09-11 14:16:22","2024-09-16 13:59:22",Dev Token,Dev Token
+Cek Infeksi Menular Seksual,6,A54,17,active,1,"2024-09-11 14:16:24","2024-09-16 13:59:23",Dev Token,Dev Token
+Sexual Transmitted Infection Test,6,A54,17,active,1,"2024-09-11 14:16:24","2024-09-16 13:59:23",Dev Token,Dev Token
+Urine Rutin,7,A54,158,active,2,"2024-09-11 14:16:25","2024-09-16 13:59:24",Dev Token,Dev Token
+Urinalysis Complete Panel,7,A54,158,active,2,"2024-09-11 14:16:25","2024-09-16 13:59:24",Dev Token,Dev Token
+Syphilis (VDRL/RPR),8,A54,123,active,3,"2024-09-11 14:16:26","2024-09-16 13:59:25",Dev Token,Dev Token
+Syphilis (VDRL/RPR),8,A54,123,active,3,"2024-09-11 14:16:26","2024-09-16 13:59:25",Dev Token,Dev Token
+Syphilis (TPHA),9,A54,98,active,4,"2024-09-11 14:16:27","2024-09-16 13:59:26",Dev Token,Dev Token
+Syphilis (TPHA),9,A54,98,active,4,"2024-09-11 14:16:27","2024-09-16 13:59:26",Dev Token,Dev Token
+Cek Infeksi Saluran Kemih,10,A54,12,inactive,5,"2024-09-11 14:16:28","2024-10-03 17:47:23",Dev Token,Dev Token
+Urinary Tract Infection Check,10,A54,12,inactive,5,"2024-09-11 14:16:28","2024-10-03 17:47:23",Dev Token,Dev Token
+Hematologi Rutin,11,A63.0,208,active,3,"2024-09-11 14:16:29","2024-10-03 17:39:27",Dev Token,Dev Token
+Complete Blood Count,11,A63.0,208,active,3,"2024-09-11 14:16:29","2024-10-03 17:39:27",Dev Token,Dev Token
+Cek Infeksi Menular Seksual,12,A63.0,17,active,2,"2024-09-11 14:16:30","2024-09-16 13:59:29",Dev Token,Dev Token
+Sexual Transmitted Infection Test,12,A63.0,17,active,2,"2024-09-11 14:16:30","2024-09-16 13:59:29",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,13,A63.0,126,inactive,3,"2024-09-11 14:16:31","2024-10-03 17:47:26",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,13,A63.0,126,inactive,3,"2024-09-11 14:16:31","2024-10-03 17:47:26",Dev Token,Dev Token
+Anti-HIV (Rapid),14,A63.0,132,active,4,"2024-09-11 14:16:32","2024-09-16 13:59:31",Dev Token,Dev Token
+Anti-HIV (Rapid),14,A63.0,132,active,4,"2024-09-11 14:16:32","2024-09-16 13:59:31",Dev Token,Dev Token
+Vaksinasi HPV Nonavalen (Gardasil 9),15,A63.0,354,active,5,"2024-09-11 14:16:33","2024-09-16 13:59:32",Dev Token,Dev Token
+HPV Nonavalent Vaccination (Gardasil 9),15,A63.0,354,active,5,"2024-09-11 14:16:33","2024-09-16 13:59:32",Dev Token,Dev Token
+Hematologi Rutin,16,A88.1,208,active,4,"2024-09-11 14:16:34","2024-10-03 17:39:28",Dev Token,Dev Token
+Complete Blood Count,16,A88.1,208,active,4,"2024-09-11 14:16:34","2024-10-03 17:39:28",Dev Token,Dev Token
+Halodoc Medical Check-Up Complete,17,A88.1,18,inactive,2,"2024-09-11 14:16:35","2024-10-03 17:48:11",Dev Token,Dev Token
+Halodoc Complete Medical Check-Up,17,A88.1,18,inactive,2,"2024-09-11 14:16:35","2024-10-03 17:48:11",Dev Token,Dev Token
+Medical Check Up Hemat,18,A88.1,32,active,3,"2024-09-11 14:16:36","2024-09-16 13:59:35",Dev Token,Dev Token
+Pocket-friendly Medical Check Up,18,A88.1,32,active,3,"2024-09-11 14:16:36","2024-09-16 13:59:35",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,19,A88.1,126,inactive,4,"2024-09-11 14:16:37","2024-10-03 17:47:27",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,19,A88.1,126,inactive,4,"2024-09-11 14:16:37","2024-10-03 17:47:27",Dev Token,Dev Token
+Medical Check Up Standar,20,A88.1,53,active,5,"2024-09-11 14:27:04","2024-09-16 13:59:37",Dev Token,Dev Token
+Standard Medical Check Up,20,A88.1,53,active,5,"2024-09-11 14:27:04","2024-09-16 13:59:37",Dev Token,Dev Token
+Hematologi Rutin,21,B01,208,active,2,"2024-09-11 14:27:05","2025-06-25 14:22:47",Dev Token,Dev Token
+Complete Blood Count,21,B01,208,active,2,"2024-09-11 14:27:05","2025-06-25 14:22:47",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,22,B01,126,inactive,2,"2024-09-11 14:27:06","2024-10-03 17:47:28",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,22,B01,126,inactive,2,"2024-09-11 14:27:06","2024-10-03 17:47:28",Dev Token,Dev Token
+Laju Endap Darah (LED),23,B01,127,inactive,3,"2024-09-11 14:27:07","2025-06-25 14:21:29",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),23,B01,127,inactive,3,"2024-09-11 14:27:07","2025-06-25 14:21:29",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,24,B01,7,inactive,4,"2024-09-11 14:27:08","2025-06-25 14:21:29",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,24,B01,7,inactive,4,"2024-09-11 14:27:08","2025-06-25 14:21:29",Dev Token,Dev Token
+Cek Demam Lengkap,25,B01,296,inactive,5,"2024-09-11 14:27:09","2024-10-03 17:48:15",Dev Token,Dev Token
+Complete Fever Check,25,B01,296,inactive,5,"2024-09-11 14:27:09","2024-10-03 17:48:15",Dev Token,Dev Token
+Hematologi Rutin,26,B02,208,active,2,"2024-09-11 14:27:10","2025-06-25 14:22:47",Dev Token,Dev Token
+Complete Blood Count,26,B02,208,active,2,"2024-09-11 14:27:10","2025-06-25 14:22:47",Dev Token,Dev Token
+Injeksi Vitamin C,27,B02,320,active,4,"2024-09-11 14:27:11","2025-06-25 14:22:47",Dev Token,Dev Token
+Vitamin C Injection,27,B02,320,active,4,"2024-09-11 14:27:11","2025-06-25 14:22:47",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),28,B02,347,active,5,"2024-09-11 14:27:12","2025-06-25 14:22:47",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),28,B02,347,active,5,"2024-09-11 14:27:12","2025-06-25 14:22:47",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,29,B02,7,inactive,4,"2024-09-11 14:27:14","2025-06-25 14:21:29",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,29,B02,7,inactive,4,"2024-09-11 14:27:14","2025-06-25 14:21:29",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,30,B02,126,inactive,5,"2024-09-11 14:27:15","2024-10-03 17:47:29",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,30,B02,126,inactive,5,"2024-09-11 14:27:15","2024-10-03 17:47:29",Dev Token,Dev Token
+Hematologi Rutin,31,B26,208,active,2,"2024-09-11 14:27:16","2024-10-03 17:39:31",Dev Token,Dev Token
+Complete Blood Count,31,B26,208,active,2,"2024-09-11 14:27:16","2024-10-03 17:39:31",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,32,B26,126,inactive,2,"2024-09-11 14:27:17","2024-10-03 17:47:31",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,32,B26,126,inactive,2,"2024-09-11 14:27:17","2024-10-03 17:47:31",Dev Token,Dev Token
+Laju Endap Darah (LED),33,B26,127,active,3,"2024-09-11 14:27:18","2024-09-16 13:59:51",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),33,B26,127,active,3,"2024-09-11 14:27:18","2024-09-16 13:59:51",Dev Token,Dev Token
+Cek Demam Lengkap,34,B26,296,inactive,4,"2024-09-11 14:27:19","2024-10-03 17:48:16",Dev Token,Dev Token
+Complete Fever Check,34,B26,296,inactive,4,"2024-09-11 14:27:19","2024-10-03 17:48:16",Dev Token,Dev Token
+C-Reactive Protein (CRP),35,B26,124,active,5,"2024-09-11 14:27:20","2024-09-16 13:59:53",Dev Token,Dev Token
+C-Reactive Protein (CRP),35,B26,124,active,5,"2024-09-11 14:27:20","2024-09-16 13:59:53",Dev Token,Dev Token
+Hematologi Rutin,36,B34.8,208,active,4,"2024-09-11 14:27:21","2024-10-03 17:39:32",Dev Token,Dev Token
+Complete Blood Count,36,B34.8,208,active,4,"2024-09-11 14:27:21","2024-10-03 17:39:32",Dev Token,Dev Token
+Cek Demam Lengkap,37,B34.8,296,inactive,2,"2024-09-11 14:27:22","2024-10-03 17:48:17",Dev Token,Dev Token
+Complete Fever Check,37,B34.8,296,inactive,2,"2024-09-11 14:27:22","2024-10-03 17:48:17",Dev Token,Dev Token
+Laju Endap Darah (LED),38,B34.8,127,active,3,"2024-09-11 14:27:23","2024-09-16 13:59:56",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),38,B34.8,127,active,3,"2024-09-11 14:27:23","2024-09-16 13:59:56",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,39,B34.8,126,inactive,4,"2024-09-11 14:27:24","2024-10-03 17:47:32",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,39,B34.8,126,inactive,4,"2024-09-11 14:27:24","2024-10-03 17:47:32",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),40,B34.8,347,active,5,"2024-09-11 14:27:25","2024-09-16 13:59:58",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),40,B34.8,347,active,5,"2024-09-11 14:27:25","2024-09-16 13:59:58",Dev Token,Dev Token
+Hematologi Rutin,41,B35.4,208,active,1,"2024-09-11 14:27:26","2024-09-16 13:59:59",Dev Token,Dev Token
+Complete Blood Count,41,B35.4,208,active,1,"2024-09-11 14:27:26","2024-09-16 13:59:59",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,42,B35.4,7,active,2,"2024-09-11 14:27:27","2024-09-16 14:00:02",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,42,B35.4,7,active,2,"2024-09-11 14:27:27","2024-09-16 14:00:02",Dev Token,Dev Token
+IgE Total,43,B35.4,115,active,3,"2024-09-11 14:27:28","2024-09-16 14:00:03",Dev Token,Dev Token
+Total IgE,43,B35.4,115,active,3,"2024-09-11 14:27:28","2024-09-16 14:00:03",Dev Token,Dev Token
+HbA1c,44,B35.4,63,active,4,"2024-09-11 14:27:29","2024-09-16 14:00:04",Dev Token,Dev Token
+HbA1c,44,B35.4,63,active,4,"2024-09-11 14:27:29","2024-09-16 14:00:04",Dev Token,Dev Token
+Laju Endap Darah (LED),45,B35.4,127,active,5,"2024-09-11 14:27:30","2024-09-16 14:00:05",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),45,B35.4,127,active,5,"2024-09-11 14:27:30","2024-09-16 14:00:05",Dev Token,Dev Token
+Hematologi Rutin,46,B35.6,208,active,5,"2024-09-11 14:27:31","2024-10-03 17:39:33",Dev Token,Dev Token
+Complete Blood Count,46,B35.6,208,active,5,"2024-09-11 14:27:31","2024-10-03 17:39:33",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,47,B35.6,7,active,2,"2024-09-11 14:27:32","2024-09-16 14:00:07",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,47,B35.6,7,active,2,"2024-09-11 14:27:32","2024-09-16 14:00:07",Dev Token,Dev Token
+Laju Endap Darah (LED),48,B35.6,127,active,3,"2024-09-11 14:27:33","2024-09-16 14:00:09",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),48,B35.6,127,active,3,"2024-09-11 14:27:33","2024-09-16 14:00:09",Dev Token,Dev Token
+IgE Total,49,B35.6,115,active,4,"2024-09-11 14:27:34","2024-09-16 14:00:10",Dev Token,Dev Token
+Total IgE,49,B35.6,115,active,4,"2024-09-11 14:27:34","2024-09-16 14:00:10",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,50,B35.6,126,inactive,5,"2024-09-11 14:27:35","2024-10-03 17:47:33",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,50,B35.6,126,inactive,5,"2024-09-11 14:27:35","2024-10-03 17:47:33",Dev Token,Dev Token
+Hematologi Rutin,51,B37,208,active,4,"2024-09-11 14:27:36","2024-10-03 17:39:34",Dev Token,Dev Token
+Complete Blood Count,51,B37,208,active,4,"2024-09-11 14:27:36","2024-10-03 17:39:34",Dev Token,Dev Token
+Urine Rutin,52,B37,158,active,2,"2024-09-11 14:27:37","2024-09-16 14:00:13",Dev Token,Dev Token
+Urinalysis Complete Panel,52,B37,158,active,2,"2024-09-11 14:27:37","2024-09-16 14:00:13",Dev Token,Dev Token
+Cek Infeksi Saluran Kemih,53,B37,12,inactive,3,"2024-09-11 14:27:38","2024-10-03 17:47:24",Dev Token,Dev Token
+Urinary Tract Infection Check,53,B37,12,inactive,3,"2024-09-11 14:27:38","2024-10-03 17:47:24",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,54,B37,126,inactive,4,"2024-09-11 14:27:39","2024-10-03 17:47:34",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,54,B37,126,inactive,4,"2024-09-11 14:27:39","2024-10-03 17:47:34",Dev Token,Dev Token
+Vaksinasi HPV Nonavalen (Gardasil 9),55,B37,354,active,5,"2024-09-11 14:27:40","2024-09-16 14:00:16",Dev Token,Dev Token
+HPV Nonavalent Vaccination (Gardasil 9),55,B37,354,active,5,"2024-09-11 14:27:40","2024-09-16 14:00:16",Dev Token,Dev Token
+Hematologi Rutin,56,B37.3,208,active,4,"2024-09-11 14:27:41","2024-10-03 17:39:36",Dev Token,Dev Token
+Complete Blood Count,56,B37.3,208,active,4,"2024-09-11 14:27:41","2024-10-03 17:39:36",Dev Token,Dev Token
+Urine Rutin,57,B37.3,158,active,2,"2024-09-11 14:27:43","2024-09-16 14:00:18",Dev Token,Dev Token
+Urinalysis Complete Panel,57,B37.3,158,active,2,"2024-09-11 14:27:43","2024-09-16 14:00:18",Dev Token,Dev Token
+Cek Infeksi Saluran Kemih,58,B37.3,12,inactive,3,"2024-09-11 14:27:44","2024-10-03 17:47:25",Dev Token,Dev Token
+Urinary Tract Infection Check,58,B37.3,12,inactive,3,"2024-09-11 14:27:44","2024-10-03 17:47:25",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,59,B37.3,126,inactive,4,"2024-09-11 14:27:45","2024-10-03 17:47:35",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,59,B37.3,126,inactive,4,"2024-09-11 14:27:45","2024-10-03 17:47:35",Dev Token,Dev Token
+Cek Infeksi Menular Seksual,60,B37.3,17,active,5,"2024-09-11 14:27:46","2024-09-16 14:00:21",Dev Token,Dev Token
+Sexual Transmitted Infection Test,60,B37.3,17,active,5,"2024-09-11 14:27:46","2024-09-16 14:00:21",Dev Token,Dev Token
+Hematologi Rutin,61,B86,208,active,1,"2024-09-11 14:27:47","2024-09-16 14:00:22",Dev Token,Dev Token
+Complete Blood Count,61,B86,208,active,1,"2024-09-11 14:27:47","2024-09-16 14:00:22",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,62,B86,7,active,2,"2024-09-11 14:27:48","2024-09-16 14:00:23",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,62,B86,7,active,2,"2024-09-11 14:27:48","2024-09-16 14:00:23",Dev Token,Dev Token
+Panel Alergi,63,B86,283,inactive,3,"2024-09-11 14:27:49","2024-10-03 17:48:33",Dev Token,Dev Token
+Allergy Panel,63,B86,283,inactive,3,"2024-09-11 14:27:49","2024-10-03 17:48:33",Dev Token,Dev Token
+Glukosa Sewaktu,64,B86,170,active,4,"2024-09-11 14:27:50","2024-09-16 14:00:26",Dev Token,Dev Token
+Random Blood Glucose,64,B86,170,active,4,"2024-09-11 14:27:50","2024-09-16 14:00:26",Dev Token,Dev Token
+Cek Diabetes,65,B86,1,active,5,"2024-09-11 14:27:51","2024-09-16 14:00:27",Dev Token,Dev Token
+Diabetes Test,65,B86,1,active,5,"2024-09-11 14:27:51","2024-09-16 14:00:27",Dev Token,Dev Token
+Medical Check Up Standar,66,E66,53,active,1,"2024-09-11 14:27:52","2024-09-16 14:00:28",Dev Token,Dev Token
+Standard Medical Check Up,66,E66,53,active,1,"2024-09-11 14:27:52","2024-09-16 14:00:28",Dev Token,Dev Token
+Medical Check Up Hemat,67,E66,32,active,2,"2024-09-11 14:27:53","2024-09-16 14:00:29",Dev Token,Dev Token
+Pocket-friendly Medical Check Up,67,E66,32,active,2,"2024-09-11 14:27:53","2024-09-16 14:00:29",Dev Token,Dev Token
+Vitamin D,68,E66,24,active,3,"2024-09-11 14:27:54","2024-09-16 14:00:30",Dev Token,Dev Token
+Vitamin D,68,E66,24,active,3,"2024-09-11 14:27:54","2024-09-16 14:00:30",Dev Token,Dev Token
+Kolesterol Total,69,E66,55,active,4,"2024-09-11 14:27:55","2024-09-16 14:00:31",Dev Token,Dev Token
+Total Cholesterol,69,E66,55,active,4,"2024-09-11 14:27:55","2024-09-16 14:00:31",Dev Token,Dev Token
+Hematologi Rutin,70,E66,208,active,5,"2024-09-11 14:27:56","2024-09-16 14:00:32",Dev Token,Dev Token
+Complete Blood Count,70,E66,208,active,5,"2024-09-11 14:27:56","2024-09-16 14:00:32",Dev Token,Dev Token
+Hematologi Rutin,71,G44.2,208,active,4,"2024-09-11 14:27:57","2024-10-03 17:39:37",Dev Token,Dev Token
+Complete Blood Count,71,G44.2,208,active,4,"2024-09-11 14:27:57","2024-10-03 17:39:37",Dev Token,Dev Token
+Injeksi Vitamin B12 (Saraf & Otak),72,G44.2,356,active,2,"2024-09-11 14:27:58","2024-09-16 14:00:34",Dev Token,Dev Token
+Vitamin B12 Injection (Neuron & Brain),72,G44.2,356,active,2,"2024-09-11 14:27:58","2024-09-16 14:00:34",Dev Token,Dev Token
+Medical Check Up Standar,73,G44.2,53,active,3,"2024-09-11 14:27:59","2024-09-16 14:00:35",Dev Token,Dev Token
+Standard Medical Check Up,73,G44.2,53,active,3,"2024-09-11 14:27:59","2024-09-16 14:00:35",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,74,G44.2,126,inactive,4,"2024-09-11 14:28:00","2024-10-03 17:47:36",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,74,G44.2,126,inactive,4,"2024-09-11 14:28:00","2024-10-03 17:47:36",Dev Token,Dev Token
+Injeksi Vitamin C,75,G44.2,320,active,5,"2024-09-11 14:28:02","2024-09-16 14:00:37",Dev Token,Dev Token
+Vitamin C Injection,75,G44.2,320,active,5,"2024-09-11 14:28:02","2024-09-16 14:00:37",Dev Token,Dev Token
+Hematologi Rutin,76,H00,208,active,1,"2024-09-11 14:28:03","2024-09-16 14:00:38",Dev Token,Dev Token
+Complete Blood Count,76,H00,208,active,1,"2024-09-11 14:28:03","2024-09-16 14:00:38",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,77,H00,7,active,2,"2024-09-11 14:28:04","2024-09-16 14:00:39",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,77,H00,7,active,2,"2024-09-11 14:28:04","2024-09-16 14:00:39",Dev Token,Dev Token
+Eosinofil,78,H00,121,active,3,"2024-09-11 14:28:05","2024-09-16 14:00:40",Dev Token,Dev Token
+Eosinophil Count,78,H00,121,active,3,"2024-09-11 14:28:05","2024-09-16 14:00:40",Dev Token,Dev Token
+Laju Endap Darah (LED),79,H00,127,active,4,"2024-09-11 14:28:06","2024-09-16 14:00:41",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),79,H00,127,active,4,"2024-09-11 14:28:06","2024-09-16 14:00:41",Dev Token,Dev Token
+HbA1c,80,H00,63,active,5,"2024-09-11 14:28:07","2024-09-16 14:00:42",Dev Token,Dev Token
+HbA1c,80,H00,63,active,5,"2024-09-11 14:28:07","2024-09-16 14:00:42",Dev Token,Dev Token
+Hematologi Rutin,81,H00.0,208,active,2,"2024-09-11 14:28:08","2024-10-03 17:39:38",Dev Token,Dev Token
+Complete Blood Count,81,H00.0,208,active,2,"2024-09-11 14:28:08","2024-10-03 17:39:38",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,82,H00.0,126,inactive,2,"2024-09-11 14:28:09","2024-10-03 17:47:37",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,82,H00.0,126,inactive,2,"2024-09-11 14:28:09","2024-10-03 17:47:37",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),83,H00.0,347,active,3,"2024-09-11 14:28:10","2024-09-16 14:00:45",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),83,H00.0,347,active,3,"2024-09-11 14:28:10","2024-09-16 14:00:45",Dev Token,Dev Token
+Cek Demam Lengkap,84,H00.0,296,inactive,4,"2024-09-11 14:28:11","2024-10-03 17:48:18",Dev Token,Dev Token
+Complete Fever Check,84,H00.0,296,inactive,4,"2024-09-11 14:28:11","2024-10-03 17:48:18",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,85,H00.0,7,active,5,"2024-09-11 14:28:12","2024-09-16 14:00:47",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,85,H00.0,7,active,5,"2024-09-11 14:28:12","2024-09-16 14:00:47",Dev Token,Dev Token
+Hematologi Rutin,86,H01.0,208,active,5,"2024-09-11 14:28:13","2024-10-03 17:39:39",Dev Token,Dev Token
+Complete Blood Count,86,H01.0,208,active,5,"2024-09-11 14:28:13","2024-10-03 17:39:39",Dev Token,Dev Token
+Panel Alergi,87,H01.0,283,inactive,2,"2024-09-11 14:28:14","2024-10-03 17:48:34",Dev Token,Dev Token
+Allergy Panel,87,H01.0,283,inactive,2,"2024-09-11 14:28:14","2024-10-03 17:48:34",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,88,H01.0,7,active,3,"2024-09-11 14:28:15","2024-09-16 14:00:51",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,88,H01.0,7,active,3,"2024-09-11 14:28:15","2024-09-16 14:00:51",Dev Token,Dev Token
+IgE Total,89,H01.0,115,active,4,"2024-09-11 14:28:16","2024-09-16 14:00:52",Dev Token,Dev Token
+Total IgE,89,H01.0,115,active,4,"2024-09-11 14:28:16","2024-09-16 14:00:52",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,90,H01.0,126,inactive,5,"2024-09-11 14:28:17","2024-10-03 17:47:38",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,90,H01.0,126,inactive,5,"2024-09-11 14:28:17","2024-10-03 17:47:38",Dev Token,Dev Token
+Hematologi Rutin,91,H10,208,active,5,"2024-09-11 14:28:18","2024-10-03 17:39:40",Dev Token,Dev Token
+Complete Blood Count,91,H10,208,active,5,"2024-09-11 14:28:18","2024-10-03 17:39:40",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,92,H10,7,active,2,"2024-09-11 14:28:19","2024-09-16 14:00:55",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,92,H10,7,active,2,"2024-09-11 14:28:19","2024-09-16 14:00:55",Dev Token,Dev Token
+Panel Alergi,93,H10,283,inactive,3,"2024-09-11 14:28:20","2024-10-03 17:48:35",Dev Token,Dev Token
+Allergy Panel,93,H10,283,inactive,3,"2024-09-11 14:28:20","2024-10-03 17:48:35",Dev Token,Dev Token
+Eosinofil,94,H10,121,active,4,"2024-09-11 14:28:21","2024-09-16 14:00:57",Dev Token,Dev Token
+Eosinophil Count,94,H10,121,active,4,"2024-09-11 14:28:21","2024-09-16 14:00:57",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,95,H10,126,inactive,5,"2024-09-11 14:28:22","2024-10-03 17:47:39",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,95,H10,126,inactive,5,"2024-09-11 14:28:22","2024-10-03 17:47:39",Dev Token,Dev Token
+Hematologi Rutin,96,H60,208,active,1,"2024-09-11 14:28:23","2024-09-16 14:00:59",Dev Token,Dev Token
+Complete Blood Count,96,H60,208,active,1,"2024-09-11 14:28:23","2024-09-16 14:00:59",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),97,H60,347,active,2,"2024-09-11 14:28:24","2024-09-16 14:01:01",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),97,H60,347,active,2,"2024-09-11 14:28:24","2024-09-16 14:01:01",Dev Token,Dev Token
+Injeksi Vitamin C,98,H60,320,active,3,"2024-09-11 14:28:25","2024-09-16 14:01:02",Dev Token,Dev Token
+Vitamin C Injection,98,H60,320,active,3,"2024-09-11 14:28:25","2024-09-16 14:01:02",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,99,H60,355,active,4,"2024-09-11 14:28:26","2024-09-16 14:01:03",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,99,H60,355,active,4,"2024-09-11 14:28:26","2024-09-16 14:01:03",Dev Token,Dev Token
+Laju Endap Darah (LED),100,H60,127,active,5,"2024-09-11 14:28:27","2024-09-16 14:01:04",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),100,H60,127,active,5,"2024-09-11 14:28:27","2024-09-16 14:01:04",Dev Token,Dev Token
+Injeksi Vitamin B12 (Saraf & Otak),101,H81.1,356,active,1,"2024-09-11 14:28:29","2024-09-16 14:01:05",Dev Token,Dev Token
+Vitamin B12 Injection (Neuron & Brain),101,H81.1,356,active,1,"2024-09-11 14:28:29","2024-09-16 14:01:05",Dev Token,Dev Token
+Hematologi Rutin,102,H81.1,208,active,2,"2024-09-11 14:28:30","2024-09-16 14:01:06",Dev Token,Dev Token
+Complete Blood Count,102,H81.1,208,active,2,"2024-09-11 14:28:30","2024-09-16 14:01:06",Dev Token,Dev Token
+Cek Kolesterol,103,H81.1,43,active,3,"2024-09-11 14:28:31","2024-09-16 14:01:07",Dev Token,Dev Token
+Cholesterol Test,103,H81.1,43,active,3,"2024-09-11 14:28:31","2024-09-16 14:01:07",Dev Token,Dev Token
+Cek Kolesterol dan Gula Darah,104,H81.1,229,active,4,"2024-09-11 14:28:32","2024-09-16 14:01:08",Dev Token,Dev Token
+Cholesterol and Blood Sugar Test,104,H81.1,229,active,4,"2024-09-11 14:28:32","2024-09-16 14:01:08",Dev Token,Dev Token
+Medical Check Up Standar,105,H81.1,53,active,5,"2024-09-11 14:28:33","2024-09-16 14:01:09",Dev Token,Dev Token
+Standard Medical Check Up,105,H81.1,53,active,5,"2024-09-11 14:28:33","2024-09-16 14:01:09",Dev Token,Dev Token
+Hematologi Rutin,106,I10,208,active,1,"2024-09-11 14:28:34","2024-09-16 14:01:10",Dev Token,Dev Token
+Complete Blood Count,106,I10,208,active,1,"2024-09-11 14:28:34","2024-09-16 14:01:10",Dev Token,Dev Token
+Medical Check Up Standar,107,I10,53,active,2,"2024-09-11 14:28:35","2024-09-16 14:01:11",Dev Token,Dev Token
+Standard Medical Check Up,107,I10,53,active,2,"2024-09-11 14:28:35","2024-09-16 14:01:11",Dev Token,Dev Token
+Halodoc Medical Check-Up Complete,108,I10,18,inactive,3,"2024-09-11 14:28:36","2024-10-03 17:48:12",Dev Token,Dev Token
+Halodoc Complete Medical Check-Up,108,I10,18,inactive,3,"2024-09-11 14:28:36","2024-10-03 17:48:12",Dev Token,Dev Token
+Cek Kolesterol,109,I10,43,active,4,"2024-09-11 14:28:37","2024-09-16 14:01:13",Dev Token,Dev Token
+Cholesterol Test,109,I10,43,active,4,"2024-09-11 14:28:37","2024-09-16 14:01:13",Dev Token,Dev Token
+Trigliserida,110,I10,64,active,5,"2024-09-11 14:28:38","2024-09-16 14:01:14",Dev Token,Dev Token
+Triglyceride,110,I10,64,active,5,"2024-09-11 14:28:38","2024-09-16 14:01:14",Dev Token,Dev Token
+Hematologi Lengkap,111,I84,28,inactive,1,"2024-09-11 14:28:39","2024-10-03 17:48:51",Dev Token,Dev Token
+Complete Hematology,111,I84,28,inactive,1,"2024-09-11 14:28:39","2024-10-03 17:48:51",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,112,I84,126,inactive,2,"2024-09-11 14:28:40","2024-10-03 17:47:40",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,112,I84,126,inactive,2,"2024-09-11 14:28:40","2024-10-03 17:47:40",Dev Token,Dev Token
+Glukosa Sewaktu,113,I84,170,active,5,"2024-09-11 14:28:41","2024-09-16 14:01:19",Dev Token,Dev Token
+Random Blood Glucose,113,I84,170,active,5,"2024-09-11 14:28:41","2024-09-16 14:01:19",Dev Token,Dev Token
+Laju Endap Darah (LED),114,I84,127,active,4,"2024-09-11 14:28:42","2024-09-16 14:01:18",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),114,I84,127,active,4,"2024-09-11 14:28:42","2024-09-16 14:01:18",Dev Token,Dev Token
+Hematologi Rutin,115,I84.9,208,active,2,"2024-09-11 14:28:44","2024-10-03 17:39:42",Dev Token,Dev Token
+Complete Blood Count,115,I84.9,208,active,2,"2024-09-11 14:28:44","2024-10-03 17:39:42",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,116,I84.9,126,inactive,2,"2024-09-11 14:28:45","2024-10-03 17:47:41",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,116,I84.9,126,inactive,2,"2024-09-11 14:28:45","2024-10-03 17:47:41",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),117,I84.9,347,active,3,"2024-09-11 14:28:46","2024-09-16 14:01:23",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),117,I84.9,347,active,3,"2024-09-11 14:28:46","2024-09-16 14:01:23",Dev Token,Dev Token
+Injeksi Vitamin C,118,I84.9,320,active,4,"2024-09-11 14:28:47","2024-09-16 14:01:24",Dev Token,Dev Token
+Vitamin C Injection,118,I84.9,320,active,4,"2024-09-11 14:28:47","2024-09-16 14:01:24",Dev Token,Dev Token
+Urine Rutin,119,I84.9,158,active,5,"2024-09-11 14:28:48","2024-09-16 14:01:25",Dev Token,Dev Token
+Urinalysis Complete Panel,119,I84.9,158,active,5,"2024-09-11 14:28:48","2024-09-16 14:01:25",Dev Token,Dev Token
+Hematologi Rutin,120,J00,208,active,1,"2024-09-11 14:28:49","2024-09-16 14:01:26",Dev Token,Dev Token
+Complete Blood Count,120,J00,208,active,1,"2024-09-11 14:28:49","2024-09-16 14:01:26",Dev Token,Dev Token
+Vaksinasi Influenza (Vaxigrip Tetra),121,J00,310,active,2,"2024-09-11 14:28:50","2024-09-16 14:01:27",Dev Token,Dev Token
+Influenza Vaccination (Vaxigrip Tetra),121,J00,310,active,2,"2024-09-11 14:28:50","2024-09-16 14:01:27",Dev Token,Dev Token
+Injeksi Vitamin C,122,J00,320,active,3,"2024-09-11 14:28:51","2024-09-16 14:01:28",Dev Token,Dev Token
+Vitamin C Injection,122,J00,320,active,3,"2024-09-11 14:28:51","2024-09-16 14:01:28",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,123,J00,355,active,4,"2024-09-11 14:28:52","2024-09-16 14:01:29",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,123,J00,355,active,4,"2024-09-11 14:28:52","2024-09-16 14:01:29",Dev Token,Dev Token
+Infus Drip Vitamin C,124,J00,319,active,5,"2024-09-11 14:28:53","2024-09-16 14:01:30",Dev Token,Dev Token
+Vitamin C Infusion Drip,124,J00,319,active,5,"2024-09-11 14:28:53","2024-09-16 14:01:30",Dev Token,Dev Token
+Hematologi Rutin,125,J01,208,active,5,"2024-09-11 14:28:54","2024-10-03 17:39:43",Dev Token,Dev Token
+Complete Blood Count,125,J01,208,active,5,"2024-09-11 14:28:54","2024-10-03 17:39:43",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,126,J01,355,active,2,"2024-09-11 14:28:55","2024-09-16 14:01:32",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,126,J01,355,active,2,"2024-09-11 14:28:55","2024-09-16 14:01:32",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),127,J01,347,active,3,"2024-09-11 14:28:56","2024-09-16 14:01:33",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),127,J01,347,active,3,"2024-09-11 14:28:56","2024-09-16 14:01:33",Dev Token,Dev Token
+Injeksi Vitamin C,128,J01,320,active,4,"2024-09-11 14:28:57","2024-09-16 14:01:34",Dev Token,Dev Token
+Vitamin C Injection,128,J01,320,active,4,"2024-09-11 14:28:57","2024-09-16 14:01:34",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,129,J01,126,inactive,5,"2024-09-11 14:28:59","2024-10-03 17:47:42",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,129,J01,126,inactive,5,"2024-09-11 14:28:59","2024-10-03 17:47:42",Dev Token,Dev Token
+Hematologi Rutin,130,J02,208,active,2,"2024-09-11 14:29:00","2024-10-03 17:39:44",Dev Token,Dev Token
+Complete Blood Count,130,J02,208,active,2,"2024-09-11 14:29:00","2024-10-03 17:39:44",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,131,J02,126,inactive,2,"2024-09-11 14:29:01","2024-10-03 17:47:43",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,131,J02,126,inactive,2,"2024-09-11 14:29:01","2024-10-03 17:47:43",Dev Token,Dev Token
+Injeksi Vitamin C,132,J02,320,active,3,"2024-09-11 14:29:02","2024-09-16 14:01:39",Dev Token,Dev Token
+Vitamin C Injection,132,J02,320,active,3,"2024-09-11 14:29:02","2024-09-16 14:01:39",Dev Token,Dev Token
+Cek Demam Lengkap,133,J02,296,inactive,4,"2024-09-11 14:29:03","2024-10-03 17:48:19",Dev Token,Dev Token
+Complete Fever Check,133,J02,296,inactive,4,"2024-09-11 14:29:03","2024-10-03 17:48:19",Dev Token,Dev Token
+Paket Vaksinasi Influenza (Vaxigrip Tetra) + Pneumonia PCV13,134,J02,335,active,5,"2024-09-11 14:29:04","2024-09-16 14:01:41",Dev Token,Dev Token
+Influenza (Vaxigrip Tetra) + Pneumonia PCV13 Vaccination Bundle,134,J02,335,active,5,"2024-09-11 14:29:04","2024-09-16 14:01:41",Dev Token,Dev Token
+Hematologi Rutin,135,J02.0,208,active,5,"2024-09-11 14:29:05","2024-10-03 17:39:45",Dev Token,Dev Token
+Complete Blood Count,135,J02.0,208,active,5,"2024-09-11 14:29:05","2024-10-03 17:39:45",Dev Token,Dev Token
+Cek Demam Lengkap,136,J02.0,296,inactive,2,"2024-09-11 14:29:06","2024-10-03 17:48:20",Dev Token,Dev Token
+Complete Fever Check,136,J02.0,296,inactive,2,"2024-09-11 14:29:06","2024-10-03 17:48:20",Dev Token,Dev Token
+Laju Endap Darah (LED),137,J02.0,127,active,3,"2024-09-11 14:29:07","2024-09-16 14:01:44",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),137,J02.0,127,active,3,"2024-09-11 14:29:07","2024-09-16 14:01:44",Dev Token,Dev Token
+Halodoc Medical Check-Up Complete,138,J02.0,18,inactive,4,"2024-09-11 14:29:08","2024-10-03 17:48:13",Dev Token,Dev Token
+Halodoc Complete Medical Check-Up,138,J02.0,18,inactive,4,"2024-09-11 14:29:08","2024-10-03 17:48:13",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,139,J02.0,126,inactive,5,"2024-09-11 14:29:09","2024-10-03 17:47:44",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,139,J02.0,126,inactive,5,"2024-09-11 14:29:09","2024-10-03 17:47:44",Dev Token,Dev Token
+Hematologi Rutin,140,J02.8,208,active,1,"2024-09-11 14:29:10","2024-09-16 14:01:47",Dev Token,Dev Token
+Complete Blood Count,140,J02.8,208,active,1,"2024-09-11 14:29:10","2024-09-16 14:01:47",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,141,J02.8,7,active,2,"2024-09-11 14:29:11","2024-09-16 14:01:48",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,141,J02.8,7,active,2,"2024-09-11 14:29:11","2024-09-16 14:01:48",Dev Token,Dev Token
+Cek Demam Lengkap,142,J02.8,296,inactive,3,"2024-09-11 14:29:12","2024-10-03 17:48:21",Dev Token,Dev Token
+Complete Fever Check,142,J02.8,296,inactive,3,"2024-09-11 14:29:12","2024-10-03 17:48:21",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,143,J02.8,355,active,4,"2024-09-11 14:29:13","2024-09-16 14:01:50",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,143,J02.8,355,active,4,"2024-09-11 14:29:13","2024-09-16 14:01:50",Dev Token,Dev Token
+Injeksi Vitamin C,144,J02.8,320,active,5,"2024-09-11 14:29:14","2024-09-16 14:01:51",Dev Token,Dev Token
+Vitamin C Injection,144,J02.8,320,active,5,"2024-09-11 14:29:14","2024-09-16 14:01:51",Dev Token,Dev Token
+Cek Demam Lengkap,145,J03,296,inactive,1,"2024-09-11 14:29:15","2024-10-03 17:48:22",Dev Token,Dev Token
+Complete Fever Check,145,J03,296,inactive,1,"2024-09-11 14:29:15","2024-10-03 17:48:22",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,146,J03,355,active,2,"2024-09-11 14:29:16","2024-09-16 14:01:53",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,146,J03,355,active,2,"2024-09-11 14:29:16","2024-09-16 14:01:53",Dev Token,Dev Token
+Hematologi Rutin,147,J03,208,active,3,"2024-09-11 14:29:17","2024-09-16 14:01:54",Dev Token,Dev Token
+Complete Blood Count,147,J03,208,active,3,"2024-09-11 14:29:17","2024-09-16 14:01:54",Dev Token,Dev Token
+Injeksi Vitamin C,148,J03,320,active,4,"2024-09-11 14:29:18","2024-09-16 14:01:55",Dev Token,Dev Token
+Vitamin C Injection,148,J03,320,active,4,"2024-09-11 14:29:18","2024-09-16 14:01:55",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),149,J03,347,active,5,"2024-09-11 14:29:19","2024-09-16 14:01:56",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),149,J03,347,active,5,"2024-09-11 14:29:19","2024-09-16 14:01:56",Dev Token,Dev Token
+Hematologi Rutin,150,J06,208,active,1,"2024-09-11 14:29:20","2024-09-16 14:01:57",Dev Token,Dev Token
+Complete Blood Count,150,J06,208,active,1,"2024-09-11 14:29:20","2024-09-16 14:01:57",Dev Token,Dev Token
+Cek Demam Lengkap,151,J06,296,inactive,2,"2024-09-11 14:29:21","2024-10-03 17:48:24",Dev Token,Dev Token
+Complete Fever Check,151,J06,296,inactive,2,"2024-09-11 14:29:21","2024-10-03 17:48:24",Dev Token,Dev Token
+C-Reactive Protein (CRP),152,J06,124,active,3,"2024-09-11 14:29:22","2024-09-16 14:02:00",Dev Token,Dev Token
+C-Reactive Protein (CRP),152,J06,124,active,3,"2024-09-11 14:29:22","2024-09-16 14:02:00",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,153,J06,7,active,4,"2024-09-11 14:29:23","2024-09-16 14:02:01",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,153,J06,7,active,4,"2024-09-11 14:29:23","2024-09-16 14:02:01",Dev Token,Dev Token
+Antigen Dengue NS1 (Rapid),154,J06,120,active,5,"2024-09-11 14:29:24","2024-09-16 14:02:02",Dev Token,Dev Token
+Antigen Dengue NS1 (Rapid),154,J06,120,active,5,"2024-09-11 14:29:24","2024-09-16 14:02:02",Dev Token,Dev Token
+Hematologi Rutin,155,J06.9,208,active,2,"2024-09-11 14:29:25","2024-10-03 17:39:46",Dev Token,Dev Token
+Complete Blood Count,155,J06.9,208,active,2,"2024-09-11 14:29:25","2024-10-03 17:39:46",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,156,J06.9,126,inactive,2,"2024-09-11 14:29:26","2024-10-03 17:47:45",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,156,J06.9,126,inactive,2,"2024-09-11 14:29:26","2024-10-03 17:47:45",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,157,J06.9,355,active,3,"2024-09-11 14:29:27","2024-09-16 14:02:05",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,157,J06.9,355,active,3,"2024-09-11 14:29:27","2024-09-16 14:02:05",Dev Token,Dev Token
+C-Reactive Protein (CRP),158,J06.9,124,active,4,"2024-09-11 14:29:28","2024-09-16 14:02:06",Dev Token,Dev Token
+C-Reactive Protein (CRP),158,J06.9,124,active,4,"2024-09-11 14:29:28","2024-09-16 14:02:06",Dev Token,Dev Token
+Cek Demam Lengkap,159,J06.9,296,inactive,5,"2024-09-11 14:29:29","2024-10-03 17:48:25",Dev Token,Dev Token
+Complete Fever Check,159,J06.9,296,inactive,5,"2024-09-11 14:29:29","2024-10-03 17:48:25",Dev Token,Dev Token
+Hematologi Rutin,160,J10,208,active,1,"2024-09-11 14:29:31","2024-09-16 14:02:08",Dev Token,Dev Token
+Complete Blood Count,160,J10,208,active,1,"2024-09-11 14:29:31","2024-09-16 14:02:08",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,161,J10,355,active,2,"2024-09-11 14:29:32","2024-09-16 14:02:09",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,161,J10,355,active,2,"2024-09-11 14:29:32","2024-09-16 14:02:09",Dev Token,Dev Token
+Widal,162,J10,117,active,3,"2024-09-11 14:29:33","2024-09-16 14:02:10",Dev Token,Dev Token
+Widal,162,J10,117,active,3,"2024-09-11 14:29:33","2024-09-16 14:02:10",Dev Token,Dev Token
+Antigen Dengue NS1 (Rapid),163,J10,120,active,4,"2024-09-11 14:29:34","2024-09-16 14:02:11",Dev Token,Dev Token
+Antigen Dengue NS1 (Rapid),163,J10,120,active,4,"2024-09-11 14:29:34","2024-09-16 14:02:11",Dev Token,Dev Token
+Injeksi Vitamin C,164,J10,320,active,5,"2024-09-11 14:29:35","2024-09-16 14:02:12",Dev Token,Dev Token
+Vitamin C Injection,164,J10,320,active,5,"2024-09-11 14:29:35","2024-09-16 14:02:12",Dev Token,Dev Token
+Hematologi Rutin,165,J11,208,active,1,"2024-09-11 14:29:36","2024-09-16 14:02:13",Dev Token,Dev Token
+Complete Blood Count,165,J11,208,active,1,"2024-09-11 14:29:36","2024-09-16 14:02:13",Dev Token,Dev Token
+Cek Demam Lengkap,166,J11,296,inactive,2,"2024-09-11 14:29:37","2024-10-03 17:48:26",Dev Token,Dev Token
+Complete Fever Check,166,J11,296,inactive,2,"2024-09-11 14:29:37","2024-10-03 17:48:26",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,167,J11,7,active,3,"2024-09-11 14:29:38","2024-09-16 14:02:15",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,167,J11,7,active,3,"2024-09-11 14:29:38","2024-09-16 14:02:15",Dev Token,Dev Token
+Swab Test Antigen,168,J11,33,active,4,"2024-09-11 14:29:39","2024-09-16 14:02:16",Dev Token,Dev Token
+Swab Antigen COVID-19,168,J11,33,active,4,"2024-09-11 14:29:39","2024-09-16 14:02:16",Dev Token,Dev Token
+Hematologi Lengkap,169,J11,28,inactive,5,"2024-09-11 14:29:40","2024-10-03 17:48:52",Dev Token,Dev Token
+Complete Hematology,169,J11,28,inactive,5,"2024-09-11 14:29:40","2024-10-03 17:48:52",Dev Token,Dev Token
+Hematologi Rutin,170,J30,208,active,5,"2024-09-11 14:29:41","2024-10-03 17:39:47",Dev Token,Dev Token
+Complete Blood Count,170,J30,208,active,5,"2024-09-11 14:29:41","2024-10-03 17:39:47",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,171,J30,7,active,2,"2024-09-11 14:29:42","2024-09-16 14:02:20",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,171,J30,7,active,2,"2024-09-11 14:29:42","2024-09-16 14:02:20",Dev Token,Dev Token
+Panel Alergi,172,J30,283,inactive,3,"2024-09-11 14:29:43","2024-10-03 17:48:36",Dev Token,Dev Token
+Allergy Panel,172,J30,283,inactive,3,"2024-09-11 14:29:43","2024-10-03 17:48:36",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,173,J30,355,active,4,"2024-09-11 14:29:44","2024-09-16 14:02:22",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,173,J30,355,active,4,"2024-09-11 14:29:44","2024-09-16 14:02:22",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,174,J30,126,inactive,5,"2024-09-11 14:29:45","2024-10-03 17:47:46",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,174,J30,126,inactive,5,"2024-09-11 14:29:45","2024-10-03 17:47:46",Dev Token,Dev Token
+Tes Swab Antigen COVID & Flu,175,J30.2,355,active,1,"2024-09-11 14:29:46","2024-09-16 14:02:24",Dev Token,Dev Token
+COVID & Flu Antigen Swab Test,175,J30.2,355,active,1,"2024-09-11 14:29:46","2024-09-16 14:02:24",Dev Token,Dev Token
+Hematologi Rutin,176,J30.2,208,active,2,"2024-09-11 14:29:47","2024-09-16 14:02:25",Dev Token,Dev Token
+Complete Blood Count,176,J30.2,208,active,2,"2024-09-11 14:29:47","2024-09-16 14:02:25",Dev Token,Dev Token
+Injeksi Vitamin C,177,J30.2,320,active,3,"2024-09-11 14:29:48","2024-09-16 14:02:26",Dev Token,Dev Token
+Vitamin C Injection,177,J30.2,320,active,3,"2024-09-11 14:29:48","2024-09-16 14:02:26",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,178,J30.2,7,active,4,"2024-09-11 14:29:49","2024-09-16 14:02:27",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,178,J30.2,7,active,4,"2024-09-11 14:29:49","2024-09-16 14:02:27",Dev Token,Dev Token
+Injeksi Vitamin B12 (Saraf & Otak),179,J30.2,356,active,5,"2024-09-11 14:29:50","2024-09-16 14:02:28",Dev Token,Dev Token
+Vitamin B12 Injection (Neuron & Brain),179,J30.2,356,active,5,"2024-09-11 14:29:50","2024-09-16 14:02:28",Dev Token,Dev Token
+Hematologi Rutin,180,J30.4,208,active,1,"2024-09-11 14:29:51","2024-09-16 14:02:29",Dev Token,Dev Token
+Complete Blood Count,180,J30.4,208,active,1,"2024-09-11 14:29:51","2024-09-16 14:02:29",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,181,J30.4,7,active,2,"2024-09-11 14:29:52","2024-09-16 14:02:30",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,181,J30.4,7,active,2,"2024-09-11 14:29:52","2024-09-16 14:02:30",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),182,J30.4,347,active,3,"2024-09-11 14:29:53","2024-09-16 14:02:31",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),182,J30.4,347,active,3,"2024-09-11 14:29:53","2024-09-16 14:02:31",Dev Token,Dev Token
+Injeksi Vitamin C,183,J30.4,320,active,4,"2024-09-11 14:29:54","2024-09-16 14:02:32",Dev Token,Dev Token
+Vitamin C Injection,183,J30.4,320,active,4,"2024-09-11 14:29:54","2024-09-16 14:02:32",Dev Token,Dev Token
+Vaksinasi Influenza (Vaxigrip Tetra),184,J30.4,310,active,5,"2024-09-11 14:29:55","2024-09-16 14:02:33",Dev Token,Dev Token
+Influenza Vaccination (Vaxigrip Tetra),184,J30.4,310,active,5,"2024-09-11 14:29:55","2024-09-16 14:02:33",Dev Token,Dev Token
+Hematologi Rutin,185,J45,208,active,1,"2024-09-11 14:29:56","2024-09-16 14:02:34",Dev Token,Dev Token
+Complete Blood Count,185,J45,208,active,1,"2024-09-11 14:29:56","2024-09-16 14:02:34",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,186,J45,7,active,2,"2024-09-11 14:29:58","2024-09-16 14:02:35",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,186,J45,7,active,2,"2024-09-11 14:29:58","2024-09-16 14:02:35",Dev Token,Dev Token
+Eosinofil,187,J45,121,active,3,"2024-09-11 14:29:59","2024-09-16 14:02:36",Dev Token,Dev Token
+Eosinophil Count,187,J45,121,active,3,"2024-09-11 14:29:59","2024-09-16 14:02:36",Dev Token,Dev Token
+Laju Endap Darah (LED),188,J45,127,active,4,"2024-09-11 14:30:00","2024-09-16 14:02:37",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),188,J45,127,active,4,"2024-09-11 14:30:00","2024-09-16 14:02:37",Dev Token,Dev Token
+Panel Alergi,189,J45,283,inactive,5,"2024-09-11 14:30:01","2024-10-03 17:48:37",Dev Token,Dev Token
+Allergy Panel,189,J45,283,inactive,5,"2024-09-11 14:30:01","2024-10-03 17:48:37",Dev Token,Dev Token
+Infus Drip Vitamin C,190,K01,319,active,1,"2024-09-11 14:30:02","2024-09-16 14:02:40",Dev Token,Dev Token
+Vitamin C Infusion Drip,190,K01,319,active,1,"2024-09-11 14:30:02","2024-09-16 14:02:40",Dev Token,Dev Token
+Injeksi Vitamin C,191,K01,320,active,2,"2024-09-11 14:30:03","2024-09-16 14:02:41",Dev Token,Dev Token
+Vitamin C Injection,191,K01,320,active,2,"2024-09-11 14:30:03","2024-09-16 14:02:41",Dev Token,Dev Token
+Glukosa Sewaktu,192,K01,170,active,3,"2024-09-11 14:30:04","2024-09-16 14:02:42",Dev Token,Dev Token
+Random Blood Glucose,192,K01,170,active,3,"2024-09-11 14:30:04","2024-09-16 14:02:42",Dev Token,Dev Token
+Hematologi Rutin,193,K01,208,active,4,"2024-09-11 14:30:05","2024-09-16 14:02:43",Dev Token,Dev Token
+Complete Blood Count,193,K01,208,active,4,"2024-09-11 14:30:05","2024-09-16 14:02:43",Dev Token,Dev Token
+Glukosa Sewaktu,194,K04.0,170,active,1,"2024-09-11 14:30:06","2024-09-16 14:02:44",Dev Token,Dev Token
+Random Blood Glucose,194,K04.0,170,active,1,"2024-09-11 14:30:06","2024-09-16 14:02:44",Dev Token,Dev Token
+Infus Drip Vitamin C,195,K04.0,319,active,2,"2024-09-11 14:30:07","2024-09-16 14:02:45",Dev Token,Dev Token
+Vitamin C Infusion Drip,195,K04.0,319,active,2,"2024-09-11 14:30:07","2024-09-16 14:02:45",Dev Token,Dev Token
+Hematologi Rutin,196,K04.0,208,active,3,"2024-09-11 14:30:08","2024-09-16 14:02:46",Dev Token,Dev Token
+Complete Blood Count,196,K04.0,208,active,3,"2024-09-11 14:30:08","2024-09-16 14:02:46",Dev Token,Dev Token
+Injeksi Vitamin B12 (Saraf & Otak),197,K04.0,356,active,4,"2024-09-11 14:30:09","2024-09-16 14:02:47",Dev Token,Dev Token
+Vitamin B12 Injection (Neuron & Brain),197,K04.0,356,active,4,"2024-09-11 14:30:09","2024-09-16 14:02:47",Dev Token,Dev Token
+Injeksi Vitamin C,198,K04.0,320,active,5,"2024-09-11 14:30:10","2024-09-16 14:02:48",Dev Token,Dev Token
+Vitamin C Injection,198,K04.0,320,active,5,"2024-09-11 14:30:10","2024-09-16 14:02:48",Dev Token,Dev Token
+Glukosa Sewaktu,199,K05,170,active,1,"2024-09-11 14:30:11","2024-09-16 14:02:49",Dev Token,Dev Token
+Random Blood Glucose,199,K05,170,active,1,"2024-09-11 14:30:11","2024-09-16 14:02:49",Dev Token,Dev Token
+Hematologi Rutin,200,K05,208,active,2,"2024-09-11 14:30:12","2024-09-16 14:02:50",Dev Token,Dev Token
+Complete Blood Count,200,K05,208,active,2,"2024-09-11 14:30:12","2024-09-16 14:02:50",Dev Token,Dev Token
+Laju Endap Darah (LED),201,K05,127,active,3,"2024-09-11 14:30:13","2024-09-16 14:02:51",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),201,K05,127,active,3,"2024-09-11 14:30:13","2024-09-16 14:02:51",Dev Token,Dev Token
+Infus Drip Vitamin C,202,K05,319,active,4,"2024-09-11 14:30:14","2024-09-16 14:02:52",Dev Token,Dev Token
+Vitamin C Infusion Drip,202,K05,319,active,4,"2024-09-11 14:30:14","2024-09-16 14:02:52",Dev Token,Dev Token
+Injeksi Vitamin C,203,K05,320,active,5,"2024-09-11 14:30:15","2024-09-16 14:02:53",Dev Token,Dev Token
+Vitamin C Injection,203,K05,320,active,5,"2024-09-11 14:30:15","2024-09-16 14:02:53",Dev Token,Dev Token
+Hematologi Rutin,204,K12,208,active,5,"2024-09-11 14:30:16","2024-10-03 17:39:48",Dev Token,Dev Token
+Complete Blood Count,204,K12,208,active,5,"2024-09-11 14:30:16","2024-10-03 17:39:48",Dev Token,Dev Token
+Injeksi Vitamin C,205,K12,320,active,2,"2024-09-11 14:30:17","2024-09-16 14:02:55",Dev Token,Dev Token
+Vitamin C Injection,205,K12,320,active,2,"2024-09-11 14:30:17","2024-09-16 14:02:55",Dev Token,Dev Token
+Infus Drip Vitamin C,206,K12,319,active,3,"2024-09-11 14:30:18","2024-09-16 14:02:56",Dev Token,Dev Token
+Vitamin C Infusion Drip,206,K12,319,active,3,"2024-09-11 14:30:18","2024-09-16 14:02:56",Dev Token,Dev Token
+Glukosa Sewaktu,207,K12,170,active,4,"2024-09-11 14:30:20","2024-09-16 14:02:57",Dev Token,Dev Token
+Random Blood Glucose,207,K12,170,active,4,"2024-09-11 14:30:20","2024-09-16 14:02:57",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,208,K12,126,inactive,5,"2024-09-11 14:30:21","2024-10-03 17:47:47",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,208,K12,126,inactive,5,"2024-09-11 14:30:21","2024-10-03 17:47:47",Dev Token,Dev Token
+Hematologi Rutin,209,K12.1,208,active,2,"2024-09-11 14:30:22","2024-10-03 17:39:49",Dev Token,Dev Token
+Complete Blood Count,209,K12.1,208,active,2,"2024-09-11 14:30:22","2024-10-03 17:39:49",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,210,K12.1,126,inactive,2,"2024-09-11 14:30:23","2024-10-03 17:47:48",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,210,K12.1,126,inactive,2,"2024-09-11 14:30:23","2024-10-03 17:47:48",Dev Token,Dev Token
+Injeksi Vitamin C,211,K12.1,320,active,3,"2024-09-11 14:30:24","2024-09-16 14:03:02",Dev Token,Dev Token
+Vitamin C Injection,211,K12.1,320,active,3,"2024-09-11 14:30:24","2024-09-16 14:03:02",Dev Token,Dev Token
+Injeksi Vitamin B12 (Saraf & Otak),212,K12.1,356,active,4,"2024-09-11 14:30:25","2024-09-16 14:03:03",Dev Token,Dev Token
+Vitamin B12 Injection (Neuron & Brain),212,K12.1,356,active,4,"2024-09-11 14:30:25","2024-09-16 14:03:03",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),213,K12.1,347,active,5,"2024-09-11 14:30:26","2024-09-16 14:03:04",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),213,K12.1,347,active,5,"2024-09-11 14:30:26","2024-09-16 14:03:04",Dev Token,Dev Token
+Hematologi Rutin,214,K21,208,active,2,"2024-09-11 14:30:27","2024-10-03 17:39:50",Dev Token,Dev Token
+Complete Blood Count,214,K21,208,active,2,"2024-09-11 14:30:27","2024-10-03 17:39:50",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,215,K21,126,inactive,2,"2024-09-11 14:30:28","2024-10-03 17:47:49",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,215,K21,126,inactive,2,"2024-09-11 14:30:28","2024-10-03 17:47:49",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),216,K21,102,active,3,"2024-09-11 14:30:29","2024-09-16 14:03:07",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),216,K21,102,active,3,"2024-09-11 14:30:29","2024-09-16 14:03:07",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,217,K21,193,active,4,"2024-09-11 14:30:30","2024-09-16 14:03:08",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,217,K21,193,active,4,"2024-09-11 14:30:30","2024-09-16 14:03:08",Dev Token,Dev Token
+Laju Endap Darah (LED),218,K21,127,active,5,"2024-09-11 14:30:31","2024-09-16 14:03:09",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),218,K21,127,active,5,"2024-09-11 14:30:31","2024-09-16 14:03:09",Dev Token,Dev Token
+Hematologi Rutin,219,K29,208,active,1,"2024-09-11 14:30:32","2024-09-16 14:03:10",Dev Token,Dev Token
+Complete Blood Count,219,K29,208,active,1,"2024-09-11 14:30:32","2024-09-16 14:03:10",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,220,K29,193,active,2,"2024-09-11 14:30:33","2024-09-16 14:03:11",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,220,K29,193,active,2,"2024-09-11 14:30:33","2024-09-16 14:03:11",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgG,221,K29,174,active,3,"2024-09-11 14:30:34","2024-09-16 14:03:12",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgG,221,K29,174,active,3,"2024-09-11 14:30:34","2024-09-16 14:03:12",Dev Token,Dev Token
+Laju Endap Darah (LED),222,K29,127,active,4,"2024-09-11 14:30:35","2024-09-16 14:03:13",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),222,K29,127,active,4,"2024-09-11 14:30:35","2024-09-16 14:03:13",Dev Token,Dev Token
+Widal,223,K29,117,active,5,"2024-09-11 14:30:36","2024-09-16 14:03:14",Dev Token,Dev Token
+Widal,223,K29,117,active,5,"2024-09-11 14:30:36","2024-09-16 14:03:14",Dev Token,Dev Token
+Hematologi Rutin,224,K29.1,208,active,1,"2024-09-11 14:30:37","2024-09-16 14:03:15",Dev Token,Dev Token
+Complete Blood Count,224,K29.1,208,active,1,"2024-09-11 14:30:37","2024-09-16 14:03:15",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,225,K29.1,193,active,2,"2024-09-11 14:30:38","2024-09-16 14:03:16",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,225,K29.1,193,active,2,"2024-09-11 14:30:38","2024-09-16 14:03:16",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),226,K29.1,102,active,3,"2024-09-11 14:30:39","2024-09-16 14:03:17",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),226,K29.1,102,active,3,"2024-09-11 14:30:39","2024-09-16 14:03:17",Dev Token,Dev Token
+Anti-Salmonella IgM,227,K29.1,173,active,4,"2024-09-11 14:30:40","2024-09-16 14:03:18",Dev Token,Dev Token
+Anti-Salmonella IgM,227,K29.1,173,active,4,"2024-09-11 14:30:40","2024-09-16 14:03:18",Dev Token,Dev Token
+Widal,228,K29.1,117,active,5,"2024-09-11 14:30:41","2024-09-16 14:03:20",Dev Token,Dev Token
+Widal,228,K29.1,117,active,5,"2024-09-11 14:30:41","2024-09-16 14:03:20",Dev Token,Dev Token
+Hematologi Rutin,229,K29.7,208,active,5,"2024-09-11 14:30:42","2024-10-03 17:39:51",Dev Token,Dev Token
+Complete Blood Count,229,K29.7,208,active,5,"2024-09-11 14:30:42","2024-10-03 17:39:51",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),230,K29.7,102,active,2,"2024-09-11 14:30:43","2024-09-16 14:03:22",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),230,K29.7,102,active,2,"2024-09-11 14:30:43","2024-09-16 14:03:22",Dev Token,Dev Token
+Laju Endap Darah (LED),231,K29.7,127,active,3,"2024-09-11 14:30:44","2024-09-16 14:03:23",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),231,K29.7,127,active,3,"2024-09-11 14:30:44","2024-09-16 14:03:23",Dev Token,Dev Token
+Widal,232,K29.7,117,active,4,"2024-09-11 14:30:45","2024-09-16 14:03:24",Dev Token,Dev Token
+Widal,232,K29.7,117,active,4,"2024-09-11 14:30:45","2024-09-16 14:03:24",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,233,K29.7,126,inactive,5,"2024-09-11 14:30:46","2024-10-03 17:47:51",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,233,K29.7,126,inactive,5,"2024-09-11 14:30:46","2024-10-03 17:47:51",Dev Token,Dev Token
+Hematologi Rutin,234,K30,208,active,1,"2024-09-11 14:30:47","2024-09-16 14:03:26",Dev Token,Dev Token
+Complete Blood Count,234,K30,208,active,1,"2024-09-11 14:30:47","2024-09-16 14:03:26",Dev Token,Dev Token
+Laju Endap Darah (LED),235,K30,127,active,2,"2024-09-11 14:30:48","2024-09-16 14:03:27",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),235,K30,127,active,2,"2024-09-11 14:30:48","2024-09-16 14:03:27",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),236,K30,102,active,3,"2024-09-11 14:30:49","2024-09-16 14:03:28",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),236,K30,102,active,3,"2024-09-11 14:30:49","2024-09-16 14:03:28",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,237,K30,193,active,4,"2024-09-11 14:30:51","2024-09-16 14:03:29",Dev Token,Dev Token
+Anti-Helicobacter Pylori IgM,237,K30,193,active,4,"2024-09-11 14:30:51","2024-09-16 14:03:29",Dev Token,Dev Token
+Injeksi Vitamin C,238,K30,320,active,5,"2024-09-11 14:30:52","2024-09-16 14:03:30",Dev Token,Dev Token
+Vitamin C Injection,238,K30,320,active,5,"2024-09-11 14:30:52","2024-09-16 14:03:30",Dev Token,Dev Token
+Hematologi Rutin,239,K59.0,208,active,3,"2024-09-11 14:30:53","2024-10-03 17:39:53",Dev Token,Dev Token
+Complete Blood Count,239,K59.0,208,active,3,"2024-09-11 14:30:53","2024-10-03 17:39:53",Dev Token,Dev Token
+Pemeriksaan Feses Rutin,240,K59.0,200,active,2,"2024-09-11 14:30:54","2024-09-16 14:03:32",Dev Token,Dev Token
+Stool Microscopic Examination,240,K59.0,200,active,2,"2024-09-11 14:30:54","2024-09-16 14:03:32",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,241,K59.0,126,inactive,3,"2024-09-11 14:30:55","2024-10-03 17:47:52",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,241,K59.0,126,inactive,3,"2024-09-11 14:30:55","2024-10-03 17:47:52",Dev Token,Dev Token
+Laju Endap Darah (LED),242,K59.0,127,active,4,"2024-09-11 14:30:56","2024-09-16 14:03:34",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),242,K59.0,127,active,4,"2024-09-11 14:30:56","2024-09-16 14:03:34",Dev Token,Dev Token
+Urine Rutin,243,K59.0,158,active,5,"2024-09-11 14:30:57","2024-09-16 14:03:35",Dev Token,Dev Token
+Urinalysis Complete Panel,243,K59.0,158,active,5,"2024-09-11 14:30:57","2024-09-16 14:03:35",Dev Token,Dev Token
+Hematologi Rutin,244,L02,208,active,2,"2024-09-11 14:30:58","2024-10-03 17:39:54",Dev Token,Dev Token
+Complete Blood Count,244,L02,208,active,2,"2024-09-11 14:30:58","2024-10-03 17:39:54",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,245,L02,126,inactive,2,"2024-09-11 14:30:59","2024-10-03 17:47:53",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,245,L02,126,inactive,2,"2024-09-11 14:30:59","2024-10-03 17:47:53",Dev Token,Dev Token
+Laju Endap Darah (LED),246,L02,127,active,3,"2024-09-11 14:31:00","2024-09-16 14:03:38",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),246,L02,127,active,3,"2024-09-11 14:31:00","2024-09-16 14:03:38",Dev Token,Dev Token
+Medical Check Up Hemat,247,L02,32,active,4,"2024-09-11 14:31:01","2024-09-16 14:03:39",Dev Token,Dev Token
+Pocket-friendly Medical Check Up,247,L02,32,active,4,"2024-09-11 14:31:01","2024-09-16 14:03:39",Dev Token,Dev Token
+HbA1c,248,L02,63,active,5,"2024-09-11 14:31:02","2024-09-16 14:03:40",Dev Token,Dev Token
+HbA1c,248,L02,63,active,5,"2024-09-11 14:31:02","2024-09-16 14:03:40",Dev Token,Dev Token
+Hematologi Rutin,249,L08.0,208,active,3,"2024-09-11 14:31:03","2024-10-03 17:39:55",Dev Token,Dev Token
+Complete Blood Count,249,L08.0,208,active,3,"2024-09-11 14:31:03","2024-10-03 17:39:55",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,250,L08.0,7,active,2,"2024-09-11 14:31:04","2024-09-16 14:03:43",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,250,L08.0,7,active,2,"2024-09-11 14:31:04","2024-09-16 14:03:43",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,251,L08.0,126,inactive,3,"2024-09-11 14:31:05","2024-10-03 17:47:54",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,251,L08.0,126,inactive,3,"2024-09-11 14:31:05","2024-10-03 17:47:54",Dev Token,Dev Token
+Glukosa Puasa,252,L08.0,194,active,4,"2024-09-11 14:31:06","2024-09-16 14:03:45",Dev Token,Dev Token
+Fasting Blood Glucose,252,L08.0,194,active,4,"2024-09-11 14:31:06","2024-09-16 14:03:45",Dev Token,Dev Token
+Panel Alergi,253,L08.0,283,inactive,5,"2024-09-11 14:31:07","2024-10-03 17:48:38",Dev Token,Dev Token
+Allergy Panel,253,L08.0,283,inactive,5,"2024-09-11 14:31:07","2024-10-03 17:48:38",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,254,L20,7,active,1,"2024-09-11 14:31:08","2024-09-16 14:03:47",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,254,L20,7,active,1,"2024-09-11 14:31:08","2024-09-16 14:03:47",Dev Token,Dev Token
+Hematologi Rutin,255,L20,208,active,5,"2024-09-11 14:31:09","2024-10-03 17:39:56",Dev Token,Dev Token
+Complete Blood Count,255,L20,208,active,5,"2024-09-11 14:31:09","2024-10-03 17:39:56",Dev Token,Dev Token
+Panel Alergi,256,L20,283,inactive,3,"2024-09-11 14:31:10","2024-10-03 17:48:39",Dev Token,Dev Token
+Allergy Panel,256,L20,283,inactive,3,"2024-09-11 14:31:10","2024-10-03 17:48:39",Dev Token,Dev Token
+IgE Total,257,L20,115,active,4,"2024-09-11 14:31:11","2024-09-16 14:03:50",Dev Token,Dev Token
+Total IgE,257,L20,115,active,4,"2024-09-11 14:31:11","2024-09-16 14:03:50",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,258,L20,126,inactive,5,"2024-09-11 14:31:12","2024-10-03 17:47:55",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,258,L20,126,inactive,5,"2024-09-11 14:31:12","2024-10-03 17:47:55",Dev Token,Dev Token
+Hematologi Rutin,259,L20.8,208,active,1,"2024-09-11 14:31:13","2024-09-16 14:03:52",Dev Token,Dev Token
+Complete Blood Count,259,L20.8,208,active,1,"2024-09-11 14:31:13","2024-09-16 14:03:52",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,260,L20.8,7,active,2,"2024-09-11 14:31:14","2024-09-16 14:03:53",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,260,L20.8,7,active,2,"2024-09-11 14:31:14","2024-09-16 14:03:53",Dev Token,Dev Token
+Panel Alergi,261,L20.8,283,inactive,3,"2024-09-11 14:31:16","2024-10-03 17:48:40",Dev Token,Dev Token
+Allergy Panel,261,L20.8,283,inactive,3,"2024-09-11 14:31:16","2024-10-03 17:48:40",Dev Token,Dev Token
+IgE Total,262,L20.8,115,active,4,"2024-09-11 14:31:17","2024-09-16 14:03:55",Dev Token,Dev Token
+Total IgE,262,L20.8,115,active,4,"2024-09-11 14:31:17","2024-09-16 14:03:55",Dev Token,Dev Token
+Eosinofil,263,L20.8,121,active,5,"2024-09-11 14:31:18","2024-09-16 14:03:56",Dev Token,Dev Token
+Eosinophil Count,263,L20.8,121,active,5,"2024-09-11 14:31:18","2024-09-16 14:03:56",Dev Token,Dev Token
+Hematologi Rutin,264,L21,208,active,1,"2024-09-11 14:31:19","2024-09-16 14:03:57",Dev Token,Dev Token
+Complete Blood Count,264,L21,208,active,1,"2024-09-11 14:31:19","2024-09-16 14:03:57",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,265,L21,7,active,2,"2024-09-11 14:31:20","2024-09-16 14:03:58",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,265,L21,7,active,2,"2024-09-11 14:31:20","2024-09-16 14:03:58",Dev Token,Dev Token
+Glukosa Puasa,266,L21,194,active,3,"2024-09-11 14:31:21","2024-09-16 14:03:59",Dev Token,Dev Token
+Fasting Blood Glucose,266,L21,194,active,3,"2024-09-11 14:31:21","2024-09-16 14:03:59",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),267,L21,347,active,4,"2024-09-11 14:31:22","2024-09-16 14:04:01",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),267,L21,347,active,4,"2024-09-11 14:31:22","2024-09-16 14:04:01",Dev Token,Dev Token
+IgE Total,268,L21,115,active,5,"2024-09-11 14:31:23","2024-09-16 14:04:02",Dev Token,Dev Token
+Total IgE,268,L21,115,active,5,"2024-09-11 14:31:23","2024-09-16 14:04:02",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,269,L23,7,active,1,"2024-09-11 14:31:24","2024-09-16 14:04:03",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,269,L23,7,active,1,"2024-09-11 14:31:24","2024-09-16 14:04:03",Dev Token,Dev Token
+Hematologi Rutin,270,L23,208,active,2,"2024-09-11 14:31:25","2024-09-16 14:04:04",Dev Token,Dev Token
+Complete Blood Count,270,L23,208,active,2,"2024-09-11 14:31:25","2024-09-16 14:04:04",Dev Token,Dev Token
+IgE Total,271,L23,115,active,3,"2024-09-11 14:31:26","2024-09-16 14:04:05",Dev Token,Dev Token
+Total IgE,271,L23,115,active,3,"2024-09-11 14:31:26","2024-09-16 14:04:05",Dev Token,Dev Token
+Panel Alergi,272,L23,283,inactive,4,"2024-09-11 14:31:27","2024-10-03 17:48:41",Dev Token,Dev Token
+Allergy Panel,272,L23,283,inactive,4,"2024-09-11 14:31:27","2024-10-03 17:48:41",Dev Token,Dev Token
+Eosinofil,273,L23,121,active,5,"2024-09-11 14:31:28","2024-09-16 14:04:07",Dev Token,Dev Token
+Eosinophil Count,273,L23,121,active,5,"2024-09-11 14:31:28","2024-09-16 14:04:07",Dev Token,Dev Token
+Hematologi Rutin,274,L24,208,active,1,"2024-09-11 14:31:29","2024-09-16 14:04:08",Dev Token,Dev Token
+Complete Blood Count,274,L24,208,active,1,"2024-09-11 14:31:29","2024-09-16 14:04:08",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,275,L24,7,active,2,"2024-09-11 14:31:30","2024-09-16 14:04:09",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,275,L24,7,active,2,"2024-09-11 14:31:30","2024-09-16 14:04:09",Dev Token,Dev Token
+IgE Total,276,L24,115,active,3,"2024-09-11 14:31:31","2024-09-16 14:04:10",Dev Token,Dev Token
+Total IgE,276,L24,115,active,3,"2024-09-11 14:31:31","2024-09-16 14:04:10",Dev Token,Dev Token
+Injeksi Vitamin C,277,L24,320,active,4,"2024-09-11 14:31:32","2024-09-16 14:04:11",Dev Token,Dev Token
+Vitamin C Injection,277,L24,320,active,4,"2024-09-11 14:31:32","2024-09-16 14:04:11",Dev Token,Dev Token
+Panel Alergi,278,L24,283,inactive,5,"2024-09-11 14:31:33","2024-10-03 17:48:43",Dev Token,Dev Token
+Allergy Panel,278,L24,283,inactive,5,"2024-09-11 14:31:33","2024-10-03 17:48:43",Dev Token,Dev Token
+Hematologi Rutin,279,L30,208,active,1,"2024-09-11 14:31:34","2024-09-16 14:04:13",Dev Token,Dev Token
+Complete Blood Count,279,L30,208,active,1,"2024-09-11 14:31:34","2024-09-16 14:04:13",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,280,L30,7,active,2,"2024-09-11 14:31:35","2024-09-16 14:04:14",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,280,L30,7,active,2,"2024-09-11 14:31:35","2024-09-16 14:04:14",Dev Token,Dev Token
+Panel Alergi,281,L30,283,inactive,3,"2024-09-11 14:31:36","2024-10-03 17:48:44",Dev Token,Dev Token
+Allergy Panel,281,L30,283,inactive,3,"2024-09-11 14:31:36","2024-10-03 17:48:44",Dev Token,Dev Token
+IgE Total,282,L30,115,active,4,"2024-09-11 14:31:37","2024-09-16 14:04:16",Dev Token,Dev Token
+Total IgE,282,L30,115,active,4,"2024-09-11 14:31:37","2024-09-16 14:04:16",Dev Token,Dev Token
+Injeksi Vitamin C,283,L30,320,active,5,"2024-09-11 14:31:38","2024-09-16 14:04:18",Dev Token,Dev Token
+Vitamin C Injection,283,L30,320,active,5,"2024-09-11 14:31:38","2024-09-16 14:04:18",Dev Token,Dev Token
+Hematologi Rutin,284,L30.8,208,active,4,"2024-09-11 14:31:39","2024-10-03 17:39:57",Dev Token,Dev Token
+Complete Blood Count,284,L30.8,208,active,4,"2024-09-11 14:31:39","2024-10-03 17:39:57",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,285,L30.8,7,active,2,"2024-09-11 14:31:40","2024-09-16 14:04:20",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,285,L30.8,7,active,2,"2024-09-11 14:31:40","2024-09-16 14:04:20",Dev Token,Dev Token
+Panel Alergi,286,L30.8,283,inactive,3,"2024-09-11 14:31:41","2024-10-03 17:48:45",Dev Token,Dev Token
+Allergy Panel,286,L30.8,283,inactive,3,"2024-09-11 14:31:41","2024-10-03 17:48:45",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,287,L30.8,126,inactive,4,"2024-09-11 14:31:42","2024-10-03 17:47:56",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,287,L30.8,126,inactive,4,"2024-09-11 14:31:42","2024-10-03 17:47:56",Dev Token,Dev Token
+Glukosa Puasa,288,L30.8,194,active,5,"2024-09-11 14:31:43","2024-09-16 14:04:23",Dev Token,Dev Token
+Fasting Blood Glucose,288,L30.8,194,active,5,"2024-09-11 14:31:43","2024-09-16 14:04:23",Dev Token,Dev Token
+Hematologi Rutin,289,L30.9,208,active,3,"2024-09-11 14:31:44","2024-10-03 17:39:58",Dev Token,Dev Token
+Complete Blood Count,289,L30.9,208,active,3,"2024-09-11 14:31:44","2024-10-03 17:39:58",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,290,L30.9,7,active,2,"2024-09-11 14:31:45","2024-09-16 14:04:25",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,290,L30.9,7,active,2,"2024-09-11 14:31:45","2024-09-16 14:04:25",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,291,L30.9,126,inactive,3,"2024-09-11 14:31:46","2024-10-03 17:47:57",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,291,L30.9,126,inactive,3,"2024-09-11 14:31:46","2024-10-03 17:47:57",Dev Token,Dev Token
+Laju Endap Darah (LED),292,L30.9,127,active,4,"2024-09-11 14:31:48","2024-09-16 14:04:27",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),292,L30.9,127,active,4,"2024-09-11 14:31:48","2024-09-16 14:04:27",Dev Token,Dev Token
+Panel Alergi,293,L30.9,283,inactive,5,"2024-09-11 14:31:49","2024-10-03 17:48:46",Dev Token,Dev Token
+Allergy Panel,293,L30.9,283,inactive,5,"2024-09-11 14:31:49","2024-10-03 17:48:46",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,294,L50,7,active,1,"2024-09-11 14:31:50","2024-09-16 14:04:29",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,294,L50,7,active,1,"2024-09-11 14:31:50","2024-09-16 14:04:29",Dev Token,Dev Token
+Hematologi Rutin,295,L50,208,active,4,"2024-09-11 14:31:51","2024-10-03 17:39:59",Dev Token,Dev Token
+Complete Blood Count,295,L50,208,active,4,"2024-09-11 14:31:51","2024-10-03 17:39:59",Dev Token,Dev Token
+Panel Alergi,296,L50,283,inactive,3,"2024-09-11 14:31:52","2024-10-03 17:48:47",Dev Token,Dev Token
+Allergy Panel,296,L50,283,inactive,3,"2024-09-11 14:31:52","2024-10-03 17:48:47",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,297,L50,126,inactive,4,"2024-09-11 14:31:53","2024-10-03 17:47:58",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,297,L50,126,inactive,4,"2024-09-11 14:31:53","2024-10-03 17:47:58",Dev Token,Dev Token
+IgE Total,298,L50,115,active,5,"2024-09-11 14:31:54","2024-09-16 14:04:33",Dev Token,Dev Token
+Total IgE,298,L50,115,active,5,"2024-09-11 14:31:54","2024-09-16 14:04:33",Dev Token,Dev Token
+Hematologi Rutin,299,L50.0,208,active,1,"2024-09-11 14:31:55","2024-09-16 14:04:34",Dev Token,Dev Token
+Complete Blood Count,299,L50.0,208,active,1,"2024-09-11 14:31:55","2024-09-16 14:04:34",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,300,L50.0,7,active,2,"2024-09-11 14:31:56","2024-09-16 14:04:35",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,300,L50.0,7,active,2,"2024-09-11 14:31:56","2024-09-16 14:04:35",Dev Token,Dev Token
+Panel Alergi,301,L50.0,283,inactive,3,"2024-09-11 14:31:57","2024-10-03 17:48:48",Dev Token,Dev Token
+Allergy Panel,301,L50.0,283,inactive,3,"2024-09-11 14:31:57","2024-10-03 17:48:48",Dev Token,Dev Token
+Cek Demam Lengkap,302,L50.0,296,inactive,4,"2024-09-11 14:31:58","2024-10-03 17:48:27",Dev Token,Dev Token
+Complete Fever Check,302,L50.0,296,inactive,4,"2024-09-11 14:31:58","2024-10-03 17:48:27",Dev Token,Dev Token
+IgE Total,303,L50.0,115,active,5,"2024-09-11 14:31:59","2024-09-16 14:04:39",Dev Token,Dev Token
+Total IgE,303,L50.0,115,active,5,"2024-09-11 14:31:59","2024-09-16 14:04:39",Dev Token,Dev Token
+Hematologi Rutin,304,L65.0,208,active,1,"2024-09-11 14:32:00","2024-09-16 14:04:40",Dev Token,Dev Token
+Complete Blood Count,304,L65.0,208,active,1,"2024-09-11 14:32:00","2024-09-16 14:04:40",Dev Token,Dev Token
+Vitamin D,305,L65.0,24,active,2,"2024-09-11 14:32:01","2024-09-16 14:04:41",Dev Token,Dev Token
+Vitamin D,305,L65.0,24,active,2,"2024-09-11 14:32:01","2024-09-16 14:04:41",Dev Token,Dev Token
+Cek Hormon Tiroid,306,L65.0,21,active,3,"2024-09-11 14:32:02","2024-09-16 14:04:42",Dev Token,Dev Token
+Thyroid Hormone Test,306,L65.0,21,active,3,"2024-09-11 14:32:02","2024-09-16 14:04:42",Dev Token,Dev Token
+Thyroid Stimulating Hormone-sensitive (TSHs),307,L65.0,70,active,4,"2024-09-11 14:32:03","2024-09-16 14:04:43",Dev Token,Dev Token
+Thyroid Stimulating Hormone-sensitive (TSHs),307,L65.0,70,active,4,"2024-09-11 14:32:03","2024-09-16 14:04:43",Dev Token,Dev Token
+Profil ANA,308,L65.0,254,active,5,"2024-09-11 14:32:04","2024-09-16 14:04:44",Dev Token,Dev Token
+ANA Profile,308,L65.0,254,active,5,"2024-09-11 14:32:04","2024-09-16 14:04:44",Dev Token,Dev Token
+Hematologi Rutin,309,L70,208,active,1,"2024-09-11 14:32:05","2024-09-16 14:04:45",Dev Token,Dev Token
+Complete Blood Count,309,L70,208,active,1,"2024-09-11 14:32:05","2024-09-16 14:04:45",Dev Token,Dev Token
+Injeksi Vitamin C,310,L70,320,active,2,"2024-09-11 14:32:06","2024-09-16 14:04:46",Dev Token,Dev Token
+Vitamin C Injection,310,L70,320,active,2,"2024-09-11 14:32:06","2024-09-16 14:04:46",Dev Token,Dev Token
+Glukosa Puasa,311,L70,194,active,3,"2024-09-11 14:32:07","2024-09-16 14:04:47",Dev Token,Dev Token
+Fasting Blood Glucose,311,L70,194,active,3,"2024-09-11 14:32:07","2024-09-16 14:04:47",Dev Token,Dev Token
+Glukosa Sewaktu,312,L70,170,active,4,"2024-09-11 14:32:08","2024-09-16 14:04:48",Dev Token,Dev Token
+Random Blood Glucose,312,L70,170,active,4,"2024-09-11 14:32:08","2024-09-16 14:04:48",Dev Token,Dev Token
+Infus Drip Vitamin C,313,L70,319,active,5,"2024-09-11 14:32:09","2024-09-16 14:04:49",Dev Token,Dev Token
+Vitamin C Infusion Drip,313,L70,319,active,5,"2024-09-11 14:32:09","2024-09-16 14:04:49",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,314,L70.0,7,active,1,"2024-09-11 14:32:10","2024-09-16 14:04:50",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,314,L70.0,7,active,1,"2024-09-11 14:32:10","2024-09-16 14:04:50",Dev Token,Dev Token
+Hematologi Rutin,315,L70.0,208,active,3,"2024-09-11 14:32:11","2024-10-03 17:40:00",Dev Token,Dev Token
+Complete Blood Count,315,L70.0,208,active,3,"2024-09-11 14:32:11","2024-10-03 17:40:00",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,316,L70.0,126,inactive,3,"2024-09-11 14:32:12","2024-10-03 17:47:59",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,316,L70.0,126,inactive,3,"2024-09-11 14:32:12","2024-10-03 17:47:59",Dev Token,Dev Token
+Injeksi Vitamin C,317,L70.0,320,active,4,"2024-09-11 14:32:13","2024-09-16 14:04:53",Dev Token,Dev Token
+Vitamin C Injection,317,L70.0,320,active,4,"2024-09-11 14:32:13","2024-09-16 14:04:53",Dev Token,Dev Token
+Vitamin D,318,L70.0,24,active,5,"2024-09-11 14:32:14","2024-09-16 14:04:54",Dev Token,Dev Token
+Vitamin D,318,L70.0,24,active,5,"2024-09-11 14:32:14","2024-09-16 14:04:54",Dev Token,Dev Token
+Hematologi Rutin,319,L70.9,208,active,1,"2024-09-11 14:32:15","2024-09-16 14:04:55",Dev Token,Dev Token
+Complete Blood Count,319,L70.9,208,active,1,"2024-09-11 14:32:15","2024-09-16 14:04:55",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,320,L70.9,7,active,2,"2024-09-11 14:32:16","2024-09-16 14:04:56",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,320,L70.9,7,active,2,"2024-09-11 14:32:16","2024-09-16 14:04:56",Dev Token,Dev Token
+Estradiol,321,L70.9,188,active,3,"2024-09-11 14:32:17","2024-09-16 14:04:57",Dev Token,Dev Token
+Estradiol,321,L70.9,188,active,3,"2024-09-11 14:32:17","2024-09-16 14:04:57",Dev Token,Dev Token
+Follicle-Stimulating Hormone (FSH),322,L70.9,133,active,4,"2024-09-11 14:32:18","2024-09-16 14:04:58",Dev Token,Dev Token
+Follicle-Stimulating Hormone (FSH),322,L70.9,133,active,4,"2024-09-11 14:32:18","2024-09-16 14:04:58",Dev Token,Dev Token
+Luteinizing Hormone (LH),323,L70.9,172,active,5,"2024-09-11 14:32:20","2024-09-16 14:05:00",Dev Token,Dev Token
+Luteinizing Hormone (LH),323,L70.9,172,active,5,"2024-09-11 14:32:20","2024-09-16 14:05:00",Dev Token,Dev Token
+Injeksi Vitamin C,324,L81,320,active,1,"2024-09-11 14:32:21","2024-09-16 14:05:01",Dev Token,Dev Token
+Vitamin C Injection,324,L81,320,active,1,"2024-09-11 14:32:21","2024-09-16 14:05:01",Dev Token,Dev Token
+Infus Drip Vitamin C,325,L81,319,active,2,"2024-09-11 14:32:22","2024-09-16 14:05:02",Dev Token,Dev Token
+Vitamin C Infusion Drip,325,L81,319,active,2,"2024-09-11 14:32:22","2024-09-16 14:05:02",Dev Token,Dev Token
+Hematologi Rutin,326,L81,208,active,3,"2024-09-11 14:32:23","2024-09-16 14:05:03",Dev Token,Dev Token
+Complete Blood Count,326,L81,208,active,3,"2024-09-11 14:32:23","2024-09-16 14:05:03",Dev Token,Dev Token
+Glukosa Sewaktu,327,L81,170,active,4,"2024-09-11 14:32:24","2024-09-16 14:05:04",Dev Token,Dev Token
+Random Blood Glucose,327,L81,170,active,4,"2024-09-11 14:32:24","2024-09-16 14:05:04",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,328,L81,7,active,5,"2024-09-11 14:32:25","2024-09-16 14:05:05",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,328,L81,7,active,5,"2024-09-11 14:32:25","2024-09-16 14:05:05",Dev Token,Dev Token
+Injeksi Vitamin C,329,L81.0,320,active,1,"2024-09-11 14:32:26","2024-09-16 14:05:06",Dev Token,Dev Token
+Vitamin C Injection,329,L81.0,320,active,1,"2024-09-11 14:32:26","2024-09-16 14:05:06",Dev Token,Dev Token
+Infus Drip Vitamin C,330,L81.0,319,active,2,"2024-09-11 14:32:27","2024-09-16 14:05:07",Dev Token,Dev Token
+Vitamin C Infusion Drip,330,L81.0,319,active,2,"2024-09-11 14:32:27","2024-09-16 14:05:07",Dev Token,Dev Token
+Hematologi Rutin,331,L81.0,208,active,3,"2024-09-11 14:32:28","2024-09-16 14:05:08",Dev Token,Dev Token
+Complete Blood Count,331,L81.0,208,active,3,"2024-09-11 14:32:28","2024-09-16 14:05:08",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,332,L81.0,7,active,4,"2024-09-11 14:32:29","2024-09-16 14:05:09",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,332,L81.0,7,active,4,"2024-09-11 14:32:29","2024-09-16 14:05:09",Dev Token,Dev Token
+IgE Total,333,L81.0,115,active,5,"2024-09-11 14:32:30","2024-09-16 14:05:10",Dev Token,Dev Token
+Total IgE,333,L81.0,115,active,5,"2024-09-11 14:32:30","2024-09-16 14:05:10",Dev Token,Dev Token
+Hematologi Rutin,334,M54.5,208,active,2,"2024-09-11 14:32:31","2024-10-03 17:40:01",Dev Token,Dev Token
+Complete Blood Count,334,M54.5,208,active,2,"2024-09-11 14:32:31","2024-10-03 17:40:01",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,335,M54.5,126,inactive,2,"2024-09-11 14:32:32","2024-10-03 17:48:00",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,335,M54.5,126,inactive,2,"2024-09-11 14:32:32","2024-10-03 17:48:00",Dev Token,Dev Token
+Laju Endap Darah (LED),336,M54.5,127,active,3,"2024-09-11 14:32:33","2024-09-16 14:05:13",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),336,M54.5,127,active,3,"2024-09-11 14:32:33","2024-09-16 14:05:13",Dev Token,Dev Token
+Injeksi Vitamin B12 (Saraf & Otak),337,M54.5,356,active,4,"2024-09-11 14:32:34","2024-09-16 14:05:14",Dev Token,Dev Token
+Vitamin B12 Injection (Neuron & Brain),337,M54.5,356,active,4,"2024-09-11 14:32:34","2024-09-16 14:05:14",Dev Token,Dev Token
+Medical Check Up Hemat,338,M54.5,32,active,5,"2024-09-11 14:32:35","2024-09-16 14:05:15",Dev Token,Dev Token
+Pocket-friendly Medical Check Up,338,M54.5,32,active,5,"2024-09-11 14:32:35","2024-09-16 14:05:15",Dev Token,Dev Token
+Hematologi Rutin,339,M79.1,208,active,1,"2024-09-11 14:32:36","2024-09-16 14:05:16",Dev Token,Dev Token
+Complete Blood Count,339,M79.1,208,active,1,"2024-09-11 14:32:36","2024-09-16 14:05:16",Dev Token,Dev Token
+Medical Check Up Standar,340,M79.1,53,active,2,"2024-09-11 14:32:37","2024-09-16 14:05:17",Dev Token,Dev Token
+Standard Medical Check Up,340,M79.1,53,active,2,"2024-09-11 14:32:37","2024-09-16 14:05:17",Dev Token,Dev Token
+Kolesterol Total,341,M79.1,55,active,3,"2024-09-11 14:32:38","2024-09-16 14:05:19",Dev Token,Dev Token
+Total Cholesterol,341,M79.1,55,active,3,"2024-09-11 14:32:38","2024-09-16 14:05:19",Dev Token,Dev Token
+Injeksi Vitamin B12 (Saraf & Otak),342,M79.1,356,active,4,"2024-09-11 14:32:39","2024-09-16 14:05:20",Dev Token,Dev Token
+Vitamin B12 Injection (Neuron & Brain),342,M79.1,356,active,4,"2024-09-11 14:32:39","2024-09-16 14:05:20",Dev Token,Dev Token
+Laju Endap Darah (LED),343,M79.1,127,active,5,"2024-09-11 14:32:40","2024-09-16 14:05:21",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),343,M79.1,127,active,5,"2024-09-11 14:32:40","2024-09-16 14:05:21",Dev Token,Dev Token
+Urine Rutin,344,N34,158,active,4,"2024-09-11 14:32:41","2024-09-16 14:05:25",Dev Token,Dev Token
+Urinalysis Complete Panel,344,N34,158,active,4,"2024-09-11 14:32:41","2024-09-16 14:05:25",Dev Token,Dev Token
+Cek Infeksi Menular Seksual,345,N34,17,active,2,"2024-09-11 14:32:42","2024-09-16 14:05:23",Dev Token,Dev Token
+Sexual Transmitted Infection Test,345,N34,17,active,2,"2024-09-11 14:32:42","2024-09-16 14:05:23",Dev Token,Dev Token
+Hematologi Rutin,346,N34,208,active,3,"2024-09-11 14:32:43","2024-09-16 14:05:24",Dev Token,Dev Token
+Complete Blood Count,346,N34,208,active,3,"2024-09-11 14:32:43","2024-09-16 14:05:24",Dev Token,Dev Token
+Syphilis (TPHA),347,N34,98,active,5,"2024-09-11 14:32:45","2024-09-16 14:05:26",Dev Token,Dev Token
+Syphilis (TPHA),347,N34,98,active,5,"2024-09-11 14:32:45","2024-09-16 14:05:26",Dev Token,Dev Token
+Urine Rutin,348,N39.0,158,active,1,"2024-09-11 14:32:46","2024-09-16 14:05:27",Dev Token,Dev Token
+Urinalysis Complete Panel,348,N39.0,158,active,1,"2024-09-11 14:32:46","2024-09-16 14:05:27",Dev Token,Dev Token
+Hematologi Rutin,349,N39.0,208,active,2,"2024-09-11 14:32:47","2024-09-16 14:05:28",Dev Token,Dev Token
+Complete Blood Count,349,N39.0,208,active,2,"2024-09-11 14:32:47","2024-09-16 14:05:28",Dev Token,Dev Token
+Cek Fungsi Ginjal,350,N39.0,6,active,3,"2024-09-11 14:32:48","2024-09-16 14:05:29",Dev Token,Dev Token
+Renal Function test,350,N39.0,6,active,3,"2024-09-11 14:32:48","2024-09-16 14:05:29",Dev Token,Dev Token
+Ureum,351,N39.0,69,active,4,"2024-09-11 14:32:50","2024-09-16 14:05:30",Dev Token,Dev Token
+Ureum,351,N39.0,69,active,4,"2024-09-11 14:32:50","2024-09-16 14:05:30",Dev Token,Dev Token
+Asam Urat,352,N39.0,54,active,5,"2024-09-11 14:32:51","2024-09-16 14:05:31",Dev Token,Dev Token
+Uric Acid,352,N39.0,54,active,5,"2024-09-11 14:32:51","2024-09-16 14:05:31",Dev Token,Dev Token
+Hematologi Rutin,353,N76,208,active,1,"2024-09-11 14:32:52","2024-09-16 14:05:32",Dev Token,Dev Token
+Complete Blood Count,353,N76,208,active,1,"2024-09-11 14:32:52","2024-09-16 14:05:32",Dev Token,Dev Token
+Urine Rutin,354,N76,158,active,2,"2024-09-11 14:32:53","2024-09-16 14:05:33",Dev Token,Dev Token
+Urinalysis Complete Panel,354,N76,158,active,2,"2024-09-11 14:32:53","2024-09-16 14:05:33",Dev Token,Dev Token
+Cek Infeksi Menular Seksual,355,N76,17,active,3,"2024-09-11 14:32:54","2024-09-16 14:05:34",Dev Token,Dev Token
+Sexual Transmitted Infection Test,355,N76,17,active,3,"2024-09-11 14:32:54","2024-09-16 14:05:34",Dev Token,Dev Token
+Injeksi Vitamin C,356,N76,320,active,4,"2024-09-11 14:32:55","2024-09-16 14:05:35",Dev Token,Dev Token
+Vitamin C Injection,356,N76,320,active,4,"2024-09-11 14:32:55","2024-09-16 14:05:35",Dev Token,Dev Token
+Glukosa Puasa,357,N76,194,active,5,"2024-09-11 14:32:56","2024-09-16 14:05:36",Dev Token,Dev Token
+Fasting Blood Glucose,357,N76,194,active,5,"2024-09-11 14:32:56","2024-09-16 14:05:36",Dev Token,Dev Token
+Urine Rutin,358,N76.0,158,active,1,"2024-09-11 14:32:57","2024-09-16 14:05:37",Dev Token,Dev Token
+Urinalysis Complete Panel,358,N76.0,158,active,1,"2024-09-11 14:32:57","2024-09-16 14:05:37",Dev Token,Dev Token
+Cek Infeksi Menular Seksual,359,N76.0,17,active,2,"2024-09-11 14:32:58","2024-09-16 14:05:39",Dev Token,Dev Token
+Sexual Transmitted Infection Test,359,N76.0,17,active,2,"2024-09-11 14:32:58","2024-09-16 14:05:39",Dev Token,Dev Token
+Anti-HIV (Rapid),360,N76.0,132,active,3,"2024-09-11 14:32:59","2024-09-16 14:05:40",Dev Token,Dev Token
+Anti-HIV (Rapid),360,N76.0,132,active,3,"2024-09-11 14:32:59","2024-09-16 14:05:40",Dev Token,Dev Token
+Anti-HSV-1 IgM,361,N76.0,75,active,4,"2024-09-11 14:33:00","2024-09-16 14:05:41",Dev Token,Dev Token
+Anti-HSV-1 IgM,361,N76.0,75,active,4,"2024-09-11 14:33:00","2024-09-16 14:05:41",Dev Token,Dev Token
+Anti-HSV-2 IgG,362,N76.0,130,active,5,"2024-09-11 14:33:01","2024-09-16 14:05:42",Dev Token,Dev Token
+Anti-HSV-2 IgG,362,N76.0,130,active,5,"2024-09-11 14:33:01","2024-09-16 14:05:42",Dev Token,Dev Token
+Estradiol,363,N91.2,188,active,1,"2024-09-11 14:33:02","2024-09-16 14:05:43",Dev Token,Dev Token
+Estradiol,363,N91.2,188,active,1,"2024-09-11 14:33:02","2024-09-16 14:05:43",Dev Token,Dev Token
+Beta-hCG (Serum),364,N91.2,195,active,2,"2024-09-11 14:33:03","2024-09-16 14:05:44",Dev Token,Dev Token
+Beta-hCG (Serum),364,N91.2,195,active,2,"2024-09-11 14:33:03","2024-09-16 14:05:44",Dev Token,Dev Token
+Progesteron,365,N91.2,78,active,3,"2024-09-11 14:33:04","2024-09-16 14:05:45",Dev Token,Dev Token
+Progesterone,365,N91.2,78,active,3,"2024-09-11 14:33:04","2024-09-16 14:05:45",Dev Token,Dev Token
+Prolaktin,366,N91.2,77,active,4,"2024-09-11 14:33:05","2024-09-16 14:05:46",Dev Token,Dev Token
+Prolactin,366,N91.2,77,active,4,"2024-09-11 14:33:05","2024-09-16 14:05:46",Dev Token,Dev Token
+Follicle-Stimulating Hormone (FSH),367,N91.2,133,active,5,"2024-09-11 14:33:06","2024-09-16 14:05:47",Dev Token,Dev Token
+Follicle-Stimulating Hormone (FSH),367,N91.2,133,active,5,"2024-09-11 14:33:06","2024-09-16 14:05:47",Dev Token,Dev Token
+Estradiol,368,N92.6,188,active,1,"2024-09-11 14:33:07","2024-09-16 14:05:48",Dev Token,Dev Token
+Estradiol,368,N92.6,188,active,1,"2024-09-11 14:33:07","2024-09-16 14:05:48",Dev Token,Dev Token
+Progesteron,369,N92.6,78,active,2,"2024-09-11 14:33:08","2024-09-16 14:05:49",Dev Token,Dev Token
+Progesterone,369,N92.6,78,active,2,"2024-09-11 14:33:08","2024-09-16 14:05:49",Dev Token,Dev Token
+Prolaktin,370,N92.6,77,active,3,"2024-09-11 14:33:09","2024-09-16 14:05:50",Dev Token,Dev Token
+Prolactin,370,N92.6,77,active,3,"2024-09-11 14:33:09","2024-09-16 14:05:50",Dev Token,Dev Token
+Hematologi Rutin,371,N92.6,208,active,4,"2024-09-11 14:33:10","2024-09-16 14:05:51",Dev Token,Dev Token
+Complete Blood Count,371,N92.6,208,active,4,"2024-09-11 14:33:10","2024-09-16 14:05:51",Dev Token,Dev Token
+Follicle-Stimulating Hormone (FSH),372,N92.6,133,active,5,"2024-09-11 14:33:11","2024-09-16 14:05:52",Dev Token,Dev Token
+Follicle-Stimulating Hormone (FSH),372,N92.6,133,active,5,"2024-09-11 14:33:11","2024-09-16 14:05:52",Dev Token,Dev Token
+Hematologi Rutin,373,N93.9,208,active,1,"2024-09-11 14:33:12","2024-09-16 14:05:53",Dev Token,Dev Token
+Complete Blood Count,373,N93.9,208,active,1,"2024-09-11 14:33:12","2024-09-16 14:05:53",Dev Token,Dev Token
+Estradiol,374,N93.9,188,active,2,"2024-09-11 14:33:13","2024-09-16 14:05:54",Dev Token,Dev Token
+Estradiol,374,N93.9,188,active,2,"2024-09-11 14:33:13","2024-09-16 14:05:54",Dev Token,Dev Token
+Progesteron,375,N93.9,78,active,3,"2024-09-11 14:33:14","2024-09-16 14:05:55",Dev Token,Dev Token
+Progesterone,375,N93.9,78,active,3,"2024-09-11 14:33:14","2024-09-16 14:05:55",Dev Token,Dev Token
+Vitamin D,376,N93.9,24,active,4,"2024-09-11 14:33:15","2024-09-16 14:05:56",Dev Token,Dev Token
+Vitamin D,376,N93.9,24,active,4,"2024-09-11 14:33:15","2024-09-16 14:05:56",Dev Token,Dev Token
+Beta-hCG (Serum),377,N93.9,195,active,5,"2024-09-11 14:33:16","2024-09-16 14:05:57",Dev Token,Dev Token
+Beta-hCG (Serum),377,N93.9,195,active,5,"2024-09-11 14:33:16","2024-09-16 14:05:57",Dev Token,Dev Token
+Hematologi Rutin,378,O20.0,208,active,5,"2024-09-11 14:33:17","2024-10-03 17:40:02",Dev Token,Dev Token
+Complete Blood Count,378,O20.0,208,active,5,"2024-09-11 14:33:17","2024-10-03 17:40:02",Dev Token,Dev Token
+Urine Rutin,379,O20.0,158,active,2,"2024-09-11 14:33:18","2024-09-16 14:05:59",Dev Token,Dev Token
+Urinalysis Complete Panel,379,O20.0,158,active,2,"2024-09-11 14:33:18","2024-09-16 14:05:59",Dev Token,Dev Token
+Vitamin D,380,O20.0,24,active,3,"2024-09-11 14:33:19","2024-09-16 14:06:01",Dev Token,Dev Token
+Vitamin D,380,O20.0,24,active,3,"2024-09-11 14:33:19","2024-09-16 14:06:01",Dev Token,Dev Token
+Beta-hCG (Serum),381,O20.0,195,active,4,"2024-09-11 14:33:20","2024-09-16 14:06:02",Dev Token,Dev Token
+Beta-hCG (Serum),381,O20.0,195,active,4,"2024-09-11 14:33:20","2024-09-16 14:06:02",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,382,O20.0,126,inactive,5,"2024-09-11 14:33:21","2024-10-03 17:48:01",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,382,O20.0,126,inactive,5,"2024-09-11 14:33:21","2024-10-03 17:48:01",Dev Token,Dev Token
+Hematologi Rutin,383,R05,208,active,4,"2024-09-11 14:33:23","2024-10-03 17:40:03",Dev Token,Dev Token
+Complete Blood Count,383,R05,208,active,4,"2024-09-11 14:33:23","2024-10-03 17:40:03",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,384,R05,7,active,2,"2024-09-11 14:33:24","2024-09-16 14:06:05",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,384,R05,7,active,2,"2024-09-11 14:33:24","2024-09-16 14:06:05",Dev Token,Dev Token
+C-Reactive Protein (CRP),385,R05,124,active,3,"2024-09-11 14:33:25","2024-09-16 14:06:06",Dev Token,Dev Token
+C-Reactive Protein (CRP),385,R05,124,active,3,"2024-09-11 14:33:25","2024-09-16 14:06:06",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,386,R05,126,inactive,4,"2024-09-11 14:33:26","2024-10-03 17:48:02",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,386,R05,126,inactive,4,"2024-09-11 14:33:26","2024-10-03 17:48:02",Dev Token,Dev Token
+Cek Demam Lengkap,387,R05,296,inactive,5,"2024-09-11 14:33:27","2024-10-03 17:48:28",Dev Token,Dev Token
+Complete Fever Check,387,R05,296,inactive,5,"2024-09-11 14:33:27","2024-10-03 17:48:28",Dev Token,Dev Token
+Hematologi Rutin,388,R10.4,208,active,5,"2024-09-11 14:33:28","2024-10-03 17:40:04",Dev Token,Dev Token
+Complete Blood Count,388,R10.4,208,active,5,"2024-09-11 14:33:28","2024-10-03 17:40:04",Dev Token,Dev Token
+Urine Rutin,389,R10.4,158,active,2,"2024-09-11 14:33:29","2024-09-16 14:06:10",Dev Token,Dev Token
+Urinalysis Complete Panel,389,R10.4,158,active,2,"2024-09-11 14:33:29","2024-09-16 14:06:10",Dev Token,Dev Token
+Laju Endap Darah (LED),390,R10.4,127,active,3,"2024-09-11 14:33:30","2024-09-16 14:06:11",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),390,R10.4,127,active,3,"2024-09-11 14:33:30","2024-09-16 14:06:11",Dev Token,Dev Token
+Pemeriksaan Feses Rutin,391,R10.4,200,active,4,"2024-09-11 14:33:31","2024-09-16 14:06:12",Dev Token,Dev Token
+Stool Microscopic Examination,391,R10.4,200,active,4,"2024-09-11 14:33:31","2024-09-16 14:06:12",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,392,R10.4,126,inactive,5,"2024-09-11 14:33:32","2024-10-03 17:48:03",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,392,R10.4,126,inactive,5,"2024-09-11 14:33:32","2024-10-03 17:48:03",Dev Token,Dev Token
+Hematologi Rutin,393,R11,208,active,2,"2024-09-11 14:33:33","2024-10-03 17:40:05",Dev Token,Dev Token
+Complete Blood Count,393,R11,208,active,2,"2024-09-11 14:33:33","2024-10-03 17:40:05",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,394,R11,126,inactive,2,"2024-09-11 14:33:34","2024-10-03 17:48:05",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,394,R11,126,inactive,2,"2024-09-11 14:33:34","2024-10-03 17:48:05",Dev Token,Dev Token
+Laju Endap Darah (LED),395,R11,127,active,3,"2024-09-11 14:33:35","2024-09-16 14:06:16",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),395,R11,127,active,3,"2024-09-11 14:33:35","2024-09-16 14:06:16",Dev Token,Dev Token
+Cek Elektrolit,396,R11,244,active,4,"2024-09-11 14:33:36","2024-09-16 14:06:17",Dev Token,Dev Token
+Electrolyte Test,396,R11,244,active,4,"2024-09-11 14:33:36","2024-09-16 14:06:17",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),397,R11,102,active,5,"2024-09-11 14:33:37","2024-09-16 14:06:18",Dev Token,Dev Token
+Helicobacter pylori Stool Antigen (HPSA),397,R11,102,active,5,"2024-09-11 14:33:37","2024-09-16 14:06:18",Dev Token,Dev Token
+Hematologi Rutin,398,R50,208,active,1,"2024-09-11 14:33:38","2024-09-16 14:06:19",Dev Token,Dev Token
+Complete Blood Count,398,R50,208,active,1,"2024-09-11 14:33:38","2024-09-16 14:06:19",Dev Token,Dev Token
+Cek Demam Lengkap,399,R50,296,inactive,2,"2024-09-11 14:33:39","2024-10-03 17:48:29",Dev Token,Dev Token
+Complete Fever Check,399,R50,296,inactive,2,"2024-09-11 14:33:39","2024-10-03 17:48:29",Dev Token,Dev Token
+Cek Demam Berdarah,400,R50,249,inactive,3,"2024-09-11 14:33:40","2024-10-03 17:48:56",Dev Token,Dev Token
+Dengue Fever Check,400,R50,249,inactive,3,"2024-09-11 14:33:40","2024-10-03 17:48:56",Dev Token,Dev Token
+Urine Rutin,401,R50,158,active,4,"2024-09-11 14:33:41","2024-09-16 14:06:23",Dev Token,Dev Token
+Urinalysis Complete Panel,401,R50,158,active,4,"2024-09-11 14:33:41","2024-09-16 14:06:23",Dev Token,Dev Token
+Widal,402,R50,117,active,5,"2024-09-11 14:33:42","2024-09-16 14:06:24",Dev Token,Dev Token
+Widal,402,R50,117,active,5,"2024-09-11 14:33:42","2024-09-16 14:06:24",Dev Token,Dev Token
+Hematologi Rutin,403,R50.0,208,active,3,"2024-09-11 14:33:43","2024-10-03 17:40:06",Dev Token,Dev Token
+Complete Blood Count,403,R50.0,208,active,3,"2024-09-11 14:33:43","2024-10-03 17:40:06",Dev Token,Dev Token
+Cek Demam Lengkap,404,R50.0,296,inactive,2,"2024-09-11 14:33:44","2024-10-03 17:48:30",Dev Token,Dev Token
+Complete Fever Check,404,R50.0,296,inactive,2,"2024-09-11 14:33:44","2024-10-03 17:48:30",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,405,R50.0,126,inactive,3,"2024-09-11 14:33:45","2024-10-03 17:48:06",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,405,R50.0,126,inactive,3,"2024-09-11 14:33:45","2024-10-03 17:48:06",Dev Token,Dev Token
+Anti-Salmonella IgM,406,R50.0,173,active,4,"2024-09-11 14:33:46","2024-09-16 14:06:28",Dev Token,Dev Token
+Anti-Salmonella IgM,406,R50.0,173,active,4,"2024-09-11 14:33:46","2024-09-16 14:06:28",Dev Token,Dev Token
+Anti-Dengue IgG dan IgM (Rapid),407,R50.0,137,active,5,"2024-09-11 14:33:47","2024-09-16 14:06:29",Dev Token,Dev Token
+Anti-Dengue IgG and IgM (Rapid),407,R50.0,137,active,5,"2024-09-11 14:33:47","2024-09-16 14:06:29",Dev Token,Dev Token
+Hematologi Rutin,408,R50.9,208,active,1,"2024-09-11 14:33:48","2024-09-16 14:06:30",Dev Token,Dev Token
+Complete Blood Count,408,R50.9,208,active,1,"2024-09-11 14:33:48","2024-09-16 14:06:30",Dev Token,Dev Token
+Cek Demam Lengkap,409,R50.9,296,inactive,2,"2024-09-11 14:33:49","2024-10-03 17:48:31",Dev Token,Dev Token
+Complete Fever Check,409,R50.9,296,inactive,2,"2024-09-11 14:33:49","2024-10-03 17:48:31",Dev Token,Dev Token
+Anti-Dengue IgG dan IgM (Rapid),410,R50.9,137,active,3,"2024-09-11 14:33:50","2024-09-16 14:06:32",Dev Token,Dev Token
+Anti-Dengue IgG and IgM (Rapid),410,R50.9,137,active,3,"2024-09-11 14:33:50","2024-09-16 14:06:32",Dev Token,Dev Token
+Antigen Dengue NS1 (Rapid),411,R50.9,120,active,4,"2024-09-11 14:33:51","2024-09-16 14:06:33",Dev Token,Dev Token
+Antigen Dengue NS1 (Rapid),411,R50.9,120,active,4,"2024-09-11 14:33:51","2024-09-16 14:06:33",Dev Token,Dev Token
+Cek Demam Berdarah,412,R50.9,249,inactive,5,"2024-09-11 14:33:52","2024-10-03 17:48:57",Dev Token,Dev Token
+Dengue Fever Check,412,R50.9,249,inactive,5,"2024-09-11 14:33:52","2024-10-03 17:48:57",Dev Token,Dev Token
+Hematologi Rutin,413,R51,208,active,2,"2024-09-11 14:33:54","2024-10-03 17:40:07",Dev Token,Dev Token
+Complete Blood Count,413,R51,208,active,2,"2024-09-11 14:33:54","2024-10-03 17:40:07",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,414,R51,126,inactive,2,"2024-09-11 14:33:55","2024-10-03 17:48:07",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,414,R51,126,inactive,2,"2024-09-11 14:33:55","2024-10-03 17:48:07",Dev Token,Dev Token
+Medical Check Up Hemat,415,R51,32,active,3,"2024-09-11 14:33:56","2024-09-16 14:06:37",Dev Token,Dev Token
+Pocket-friendly Medical Check Up,415,R51,32,active,3,"2024-09-11 14:33:56","2024-09-16 14:06:37",Dev Token,Dev Token
+Cek Kolesterol,416,R51,43,active,4,"2024-09-11 14:33:57","2024-09-16 14:06:38",Dev Token,Dev Token
+Cholesterol Test,416,R51,43,active,4,"2024-09-11 14:33:57","2024-09-16 14:06:38",Dev Token,Dev Token
+Kolesterol Total,417,R51,55,active,5,"2024-09-11 14:33:58","2024-09-16 14:06:39",Dev Token,Dev Token
+Total Cholesterol,417,R51,55,active,5,"2024-09-11 14:33:58","2024-09-16 14:06:39",Dev Token,Dev Token
+Hematologi Rutin,418,R52.9,208,active,3,"2024-09-11 14:33:59","2024-10-03 17:40:08",Dev Token,Dev Token
+Complete Blood Count,418,R52.9,208,active,3,"2024-09-11 14:33:59","2024-10-03 17:40:08",Dev Token,Dev Token
+Urine Rutin,419,R52.9,158,active,2,"2024-09-11 14:34:00","2024-09-16 14:06:41",Dev Token,Dev Token
+Urinalysis Complete Panel,419,R52.9,158,active,2,"2024-09-11 14:34:00","2024-09-16 14:06:41",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,420,R52.9,126,inactive,3,"2024-09-11 14:34:01","2024-10-03 17:48:08",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,420,R52.9,126,inactive,3,"2024-09-11 14:34:01","2024-10-03 17:48:08",Dev Token,Dev Token
+Injeksi Vitamin C,421,R52.9,320,active,4,"2024-09-11 14:34:02","2024-09-16 14:06:44",Dev Token,Dev Token
+Vitamin C Injection,421,R52.9,320,active,4,"2024-09-11 14:34:02","2024-09-16 14:06:44",Dev Token,Dev Token
+Halodoc Medical Check-Up Complete,422,R52.9,18,inactive,5,"2024-09-11 14:34:03","2024-10-03 17:48:14",Dev Token,Dev Token
+Halodoc Complete Medical Check-Up,422,R52.9,18,inactive,5,"2024-09-11 14:34:03","2024-10-03 17:48:14",Dev Token,Dev Token
+Hematologi Rutin,423,T78.4,208,active,1,"2024-09-11 14:34:04","2024-09-16 14:06:46",Dev Token,Dev Token
+Complete Blood Count,423,T78.4,208,active,1,"2024-09-11 14:34:04","2024-09-16 14:06:46",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,424,T78.4,7,active,2,"2024-09-11 14:34:05","2024-09-16 14:06:47",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,424,T78.4,7,active,2,"2024-09-11 14:34:05","2024-09-16 14:06:47",Dev Token,Dev Token
+Panel Alergi,425,T78.4,283,inactive,3,"2024-09-11 14:34:06","2024-10-03 17:48:49",Dev Token,Dev Token
+Allergy Panel,425,T78.4,283,inactive,3,"2024-09-11 14:34:06","2024-10-03 17:48:49",Dev Token,Dev Token
+IgE Total,426,T78.4,115,active,4,"2024-09-11 14:34:07","2024-09-16 14:06:49",Dev Token,Dev Token
+Total IgE,426,T78.4,115,active,4,"2024-09-11 14:34:07","2024-09-16 14:06:49",Dev Token,Dev Token
+Eosinofil,427,T78.4,121,active,5,"2024-09-11 14:34:08","2024-09-16 14:06:50",Dev Token,Dev Token
+Eosinophil Count,427,T78.4,121,active,5,"2024-09-11 14:34:08","2024-09-16 14:06:50",Dev Token,Dev Token
+Hematologi Rutin,428,W57,208,active,1,"2024-09-11 14:34:09","2024-09-16 14:06:51",Dev Token,Dev Token
+Complete Blood Count,428,W57,208,active,1,"2024-09-11 14:34:09","2024-09-16 14:06:51",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,429,W57,7,active,2,"2024-09-11 14:34:10","2024-09-16 14:06:52",Dev Token,Dev Token
+Allergy IgE Atopy Panel Indonesia,429,W57,7,active,2,"2024-09-11 14:34:10","2024-09-16 14:06:52",Dev Token,Dev Token
+Panel Alergi,430,W57,283,inactive,3,"2024-09-11 14:34:11","2024-10-03 17:48:50",Dev Token,Dev Token
+Allergy Panel,430,W57,283,inactive,3,"2024-09-11 14:34:11","2024-10-03 17:48:50",Dev Token,Dev Token
+IgE Total,431,W57,115,active,4,"2024-09-11 14:34:12","2024-09-16 14:06:54",Dev Token,Dev Token
+Total IgE,431,W57,115,active,4,"2024-09-11 14:34:12","2024-09-16 14:06:54",Dev Token,Dev Token
+Injeksi Vitamin C,432,W57,320,active,5,"2024-09-11 14:34:13","2024-09-16 14:06:55",Dev Token,Dev Token
+Vitamin C Injection,432,W57,320,active,5,"2024-09-11 14:34:13","2024-09-16 14:06:55",Dev Token,Dev Token
+Hematologi Rutin,433,Z00,208,active,1,"2024-09-11 14:34:14","2024-09-16 14:06:56",Dev Token,Dev Token
+Complete Blood Count,433,Z00,208,active,1,"2024-09-11 14:34:14","2024-09-16 14:06:56",Dev Token,Dev Token
+Medical Check Up Hemat,434,Z00,32,active,2,"2024-09-11 14:34:15","2024-09-16 14:06:57",Dev Token,Dev Token
+Pocket-friendly Medical Check Up,434,Z00,32,active,2,"2024-09-11 14:34:15","2024-09-16 14:06:57",Dev Token,Dev Token
+Urine Rutin,435,Z00,158,active,3,"2024-09-11 14:34:16","2024-09-16 14:06:58",Dev Token,Dev Token
+Urinalysis Complete Panel,435,Z00,158,active,3,"2024-09-11 14:34:16","2024-09-16 14:06:58",Dev Token,Dev Token
+Cek Infeksi Menular Seksual,436,Z00,17,active,4,"2024-09-11 14:34:17","2024-09-16 14:06:59",Dev Token,Dev Token
+Sexual Transmitted Infection Test,436,Z00,17,active,4,"2024-09-11 14:34:17","2024-09-16 14:06:59",Dev Token,Dev Token
+Medical Check Up Standar,437,Z00,53,active,5,"2024-09-11 14:34:18","2024-09-16 14:07:01",Dev Token,Dev Token
+Standard Medical Check Up,437,Z00,53,active,5,"2024-09-11 14:34:18","2024-09-16 14:07:01",Dev Token,Dev Token
+Hematologi Rutin,438,Z00.1,208,active,3,"2024-09-11 14:34:19","2024-10-03 17:40:09",Dev Token,Dev Token
+Complete Blood Count,438,Z00.1,208,active,3,"2024-09-11 14:34:19","2024-10-03 17:40:09",Dev Token,Dev Token
+Pemeriksaan Feses Rutin,439,Z00.1,200,active,2,"2024-09-11 14:34:20","2024-09-16 14:07:03",Dev Token,Dev Token
+Stool Microscopic Examination,439,Z00.1,200,active,2,"2024-09-11 14:34:20","2024-09-16 14:07:03",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,440,Z00.1,126,inactive,3,"2024-09-11 14:34:21","2024-10-03 17:48:09",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,440,Z00.1,126,inactive,3,"2024-09-11 14:34:21","2024-10-03 17:48:09",Dev Token,Dev Token
+Urine Rutin,441,Z00.1,158,active,4,"2024-09-11 14:34:22","2024-09-16 14:07:05",Dev Token,Dev Token
+Urinalysis Complete Panel,441,Z00.1,158,active,4,"2024-09-11 14:34:22","2024-09-16 14:07:05",Dev Token,Dev Token
+Cek Anemia Kurang Besi,442,Z00.1,22,inactive,5,"2024-09-11 14:34:23","2024-10-03 17:48:59",Dev Token,Dev Token
+Fe Deficiency Anemia Check,442,Z00.1,22,inactive,5,"2024-09-11 14:34:23","2024-10-03 17:48:59",Dev Token,Dev Token
+Beta-hCG (Serum),443,Z30,195,active,1,"2024-09-11 14:34:24","2024-09-16 14:07:07",Dev Token,Dev Token
+Beta-hCG (Serum),443,Z30,195,active,1,"2024-09-11 14:34:24","2024-09-16 14:07:07",Dev Token,Dev Token
+Hematologi Rutin,444,Z30,208,active,2,"2024-09-11 14:34:25","2024-09-16 14:07:08",Dev Token,Dev Token
+Complete Blood Count,444,Z30,208,active,2,"2024-09-11 14:34:25","2024-09-16 14:07:08",Dev Token,Dev Token
+Injeksi Vitamin C,445,Z30,320,active,3,"2024-09-11 14:34:26","2024-09-16 14:07:09",Dev Token,Dev Token
+Vitamin C Injection,445,Z30,320,active,3,"2024-09-11 14:34:26","2024-09-16 14:07:09",Dev Token,Dev Token
+Vitamin B12,446,Z30,240,active,4,"2024-09-11 14:34:27","2024-09-16 14:07:10",Dev Token,Dev Token
+Vitamin B12,446,Z30,240,active,4,"2024-09-11 14:34:27","2024-09-16 14:07:10",Dev Token,Dev Token
+Vitamin D,447,Z30,24,active,5,"2024-09-11 14:34:29","2024-09-16 14:07:11",Dev Token,Dev Token
+Vitamin D,447,Z30,24,active,5,"2024-09-11 14:34:29","2024-09-16 14:07:11",Dev Token,Dev Token
+Hematologi Rutin,448,Z30.0,208,active,1,"2024-09-11 14:34:30","2024-09-16 14:07:12",Dev Token,Dev Token
+Complete Blood Count,448,Z30.0,208,active,1,"2024-09-11 14:34:30","2024-09-16 14:07:12",Dev Token,Dev Token
+Beta-hCG (Serum),449,Z30.0,195,active,2,"2024-09-11 14:34:31","2024-09-16 14:07:13",Dev Token,Dev Token
+Beta-hCG (Serum),449,Z30.0,195,active,2,"2024-09-11 14:34:31","2024-09-16 14:07:13",Dev Token,Dev Token
+Urine Rutin,450,Z30.0,158,active,3,"2024-09-11 14:34:32","2024-09-16 14:07:14",Dev Token,Dev Token
+Urinalysis Complete Panel,450,Z30.0,158,active,3,"2024-09-11 14:34:32","2024-09-16 14:07:14",Dev Token,Dev Token
+Serum Iron,451,Z30.0,87,active,4,"2024-09-11 14:34:33","2024-09-16 14:07:15",Dev Token,Dev Token
+Serum Iron,451,Z30.0,87,active,4,"2024-09-11 14:34:33","2024-09-16 14:07:15",Dev Token,Dev Token
+Progesteron,452,Z30.0,78,active,5,"2024-09-11 14:34:34","2024-09-16 14:07:16",Dev Token,Dev Token
+Progesterone,452,Z30.0,78,active,5,"2024-09-11 14:34:34","2024-09-16 14:07:16",Dev Token,Dev Token
+Hematologi Rutin,453,Z34,208,active,1,"2024-09-11 14:34:35","2024-09-16 14:07:18",Dev Token,Dev Token
+Complete Blood Count,453,Z34,208,active,1,"2024-09-11 14:34:35","2024-09-16 14:07:18",Dev Token,Dev Token
+Urine Rutin,454,Z34,158,active,2,"2024-09-11 14:34:36","2024-09-16 14:07:19",Dev Token,Dev Token
+Urinalysis Complete Panel,454,Z34,158,active,2,"2024-09-11 14:34:36","2024-09-16 14:07:19",Dev Token,Dev Token
+Beta-hCG (Serum),455,Z34,195,active,3,"2024-09-11 14:34:37","2024-09-16 14:07:20",Dev Token,Dev Token
+Beta-hCG (Serum),455,Z34,195,active,3,"2024-09-11 14:34:37","2024-09-16 14:07:20",Dev Token,Dev Token
+Anti-Toxoplasma IgG,456,Z34,125,active,4,"2024-09-11 14:34:38","2024-09-16 14:07:21",Dev Token,Dev Token
+Anti-Toxoplasma IgG,456,Z34,125,active,4,"2024-09-11 14:34:38","2024-09-16 14:07:21",Dev Token,Dev Token
+Anti-Toxoplasma IgM,457,Z34,118,active,5,"2024-09-11 14:34:39","2024-09-16 14:07:22",Dev Token,Dev Token
+Anti-Toxoplasma IgM,457,Z34,118,active,5,"2024-09-11 14:34:39","2024-09-16 14:07:22",Dev Token,Dev Token
+Hematologi Rutin,458,Z71,208,active,1,"2024-09-11 14:34:40","2024-09-16 14:07:23",Dev Token,Dev Token
+Complete Blood Count,458,Z71,208,active,1,"2024-09-11 14:34:40","2024-09-16 14:07:23",Dev Token,Dev Token
+Medical Check Up Hemat,459,Z71,32,active,2,"2024-09-11 14:34:41","2024-09-16 14:07:24",Dev Token,Dev Token
+Pocket-friendly Medical Check Up,459,Z71,32,active,2,"2024-09-11 14:34:41","2024-09-16 14:07:24",Dev Token,Dev Token
+Urine Rutin,460,Z71,158,active,3,"2024-09-11 14:34:42","2024-09-16 14:07:25",Dev Token,Dev Token
+Urinalysis Complete Panel,460,Z71,158,active,3,"2024-09-11 14:34:42","2024-09-16 14:07:25",Dev Token,Dev Token
+Glukosa Puasa,461,Z71,194,active,4,"2024-09-11 14:34:43","2024-09-16 14:07:26",Dev Token,Dev Token
+Fasting Blood Glucose,461,Z71,194,active,4,"2024-09-11 14:34:43","2024-09-16 14:07:26",Dev Token,Dev Token
+Kolesterol LDL-Direk,462,Z71,176,active,5,"2024-09-11 14:34:44","2024-09-16 14:07:27",Dev Token,Dev Token
+Direct LDL Cholesterol,462,Z71,176,active,5,"2024-09-11 14:34:44","2024-09-16 14:07:27",Dev Token,Dev Token
+Medical Check Up Standar,463,Z71.9,53,active,1,"2024-09-11 14:34:45","2024-09-16 14:07:28",Dev Token,Dev Token
+Standard Medical Check Up,463,Z71.9,53,active,1,"2024-09-11 14:34:45","2024-09-16 14:07:28",Dev Token,Dev Token
+Urine Rutin,464,Z71.9,158,active,2,"2024-09-11 14:34:46","2024-09-16 14:07:29",Dev Token,Dev Token
+Urinalysis Complete Panel,464,Z71.9,158,active,2,"2024-09-11 14:34:46","2024-09-16 14:07:29",Dev Token,Dev Token
+Hematologi Lengkap,465,Z71.9,28,inactive,3,"2024-09-11 14:34:47","2024-10-03 17:48:53",Dev Token,Dev Token
+Complete Hematology,465,Z71.9,28,inactive,3,"2024-09-11 14:34:47","2024-10-03 17:48:53",Dev Token,Dev Token
+Glukosa Sewaktu,466,Z71.9,170,active,4,"2024-09-11 14:34:48","2024-09-16 14:07:31",Dev Token,Dev Token
+Random Blood Glucose,466,Z71.9,170,active,4,"2024-09-11 14:34:48","2024-09-16 14:07:31",Dev Token,Dev Token
+Hematologi Rutin,467,Z71.9,208,active,5,"2024-09-11 14:34:49","2024-09-16 14:07:32",Dev Token,Dev Token
+Complete Blood Count,467,Z71.9,208,active,5,"2024-09-11 14:34:49","2024-09-16 14:07:32",Dev Token,Dev Token
+Hematologi Rutin,468,Z76,208,active,4,"2024-09-11 14:34:50","2024-10-03 17:40:11",Dev Token,Dev Token
+Complete Blood Count,468,Z76,208,active,4,"2024-09-11 14:34:50","2024-10-03 17:40:11",Dev Token,Dev Token
+Serum Iron,469,Z76,87,active,2,"2024-09-11 14:34:51","2024-09-16 14:07:34",Dev Token,Dev Token
+Serum Iron,469,Z76,87,active,2,"2024-09-11 14:34:51","2024-09-16 14:07:34",Dev Token,Dev Token
+Urine Rutin,470,Z76,158,active,3,"2024-09-11 14:34:52","2024-09-16 14:07:35",Dev Token,Dev Token
+Urinalysis Complete Panel,470,Z76,158,active,3,"2024-09-11 14:34:52","2024-09-16 14:07:35",Dev Token,Dev Token
+Hematologi Rutin dengan Retikulosit,471,Z76,126,inactive,4,"2024-09-11 14:34:53","2024-10-03 17:48:10",Dev Token,Dev Token
+Complete Blood Count with Reticulocytes,471,Z76,126,inactive,4,"2024-09-11 14:34:53","2024-10-03 17:48:10",Dev Token,Dev Token
+Laju Endap Darah (LED),472,Z76,127,active,5,"2024-09-11 14:34:54","2024-09-16 14:07:38",Dev Token,Dev Token
+Erythrocyte Sedimentation Rate (ESR),472,Z76,127,active,5,"2024-09-11 14:34:54","2024-09-16 14:07:38",Dev Token,Dev Token
+Hematologi Lengkap,473,B34.9,28,inactive,1,"2024-09-11 14:34:55","2024-10-03 17:48:54",Dev Token,Dev Token
+Complete Hematology,473,B34.9,28,inactive,1,"2024-09-11 14:34:55","2024-10-03 17:48:54",Dev Token,Dev Token
+Cek Demam Lengkap,474,B34.9,296,inactive,2,"2024-09-11 14:34:56","2024-10-03 17:48:32",Dev Token,Dev Token
+Complete Fever Check,474,B34.9,296,inactive,2,"2024-09-11 14:34:56","2024-10-03 17:48:32",Dev Token,Dev Token
+Cek Demam Berdarah,475,B34.9,249,inactive,3,"2024-09-11 14:34:57","2024-10-03 17:48:58",Dev Token,Dev Token
+Dengue Fever Check,475,B34.9,249,inactive,3,"2024-09-11 14:34:57","2024-10-03 17:48:58",Dev Token,Dev Token
+Anti-SARS-CoV-2 IgG S-RBD,476,B34.9,131,active,4,"2024-09-11 14:34:59","2024-09-16 14:07:42",Dev Token,Dev Token
+Anti-SARS-CoV-2 IgG S-RBD,476,B34.9,131,active,4,"2024-09-11 14:34:59","2024-09-16 14:07:42",Dev Token,Dev Token
+HBsAg (Rapid),477,B34.9,162,active,5,"2024-09-11 14:35:00","2024-09-16 14:07:43",Dev Token,Dev Token
+HBsAg (Rapid),477,B34.9,162,active,5,"2024-09-11 14:35:00","2024-09-16 14:07:43",Dev Token,Dev Token
+Hematologi Lengkap,478,B34.2,28,inactive,1,"2024-09-11 14:35:01","2024-10-03 17:48:55",Dev Token,Dev Token
+Complete Hematology,478,B34.2,28,inactive,1,"2024-09-11 14:35:01","2024-10-03 17:48:55",Dev Token,Dev Token
+Swab Test Antigen,479,B34.2,33,active,2,"2024-09-11 14:35:02","2024-09-16 14:07:45",Dev Token,Dev Token
+Swab Antigen COVID-19,479,B34.2,33,active,2,"2024-09-11 14:35:02","2024-09-16 14:07:45",Dev Token,Dev Token
+PCR Swab COVID-19 (Hasil H+1),480,B34.2,47,active,3,"2024-09-11 14:35:03","2024-09-16 14:07:46",Dev Token,Dev Token
+Swab PCR COVID-19 (Result in D+1),480,B34.2,47,active,3,"2024-09-11 14:35:03","2024-09-16 14:07:46",Dev Token,Dev Token
+C-Reactive Protein (CRP),481,B34.2,124,active,4,"2024-09-11 14:35:04","2024-09-16 14:07:47",Dev Token,Dev Token
+C-Reactive Protein (CRP),481,B34.2,124,active,4,"2024-09-11 14:35:04","2024-09-16 14:07:47",Dev Token,Dev Token
+Anti-SARS-CoV-2 IgG S-RBD,482,B34.2,131,active,5,"2024-09-11 14:35:05","2024-09-16 14:07:48",Dev Token,Dev Token
+Anti-SARS-CoV-2 IgG S-RBD,482,B34.2,131,active,5,"2024-09-11 14:35:05","2024-09-16 14:07:48",Dev Token,Dev Token
+Cek Infeksi Saluran Kemih,483,A54,212,active,5,"2024-10-03 17:39:24","2024-10-03 17:39:24",Dev Token,Dev Token
+Urinary Tract Infection Test,483,A54,212,active,5,"2024-10-03 17:39:24","2024-10-03 17:39:24",Dev Token,Dev Token
+Cek Infeksi Saluran Kemih,484,B37,212,active,3,"2024-10-03 17:39:25","2024-10-03 17:39:25",Dev Token,Dev Token
+Urinary Tract Infection Test,484,B37,212,active,3,"2024-10-03 17:39:25","2024-10-03 17:39:25",Dev Token,Dev Token
+Cek Infeksi Saluran Kemih,485,B37.3,212,active,3,"2024-10-03 17:39:26","2024-10-03 17:39:26",Dev Token,Dev Token
+Urinary Tract Infection Test,485,B37.3,212,active,3,"2024-10-03 17:39:26","2024-10-03 17:39:26",Dev Token,Dev Token
+Hematologi Rutin,486,I84,208,active,2,"2024-10-03 17:39:41","2024-10-03 17:39:41",Dev Token,Dev Token
+Complete Blood Count,486,I84,208,active,2,"2024-10-03 17:39:41","2024-10-03 17:39:41",Dev Token,Dev Token
+Medical Check Up Lengkap,487,A88.1,217,active,2,"2024-10-03 17:40:12","2024-10-03 17:40:12",Dev Token,Dev Token
+Full Medical Check Up,487,A88.1,217,active,2,"2024-10-03 17:40:12","2024-10-03 17:40:12",Dev Token,Dev Token
+Medical Check Up Lengkap,488,I10,217,active,3,"2024-10-03 17:40:13","2024-10-03 17:40:13",Dev Token,Dev Token
+Full Medical Check Up,488,I10,217,active,3,"2024-10-03 17:40:13","2024-10-03 17:40:13",Dev Token,Dev Token
+Medical Check Up Lengkap,489,J02.0,217,active,4,"2024-10-03 17:40:14","2024-10-03 17:40:14",Dev Token,Dev Token
+Full Medical Check Up,489,J02.0,217,active,4,"2024-10-03 17:40:14","2024-10-03 17:40:14",Dev Token,Dev Token
+Medical Check Up Lengkap,490,R52.9,217,active,5,"2024-10-03 17:40:15","2024-10-03 17:40:15",Dev Token,Dev Token
+Full Medical Check Up,490,R52.9,217,active,5,"2024-10-03 17:40:15","2024-10-03 17:40:15",Dev Token,Dev Token
+Cek Lab Untuk Demam,491,B01,297,active,5,"2024-10-03 17:40:16","2024-10-03 17:40:16",Dev Token,Dev Token
+Lab Test for Fever,491,B01,297,active,5,"2024-10-03 17:40:16","2024-10-03 17:40:16",Dev Token,Dev Token
+Cek Lab Untuk Demam,492,B26,297,active,4,"2024-10-03 17:40:17","2024-10-03 17:40:17",Dev Token,Dev Token
+Lab Test for Fever,492,B26,297,active,4,"2024-10-03 17:40:17","2024-10-03 17:40:17",Dev Token,Dev Token
+Cek Lab Untuk Demam,493,B34.8,297,active,2,"2024-10-03 17:40:18","2024-10-03 17:40:18",Dev Token,Dev Token
+Lab Test for Fever,493,B34.8,297,active,2,"2024-10-03 17:40:18","2024-10-03 17:40:18",Dev Token,Dev Token
+Cek Lab Untuk Demam,494,H00.0,297,active,4,"2024-10-03 17:40:19","2024-10-03 17:40:19",Dev Token,Dev Token
+Lab Test for Fever,494,H00.0,297,active,4,"2024-10-03 17:40:19","2024-10-03 17:40:19",Dev Token,Dev Token
+Cek Lab Untuk Demam,495,J02,297,active,4,"2024-10-03 17:40:20","2024-10-03 17:40:20",Dev Token,Dev Token
+Lab Test for Fever,495,J02,297,active,4,"2024-10-03 17:40:20","2024-10-03 17:40:20",Dev Token,Dev Token
+Cek Lab Untuk Demam,496,J02.0,297,active,2,"2024-10-03 17:40:21","2024-10-03 17:40:21",Dev Token,Dev Token
+Lab Test for Fever,496,J02.0,297,active,2,"2024-10-03 17:40:21","2024-10-03 17:40:21",Dev Token,Dev Token
+Cek Lab Untuk Demam,497,J02.8,297,active,3,"2024-10-03 17:40:22","2024-10-03 17:40:22",Dev Token,Dev Token
+Lab Test for Fever,497,J02.8,297,active,3,"2024-10-03 17:40:22","2024-10-03 17:40:22",Dev Token,Dev Token
+Cek Lab Untuk Demam,498,J03,297,active,1,"2024-10-03 17:40:23","2024-10-03 17:40:23",Dev Token,Dev Token
+Lab Test for Fever,498,J03,297,active,1,"2024-10-03 17:40:23","2024-10-03 17:40:23",Dev Token,Dev Token
+Cek Lab Untuk Demam,499,J06,297,active,2,"2024-10-03 17:40:24","2024-10-03 17:40:24",Dev Token,Dev Token
+Lab Test for Fever,499,J06,297,active,2,"2024-10-03 17:40:24","2024-10-03 17:40:24",Dev Token,Dev Token
+Cek Lab Untuk Demam,500,J06.9,297,active,5,"2024-10-03 17:40:25","2024-10-03 17:40:25",Dev Token,Dev Token
+Lab Test for Fever,500,J06.9,297,active,5,"2024-10-03 17:40:25","2024-10-03 17:40:25",Dev Token,Dev Token
+Cek Lab Untuk Demam,501,J11,297,active,2,"2024-10-03 17:40:26","2024-10-03 17:40:26",Dev Token,Dev Token
+Lab Test for Fever,501,J11,297,active,2,"2024-10-03 17:40:26","2024-10-03 17:40:26",Dev Token,Dev Token
+Cek Lab Untuk Demam,502,L50.0,297,active,4,"2024-10-03 17:40:28","2024-10-03 17:40:28",Dev Token,Dev Token
+Lab Test for Fever,502,L50.0,297,active,4,"2024-10-03 17:40:28","2024-10-03 17:40:28",Dev Token,Dev Token
+Cek Lab Untuk Demam,503,R05,297,active,5,"2024-10-03 17:40:29","2024-10-03 17:40:29",Dev Token,Dev Token
+Lab Test for Fever,503,R05,297,active,5,"2024-10-03 17:40:29","2024-10-03 17:40:29",Dev Token,Dev Token
+Cek Lab Untuk Demam,504,R50,297,active,2,"2024-10-03 17:40:30","2024-10-03 17:40:30",Dev Token,Dev Token
+Lab Test for Fever,504,R50,297,active,2,"2024-10-03 17:40:30","2024-10-03 17:40:30",Dev Token,Dev Token
+Cek Lab Untuk Demam,505,R50.0,297,active,2,"2024-10-03 17:40:31","2024-10-03 17:40:31",Dev Token,Dev Token
+Lab Test for Fever,505,R50.0,297,active,2,"2024-10-03 17:40:31","2024-10-03 17:40:31",Dev Token,Dev Token
+Cek Lab Untuk Demam,506,R50.9,297,active,2,"2024-10-03 17:40:32","2024-10-03 17:40:32",Dev Token,Dev Token
+Lab Test for Fever,506,R50.9,297,active,2,"2024-10-03 17:40:32","2024-10-03 17:40:32",Dev Token,Dev Token
+Cek Lab Untuk Demam,507,B34.9,297,active,2,"2024-10-03 17:40:33","2024-10-03 17:40:33",Dev Token,Dev Token
+Lab Test for Fever,507,B34.9,297,active,2,"2024-10-03 17:40:33","2024-10-03 17:40:33",Dev Token,Dev Token
+Cek Darah Untuk Alergi,508,B86,269,active,3,"2024-10-03 17:40:34","2024-10-03 17:40:34",Dev Token,Dev Token
+Allergy Blood Test,508,B86,269,active,3,"2024-10-03 17:40:34","2024-10-03 17:40:34",Dev Token,Dev Token
+Cek Darah Untuk Alergi,509,H01.0,269,active,2,"2024-10-03 17:40:35","2024-10-03 17:40:35",Dev Token,Dev Token
+Allergy Blood Test,509,H01.0,269,active,2,"2024-10-03 17:40:35","2024-10-03 17:40:35",Dev Token,Dev Token
+Cek Darah Untuk Alergi,510,H10,269,active,3,"2024-10-03 17:40:36","2024-10-03 17:40:36",Dev Token,Dev Token
+Allergy Blood Test,510,H10,269,active,3,"2024-10-03 17:40:36","2024-10-03 17:40:36",Dev Token,Dev Token
+Cek Darah Untuk Alergi,511,J30,269,active,3,"2024-10-03 17:40:37","2024-10-03 17:40:37",Dev Token,Dev Token
+Allergy Blood Test,511,J30,269,active,3,"2024-10-03 17:40:37","2024-10-03 17:40:37",Dev Token,Dev Token
+Cek Darah Untuk Alergi,512,J45,269,active,5,"2024-10-03 17:40:38","2024-10-03 17:40:38",Dev Token,Dev Token
+Allergy Blood Test,512,J45,269,active,5,"2024-10-03 17:40:38","2024-10-03 17:40:38",Dev Token,Dev Token
+Cek Darah Untuk Alergi,513,L08.0,269,active,5,"2024-10-03 17:40:39","2024-10-03 17:40:39",Dev Token,Dev Token
+Allergy Blood Test,513,L08.0,269,active,5,"2024-10-03 17:40:39","2024-10-03 17:40:39",Dev Token,Dev Token
+Cek Darah Untuk Alergi,514,L20,269,active,3,"2024-10-03 17:40:40","2024-10-03 17:40:40",Dev Token,Dev Token
+Allergy Blood Test,514,L20,269,active,3,"2024-10-03 17:40:40","2024-10-03 17:40:40",Dev Token,Dev Token
+Cek Darah Untuk Alergi,515,L20.8,269,active,3,"2024-10-03 17:40:41","2024-10-03 17:40:41",Dev Token,Dev Token
+Allergy Blood Test,515,L20.8,269,active,3,"2024-10-03 17:40:41","2024-10-03 17:40:41",Dev Token,Dev Token
+Cek Darah Untuk Alergi,516,L23,269,active,4,"2024-10-03 17:40:42","2024-10-03 17:40:42",Dev Token,Dev Token
+Allergy Blood Test,516,L23,269,active,4,"2024-10-03 17:40:42","2024-10-03 17:40:42",Dev Token,Dev Token
+Cek Darah Untuk Alergi,517,L24,269,active,5,"2024-10-03 17:40:43","2024-10-03 17:40:43",Dev Token,Dev Token
+Allergy Blood Test,517,L24,269,active,5,"2024-10-03 17:40:43","2024-10-03 17:40:43",Dev Token,Dev Token
+Cek Darah Untuk Alergi,518,L30,269,active,3,"2024-10-03 17:40:44","2024-10-03 17:40:44",Dev Token,Dev Token
+Allergy Blood Test,518,L30,269,active,3,"2024-10-03 17:40:44","2024-10-03 17:40:44",Dev Token,Dev Token
+Cek Darah Untuk Alergi,519,L30.8,269,active,3,"2024-10-03 17:40:45","2024-10-03 17:40:45",Dev Token,Dev Token
+Allergy Blood Test,519,L30.8,269,active,3,"2024-10-03 17:40:45","2024-10-03 17:40:45",Dev Token,Dev Token
+Cek Darah Untuk Alergi,520,L30.9,269,active,5,"2024-10-03 17:40:47","2024-10-03 17:40:47",Dev Token,Dev Token
+Allergy Blood Test,520,L30.9,269,active,5,"2024-10-03 17:40:47","2024-10-03 17:40:47",Dev Token,Dev Token
+Cek Darah Untuk Alergi,521,L50,269,active,3,"2024-10-03 17:40:48","2024-10-03 17:40:48",Dev Token,Dev Token
+Allergy Blood Test,521,L50,269,active,3,"2024-10-03 17:40:48","2024-10-03 17:40:48",Dev Token,Dev Token
+Cek Darah Untuk Alergi,522,L50.0,269,active,3,"2024-10-03 17:40:49","2024-10-03 17:40:49",Dev Token,Dev Token
+Allergy Blood Test,522,L50.0,269,active,3,"2024-10-03 17:40:49","2024-10-03 17:40:49",Dev Token,Dev Token
+Cek Darah Untuk Alergi,523,T78.4,269,active,3,"2024-10-03 17:40:50","2024-10-03 17:40:50",Dev Token,Dev Token
+Allergy Blood Test,523,T78.4,269,active,3,"2024-10-03 17:40:50","2024-10-03 17:40:50",Dev Token,Dev Token
+Cek Darah Untuk Alergi,524,W57,269,active,3,"2024-10-03 17:40:51","2024-10-03 17:40:51",Dev Token,Dev Token
+Allergy Blood Test,524,W57,269,active,3,"2024-10-03 17:40:51","2024-10-03 17:40:51",Dev Token,Dev Token
+Cek Darah Lengkap (Hematologi Lengkap),525,I84,218,active,1,"2024-10-03 17:40:52","2024-10-03 17:40:52",Dev Token,Dev Token
+Complete Blood Count Test,525,I84,218,active,1,"2024-10-03 17:40:52","2024-10-03 17:40:52",Dev Token,Dev Token
+Cek Darah Lengkap (Hematologi Lengkap),526,J11,218,active,5,"2024-10-03 17:40:53","2024-10-03 17:40:53",Dev Token,Dev Token
+Complete Blood Count Test,526,J11,218,active,5,"2024-10-03 17:40:53","2024-10-03 17:40:53",Dev Token,Dev Token
+Cek Darah Lengkap (Hematologi Lengkap),527,Z71.9,218,active,3,"2024-10-03 17:40:54","2024-10-03 17:40:54",Dev Token,Dev Token
+Complete Blood Count Test,527,Z71.9,218,active,3,"2024-10-03 17:40:54","2024-10-03 17:40:54",Dev Token,Dev Token
+Cek Darah Lengkap (Hematologi Lengkap),528,B34.9,218,active,1,"2024-10-03 17:40:55","2024-10-03 17:40:55",Dev Token,Dev Token
+Complete Blood Count Test,528,B34.9,218,active,1,"2024-10-03 17:40:55","2024-10-03 17:40:55",Dev Token,Dev Token
+Cek Darah Lengkap (Hematologi Lengkap),529,B34.2,218,active,1,"2024-10-03 17:40:56","2024-10-03 17:40:56",Dev Token,Dev Token
+Complete Blood Count Test,529,B34.2,218,active,1,"2024-10-03 17:40:56","2024-10-03 17:40:56",Dev Token,Dev Token
+Cek Darah Untuk Demam Berdarah,530,R50,348,active,3,"2024-10-03 17:40:57","2024-10-03 17:40:57",Dev Token,Dev Token
+Dengue Fever Test,530,R50,348,active,3,"2024-10-03 17:40:57","2024-10-03 17:40:57",Dev Token,Dev Token
+Cek Darah Untuk Demam Berdarah,531,R50.9,348,active,5,"2024-10-03 17:40:58","2024-10-03 17:40:58",Dev Token,Dev Token
+Dengue Fever Test,531,R50.9,348,active,5,"2024-10-03 17:40:58","2024-10-03 17:40:58",Dev Token,Dev Token
+Cek Darah Untuk Demam Berdarah,532,B34.9,348,active,3,"2024-10-03 17:40:59","2024-10-03 17:40:59",Dev Token,Dev Token
+Dengue Fever Test,532,B34.9,348,active,3,"2024-10-03 17:40:59","2024-10-03 17:40:59",Dev Token,Dev Token
+Cek Anemia dan Zat Besi,533,Z00.1,209,active,5,"2024-10-03 17:41:00","2024-10-03 17:41:00",Dev Token,Dev Token
+Anemia Test and Iron Level,533,Z00.1,209,active,5,"2024-10-03 17:41:00","2024-10-03 17:41:00",Dev Token,Dev Token
+Vaksinasi Cacar Api/Herpes Zoster (Shingrix),534,B01,411,active,1,"2025-06-25 14:22:46","2025-06-25 14:22:46",Dev Token,Dev Token
+Herpes Zoster Vaccination (Shingrix),534,B01,411,active,1,"2025-06-25 14:22:46","2025-06-25 14:22:46",Dev Token,Dev Token
+Anti-HSV-1 IgG,535,B01,156,active,3,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Anti-HSV-1 IgG,535,B01,156,active,3,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Injeksi Vitamin C,536,B01,320,active,4,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Vitamin C Injection,536,B01,320,active,4,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Infus Multivitamin (Cernevit),537,B01,347,active,5,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Multivitamin Infusion (Cernevit),537,B01,347,active,5,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Vaksinasi Cacar Api/Herpes Zoster (Shingrix),538,B02,411,active,1,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Herpes Zoster Vaccination (Shingrix),538,B02,411,active,1,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Anti-HSV-1 IgG,539,B02,156,active,3,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
+Anti-HSV-1 IgG,539,B02,156,active,3,"2025-06-25 14:22:47","2025-06-25 14:22:47",Dev Token,Dev Token
