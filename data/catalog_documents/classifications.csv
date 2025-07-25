@@ -1,0 +1,15 @@
+"id","created_at","created_by","updated_at","updated_by","external_id","entity_type","name","type"
+1,"2019-10-04 16:20:47",Control Center,"2019-10-04 16:20:47",Control Center,"2f5efa70-ede6-4af2-be25-d088a039d722",product,On-Demand,D1
+2,"2019-10-05 22:24:45",Control Center,"2020-01-26 12:15:42",Control Center,ee15f7c9-18b0-4d3f-ad30-68a56ef48294,product,Regular Consumption,reguler_consumption
+3,"2019-10-05 22:26:07",Control Center,"2020-01-29 15:56:36",Control Center,c4be970e-44ca-47bd-86fa-20eeaaa60b4e,product,NCD / Chronic diseases,ncd
+4,"2019-10-05 22:26:52",Control Center,"2020-01-29 16:30:57",Control Center,"62f63f6d-ab7c-496c-b8b7-8db8e9afa53b",product,Generic,generic
+5,"2019-10-05 22:27:09",Control Center,"2019-10-05 22:27:09",Control Center,"08ef6208-ba4b-45cb-97ed-337b0373bbf4",product,Others,others
+6,"2022-01-05 11:09:18",CC Token,"2022-01-05 11:09:18",CC Token,bfb6ce61-5d0e-4de3-adbe-d33643128573,product,top 1000,Top 1000
+7,"2022-01-05 11:09:48",CC Token,"2022-01-05 11:09:48",CC Token,b8ada796-8320-489f-8fa7-50153fee567b,product,Not top 1000,Top 1000
+8,"2022-01-11 10:48:24",CC Token,"2022-01-11 10:48:24",CC Token,ad236499-c6f7-48ae-9862-b9fba23931ec,product,NCD,Business Category
+9,"2022-01-11 10:48:52",CC Token,"2022-01-11 10:48:52",CC Token,"8ea51d11-dafa-4f99-bb7e-508bd234473f",product,Vitamin & Supplement,Business Category
+10,"2022-01-11 10:49:05",CC Token,"2022-01-11 10:49:05",CC Token,"4b0f960d-a6ee-4655-9655-69938391b07d",product,Specialty,Business Category
+11,"2022-01-11 10:49:27",CC Token,"2022-01-11 10:49:27",CC Token,"61ceb023-f1fc-4100-8a6b-66384b25f28b",product,Rx - Others,Business Category
+12,"2025-05-27 09:47:44",CC Token,"2025-05-27 10:50:02",CC Token,bbc643fd-5f39-46d7-8454-372081fcec09,product,Digital Clinic**,Business Category
+13,"2025-05-27 10:50:55",CC Token,"2025-05-27 10:50:55",CC Token,a767706f-0548-4d4e-86f4-e0b779c623f2,product,Haloskin / Halofit,Digital Clinic
+14,"2025-05-30 16:07:57",CC Token,"2025-05-30 16:07:57",CC Token,d2bfd0ce-01dc-44b5-8de7-d54840591ad1,product,SKU Voucher,Voucher

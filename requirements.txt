@@ -20,6 +20,9 @@ rich>=13.7.0
 prompt-toolkit>=3.0.0
 colorama>=0.4.6
 
+# Streamlit Web App
+streamlit>=1.28.0
+
 # Async Support
 asyncio>=3.4.3
 aiohttp>=3.9.0

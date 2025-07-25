@@ -65,4 +65,4 @@ echo "✨ Setup complete! Starting Halodoc AI Assistant..."
 echo ""
 
 # Run the assistant
-python main.py
+streamlit run app.py

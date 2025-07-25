@@ -16,7 +16,12 @@ A sophisticated multi-agent AI system built with Google's Generative AI SDK for 
 - 🤖 Context-aware conversation management
 - 💳 Mock payment and order services for demo
 - 🎨 Rich console interface with real-time updates
+- 🌐 Modern web interface with Streamlit
 - 📊 Session tracking and analytics
+
+### Interface Options
+- **CLI Version (main.py)**: Terminal-based interface with rich console formatting
+- **Web App (app.py)**: Modern web interface with interactive chat, sidebar controls, and real-time document loading
 
 ## 🚀 Quick Start
 
@@ -56,9 +61,22 @@ mkdir -p data/faq_documents
 ```
 
 6. **Run the assistant**
+
+**Option A: CLI Version (Terminal Interface)**
 ```bash
 python main.py
 ```
+
+**Option B: Web App Version (Streamlit Interface)**
+```bash
+# Method 1: Using the run script
+python run_web_app.py
+
+# Method 2: Direct streamlit command
+streamlit run app.py
+```
+
+The web app will open in your browser at `http://localhost:8501`
 
 ## 📁 Project Structure
 
@@ -80,8 +98,11 @@ halodoc_homecare_assistant/
 │   │   └── mock_services.py   # Payment & order mocks
 │   └── utils/
 ├── data/
-│   └── faq_documents/         # Place PDF files here
-├── main.py                    # Entry point
+│   ├── faq_documents/         # Place PDF files here
+│   └── catalog_documents/     # Place CSV files here
+├── main.py                    # CLI entry point
+├── app.py                     # Streamlit web app
+├── run_web_app.py            # Web app launcher script
 ├── requirements.txt
 └── .env.example
 ```
